@@ -1,0 +1,66 @@
+{
+    "@context": "http://schema.org",
+    "@id": "https://doi.org/10.5281/zenodo.19311915",
+    "@type": "https://schema.org/Dataset",
+    "identifier": "https://doi.org/10.5281/zenodo.19311915",
+    "name": "Party financial declarations, Latvia, 2002-2024",
+    "creator": [
+        {
+            "name": "Ikstens, Jānis",
+            "givenName": "Jānis",
+            "familyName": "Ikstens",
+            "affiliation": [
+                {
+                    "@type": "Organization",
+                    "name": "University of Latvia"
+                }
+            ],
+            "@id": "https://orcid.org/0000-0003-3191-6305",
+            "@type": "Person"
+        }
+    ],
+    "author": [
+        {
+            "name": "Ikstens, Jānis",
+            "givenName": "Jānis",
+            "familyName": "Ikstens",
+            "affiliation": [
+                {
+                    "@type": "Organization",
+                    "name": "University of Latvia"
+                }
+            ],
+            "@id": "https://orcid.org/0000-0003-3191-6305",
+            "@type": "Person"
+        }
+    ],
+    "publisher": {
+        "@type": "Organization",
+        "name": "Zenodo"
+    },
+    "dateCreated": "2026-03-29T10:53:46.363234+00:00",
+    "dateModified": "2026-03-29T10:53:46.564658+00:00",
+    "datePublished": "2026-03-29",
+    "contentSize": "517.45 KB",
+    "size": "517.45 KB",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "description": "<p>Data from annual financial declarations submitted to the supervising authority by Latvian political parties, 2002-2024.</p>",
+    "funding": [
+        {
+            "funder": {
+                "@type": "Organization",
+                "@id": "05g3mes96",
+                "name": "University of Latvia"
+            },
+            "name": "Public funding and party organizational development in Latvia and Estonia (LU-BA-ZG-2024/1-0019)"
+        }
+    ],
+    "url": "https://zenodo.org/records/19311915",
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "contentUrl": "https://zenodo.org/api/records/19311915/files/LV annual financial declarations_Zenodo.xlsx/content",
+            "encodingFormat": "application/octet-stream"
+        }
+    ]
+}
