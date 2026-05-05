@@ -2,7 +2,7 @@
 
 Šajā mapē atrodas seši metadatu eksporti, ar kuriem strādāsit praktiskajā uzdevumā. Faili ir lokāli sagatavoti, lai darbs nebūtu atkarīgs no tīkla pieejamības.
 
-**Bagātā kopa** (Balodis, _Biogrāfisko interviju transkripcijas…_, dataverse.lv, DOI [`10.71782/DATA/QVUERT`](https://doi.org/10.71782/DATA/QVUERT)):
+**Pilnīgā kopa** (Balodis, _Biogrāfisko interviju transkripcijas…_, dataverse.lv, DOI [`10.71782/DATA/QVUERT`](https://doi.org/10.71782/DATA/QVUERT)):
 
 - `qvuert-schema-org.json` — schema.org JSON-LD
 - `qvuert-datacite.xml` — DataCite XML

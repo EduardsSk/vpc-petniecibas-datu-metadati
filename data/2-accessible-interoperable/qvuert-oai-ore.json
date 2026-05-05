@@ -1,1 +1,100 @@
-{"dcterms:modified":"2026-04-27","dcterms:creator":"DataverseLV","@type":"ore:ResourceMap","schema:additionalType":"Dataverse OREMap Format v1.0.1","dvcore:generatedBy":{"@type":"schema:SoftwareApplication","schema:name":"Dataverse","schema:version":"6.7.1 build 1955-8e18f64","schema:url":"https://github.com/iqss/dataverse"},"@id":"https://dv.dataverse.lv/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.71782/DATA/QVUERT","ore:describes":{"citation:dsDescription":{"citation:dsDescriptionValue":"Pētījumā izmantota jauktu metožu pieeja, kas apvieno ideju, ideoloģiju un sociāli kultūras konteksta historiogrāfiskus pētījumus ar kvalitatīvu empīrisko izpēti. Pieeja ietver (a) vēsturisko avotu izpēti par periodiem (1944–1953 un 1981–1990) un (b) kvalitatīvu empīrisko izpēti, konkrētāk biogrāfiskās izpētes metodes, lai atklātu pārrāvumus Padomju Latvijas filozofijā no pirmās personas skatpunkta. Biogrāfiskās izpētes metožu izmantošana sniedz perspektīvu, kas ļauj pilnvērtīgāk izprast pārrāvuma procesus Latvijas intelektuālajā vēsturē Padomju periodā.\nDatu kopa ietver 6 biogrāfisko interviju transkripcijas ar respondentiem, kuri profesionāli nodarbojušies ar filozofiju Latvijas PSR, par viņu pieredzi un lietotajām stratēģijām, pielāgojoties padomju režīma ideoloģiskajiem apstākļiem.\n\nThe study employs a mixed-methods approach that combines historiographical analysis of ideas, ideologies, and socio-cultural contexts with qualitative empirical research. The approach includes (a) an examination of historical sources from the periods 1944–1953 and 1981–1990, and (b) qualitative empirical inquiry, specifically the use of biographical research methods, to uncover ruptures in Soviet Latvian philosophy from a first-person perspective. The use of biographical methods provides a perspective that enables a more comprehensive understanding of processes of rupture in Latvia’s intellectual history during the Soviet period.\nThe dataset consists of six biographical interview transcripts with respondents who were professionally engaged in philosophy in the Latvian SSR, focusing on their experiences and the strategies they employed to adapt to the ideological conditions of the Soviet regime.","citation:dsDescriptionDate":"2026-02-26"},"citation:datasetContact":{"citation:datasetContactName":"Balodis, Andrejs","citation:datasetContactAffiliation":"Latvijas Kultūras akadēmija","citation:datasetContactEmail":"andrejs.balodis@lka.edu.lv"},"citation:keyword":{"citation:keywordValue":"filozofija Latvijā, padomju filozofija, konversijas, pārrāvumi, epistēmiskās stratēģijas"},"author":{"citation:authorName":"Balodis, Andrejs","citation:authorAffiliation":"Latvijas Kultūras akadēmija","authorIdentifierScheme":"ORCID","authorIdentifier":"0000-0002-0688-9213"},"citation:depositor":"Balodis, Andrejs","dateOfDeposit":"2026-02-26","subject":"Arts and Humanities","title":"Biogrāfisko interviju transkripcijas projektā \"Konversijas un parāvumi: latviešu filozofijas epistēmiskās stratēģijas padomju periodā (1944-1991)\"","citation:notesText":"Dati satur sensitīvu informāciju. Interviju dalībnieki transkripcijās ir pseidonimizēti, taču biogrāfisko interviju specifikas dēļ iespējama netieša identificēšana, tādēļ dati ir ar ierobežotu pieejamību un glabājas atbildīgajā institūcijā. Informācija par citām personām ir anonimizēta. Datu kopa pieejama daļēji slēgtā piekļuvē - pēc pamatota pieprasījuma, sazinoties ar pētnieku Andreju Balodi.\n\nThe data contain sensitive information. Interview participants have been pseudonymized in the transcripts; however, due to the nature of biographical interviews, indirect identification remains possible, and therefore the data are subject to restricted access. Information about other individuals mentioned in the transcripts has been anonymized. The dataset is available upon request, contacting researcher Andrejs Balodis.","language":"Latvian","@id":"https://doi.org/10.71782/DATA/QVUERT","@type":["ore:Aggregation","schema:Dataset"],"schema:version":"1.0","schema:name":"Biogrāfisko interviju transkripcijas projektā \"Konversijas un parāvumi: latviešu filozofijas epistēmiskās stratēģijas padomju periodā (1944-1991)\"","schema:dateModified":"2026-04-27 10:40:11.569","schema:datePublished":"2026-04-27","schema:creativeWorkStatus":"RELEASED","dvcore:termsOfUse":"Datu kopa pieejama daļēji slēgtā piekļuvē - pēc pamatota pieprasījuma, pieeju piešķir vadošais pētnieks Andrejs Balodis.","dvcore:fileTermsOfAccess":{"dvcore:termsOfAccess":"Datu kopa pieejama daļēji slēgtā piekļuvē - pēc pamatota pieprasījuma, pieeju piešķir vadošais pētnieks Andrejs Balodis.","dvcore:fileRequestAccess":true},"schema:includedInDataCatalog":"DataverseLV","schema:isPartOf":{"schema:name":"Latvian Academy of Culture","@id":"https://dv.dataverse.lv/dataverse/lka","schema:description":"The Latvian Academy of Culture (LAC) Dataverse provides access to research and project data deposited by LAC researchers in the fields of humanities, arts, and social sciences, as well as in interdisciplinary domains. Datasets may be open or restricted, based on their specificity, supporting responsible data management and the principles of open science. \n<br>\n<br>\nLatvijas Kultūras akadēmijas (LKA) Dataverse kolekcijā pieejami LKA pētnieku deponētie pētījumu un projektu dati humanitāro, mākslas un sociālo zinātņu jomās, kā arī starpdisciplinārās nozarēs. Datu kopas var būt atvērtas vai ar ierobežotu piekļuvi atkarībā no to specifikas, veicinot atbildīgu datu pārvaldību un atvērtās zinātnes principus.","schema:isPartOf":{"schema:name":"DataverseLV","@id":"https://dv.dataverse.lv/dataverse/root"}},"ore:aggregates":[{"schema:name":"ReadMe.txt","dvcore:restricted":false,"schema:version":1,"dvcore:datasetVersionId":696,"@id":"https://dv.dataverse.lv/file.xhtml?fileId=5005","schema:sameAs":"https://dv.dataverse.lv/api/access/datafile/5005","@type":"ore:AggregatedResource","schema:fileFormat":"text/plain","dvcore:filesize":2318,"dvcore:storageIdentifier":"file://19dba396af7-a31afb6b7ae9","dvcore:rootDataFileId":-1,"dvcore:checksum":{"@type":"MD5","@value":"a0c97845ce5feaa906c5e19ff5931fdd"}}],"schema:hasPart":["https://dv.dataverse.lv/file.xhtml?fileId=5005"]},"@context":{"author":"http://purl.org/dc/terms/creator","authorIdentifier":"http://purl.org/spar/datacite/AgentIdentifier","authorIdentifierScheme":"http://purl.org/spar/datacite/AgentIdentifierScheme","citation":"https://dataverse.org/schema/citation/","dateOfDeposit":"http://purl.org/dc/terms/dateSubmitted","dcterms":"http://purl.org/dc/terms/","dvcore":"https://dataverse.org/schema/core#","language":"http://purl.org/dc/terms/language","ore":"http://www.openarchives.org/ore/terms/","schema":"http://schema.org/","subject":"http://purl.org/dc/terms/subject","title":"http://purl.org/dc/terms/title"}}
+{
+    "dcterms:modified": "2026-04-27",
+    "dcterms:creator": "DataverseLV",
+    "@type": "ore:ResourceMap",
+    "schema:additionalType": "Dataverse OREMap Format v1.0.1",
+    "dvcore:generatedBy": {
+        "@type": "schema:SoftwareApplication",
+        "schema:name": "Dataverse",
+        "schema:version": "6.7.1 build 1955-8e18f64",
+        "schema:url": "https://github.com/iqss/dataverse"
+    },
+    "@id": "https://dv.dataverse.lv/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.71782/DATA/QVUERT",
+    "ore:describes": {
+        "citation:dsDescription": {
+            "citation:dsDescriptionValue": "Pētījumā izmantota jauktu metožu pieeja, kas apvieno ideju, ideoloģiju un sociāli kultūras konteksta historiogrāfiskus pētījumus ar kvalitatīvu empīrisko izpēti. Pieeja ietver (a) vēsturisko avotu izpēti par periodiem (1944–1953 un 1981–1990) un (b) kvalitatīvu empīrisko izpēti, konkrētāk biogrāfiskās izpētes metodes, lai atklātu pārrāvumus Padomju Latvijas filozofijā no pirmās personas skatpunkta. Biogrāfiskās izpētes metožu izmantošana sniedz perspektīvu, kas ļauj pilnvērtīgāk izprast pārrāvuma procesus Latvijas intelektuālajā vēsturē Padomju periodā.\nDatu kopa ietver 6 biogrāfisko interviju transkripcijas ar respondentiem, kuri profesionāli nodarbojušies ar filozofiju Latvijas PSR, par viņu pieredzi un lietotajām stratēģijām, pielāgojoties padomju režīma ideoloģiskajiem apstākļiem.\n\nThe study employs a mixed-methods approach that combines historiographical analysis of ideas, ideologies, and socio-cultural contexts with qualitative empirical research. The approach includes (a) an examination of historical sources from the periods 1944–1953 and 1981–1990, and (b) qualitative empirical inquiry, specifically the use of biographical research methods, to uncover ruptures in Soviet Latvian philosophy from a first-person perspective. The use of biographical methods provides a perspective that enables a more comprehensive understanding of processes of rupture in Latvia’s intellectual history during the Soviet period.\nThe dataset consists of six biographical interview transcripts with respondents who were professionally engaged in philosophy in the Latvian SSR, focusing on their experiences and the strategies they employed to adapt to the ideological conditions of the Soviet regime.",
+            "citation:dsDescriptionDate": "2026-02-26"
+        },
+        "citation:datasetContact": {
+            "citation:datasetContactName": "Balodis, Andrejs",
+            "citation:datasetContactAffiliation": "Latvijas Kultūras akadēmija",
+            "citation:datasetContactEmail": "andrejs.balodis@lka.edu.lv"
+        },
+        "citation:keyword": {
+            "citation:keywordValue": "filozofija Latvijā, padomju filozofija, konversijas, pārrāvumi, epistēmiskās stratēģijas"
+        },
+        "author": {
+            "citation:authorName": "Balodis, Andrejs",
+            "citation:authorAffiliation": "Latvijas Kultūras akadēmija",
+            "authorIdentifierScheme": "ORCID",
+            "authorIdentifier": "0000-0002-0688-9213"
+        },
+        "citation:depositor": "Balodis, Andrejs",
+        "dateOfDeposit": "2026-02-26",
+        "subject": "Arts and Humanities",
+        "title": "Biogrāfisko interviju transkripcijas projektā \"Konversijas un parāvumi: latviešu filozofijas epistēmiskās stratēģijas padomju periodā (1944-1991)\"",
+        "citation:notesText": "Dati satur sensitīvu informāciju. Interviju dalībnieki transkripcijās ir pseidonimizēti, taču biogrāfisko interviju specifikas dēļ iespējama netieša identificēšana, tādēļ dati ir ar ierobežotu pieejamību un glabājas atbildīgajā institūcijā. Informācija par citām personām ir anonimizēta. Datu kopa pieejama daļēji slēgtā piekļuvē - pēc pamatota pieprasījuma, sazinoties ar pētnieku Andreju Balodi.\n\nThe data contain sensitive information. Interview participants have been pseudonymized in the transcripts; however, due to the nature of biographical interviews, indirect identification remains possible, and therefore the data are subject to restricted access. Information about other individuals mentioned in the transcripts has been anonymized. The dataset is available upon request, contacting researcher Andrejs Balodis.",
+        "language": "Latvian",
+        "@id": "https://doi.org/10.71782/DATA/QVUERT",
+        "@type": [
+            "ore:Aggregation",
+            "schema:Dataset"
+        ],
+        "schema:version": "1.0",
+        "schema:name": "Biogrāfisko interviju transkripcijas projektā \"Konversijas un parāvumi: latviešu filozofijas epistēmiskās stratēģijas padomju periodā (1944-1991)\"",
+        "schema:dateModified": "2026-04-27 10:40:11.569",
+        "schema:datePublished": "2026-04-27",
+        "schema:creativeWorkStatus": "RELEASED",
+        "dvcore:termsOfUse": "Datu kopa pieejama daļēji slēgtā piekļuvē - pēc pamatota pieprasījuma, pieeju piešķir vadošais pētnieks Andrejs Balodis.",
+        "dvcore:fileTermsOfAccess": {
+            "dvcore:termsOfAccess": "Datu kopa pieejama daļēji slēgtā piekļuvē - pēc pamatota pieprasījuma, pieeju piešķir vadošais pētnieks Andrejs Balodis.",
+            "dvcore:fileRequestAccess": true
+        },
+        "schema:includedInDataCatalog": "DataverseLV",
+        "schema:isPartOf": {
+            "schema:name": "Latvian Academy of Culture",
+            "@id": "https://dv.dataverse.lv/dataverse/lka",
+            "schema:description": "The Latvian Academy of Culture (LAC) Dataverse provides access to research and project data deposited by LAC researchers in the fields of humanities, arts, and social sciences, as well as in interdisciplinary domains. Datasets may be open or restricted, based on their specificity, supporting responsible data management and the principles of open science. \n<br>\n<br>\nLatvijas Kultūras akadēmijas (LKA) Dataverse kolekcijā pieejami LKA pētnieku deponētie pētījumu un projektu dati humanitāro, mākslas un sociālo zinātņu jomās, kā arī starpdisciplinārās nozarēs. Datu kopas var būt atvērtas vai ar ierobežotu piekļuvi atkarībā no to specifikas, veicinot atbildīgu datu pārvaldību un atvērtās zinātnes principus.",
+            "schema:isPartOf": {
+                "schema:name": "DataverseLV",
+                "@id": "https://dv.dataverse.lv/dataverse/root"
+            }
+        },
+        "ore:aggregates": [
+            {
+                "schema:name": "ReadMe.txt",
+                "dvcore:restricted": false,
+                "schema:version": 1,
+                "dvcore:datasetVersionId": 696,
+                "@id": "https://dv.dataverse.lv/file.xhtml?fileId=5005",
+                "schema:sameAs": "https://dv.dataverse.lv/api/access/datafile/5005",
+                "@type": "ore:AggregatedResource",
+                "schema:fileFormat": "text/plain",
+                "dvcore:filesize": 2318,
+                "dvcore:storageIdentifier": "file://19dba396af7-a31afb6b7ae9",
+                "dvcore:rootDataFileId": -1,
+                "dvcore:checksum": {
+                    "@type": "MD5",
+                    "@value": "a0c97845ce5feaa906c5e19ff5931fdd"
+                }
+            }
+        ],
+        "schema:hasPart": [
+            "https://dv.dataverse.lv/file.xhtml?fileId=5005"
+        ]
+    },
+    "@context": {
+        "author": "http://purl.org/dc/terms/creator",
+        "authorIdentifier": "http://purl.org/spar/datacite/AgentIdentifier",
+        "authorIdentifierScheme": "http://purl.org/spar/datacite/AgentIdentifierScheme",
+        "citation": "https://dataverse.org/schema/citation/",
+        "dateOfDeposit": "http://purl.org/dc/terms/dateSubmitted",
+        "dcterms": "http://purl.org/dc/terms/",
+        "dvcore": "https://dataverse.org/schema/core#",
+        "language": "http://purl.org/dc/terms/language",
+        "ore": "http://www.openarchives.org/ore/terms/",
+        "schema": "http://schema.org/",
+        "subject": "http://purl.org/dc/terms/subject",
+        "title": "http://purl.org/dc/terms/title"
+    }
+}

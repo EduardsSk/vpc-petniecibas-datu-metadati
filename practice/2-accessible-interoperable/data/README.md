@@ -1,5 +1,8 @@
 # Praktiskais uzdevums 2 — dati
 
-Praktiskajā uzdevumā 2 (F-UJI ziņojuma walk-through) iztirzātais F-UJI ziņojums atrodas demo datu mapē [`../../../data/2-accessible-interoperable/`](../../../data/2-accessible-interoperable/). Skatiet failus `qvuert-fuji-report.html` (cilvēklasāmais skats) un `qvuert-fuji-report.json` (mašīnlasāmais skats).
+Šajā mapē ir pirms-sagatavots F-UJI ziņojums Baloža QVUERT datu kopai, ko izmantosit § 4 kontrolsarakstam.
 
-Pēc kursa varat **paši palaist F-UJI** uz savu publicēto datu kopu pārlūkprogrammā: <https://www.f-uji.net/?action=test>. Sk. uzdevuma instrukcijas — [`../README.md`](../README.md) sadaļas 3. ("F-UJI rīks") un 7. ("Pēc sesijas — palaidiet F-UJI uz savu kopu").
+- [`qvuert-fuji-report.html`](qvuert-fuji-report.html) — cilvēklasāmais ziņojums; atveriet pārlūkprogrammā.
+- [`qvuert-fuji-report.json`](qvuert-fuji-report.json) — strukturētais (mašīnlasāmais) ziņojums; papildu fails zinātkārajiem.
+
+Pēc kursa varat **paši palaist F-UJI** uz savu publicētu datu kopu pārlūkprogrammā: <https://www.f-uji.net/?action=test>. Sk. uzdevuma instrukcijas: [`../README.md`](../README.md).
