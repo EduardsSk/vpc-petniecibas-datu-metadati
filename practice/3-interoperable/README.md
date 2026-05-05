@@ -1,9 +1,9 @@
-# Praktiskais uzdevums 3.6 — Vārdnīcas izvēla pēc uzvārda dalījuma
+# Praktiskais uzdevums 3.6 — Vārdnīcas un jēdzienu izvēle savai datu kopai
 
-**Sesija:** 3 (I + R: Sadarbspējīgi un atkārtoti izmantojami) — 2026-05-05, 14:20–14:40
-**Bloks:** 3.6 (20 min)
-**Formāts:** _Participant-first_ — vispirms jūs paši strādājat ar piesaistīto datu kopu (klusuma darba laiks ~8 min), tad noslēdzošā Aptauja 4 fiksē jūsu izvēli, tad pasniedzējs demonstrē visus trīs paraugus secīgi, narējot atbilstoši aptaujas rezultātiem. **Tas ir _strukturāls_ apgrieziens** no 1. un 2. sesijas demo-first modeļa — šeit jūs paši pirmie atklājat, pasniedzējs pēc tam kalibrē.
-**Mērķis:** Padarīt I2 prasību **konkrētu un personīgu** — atrast savai uzvārdu grupai piesaistīto datu kopu, atrast atslēgvārdu lauku, izvēlēties kontrolēto vārdnīcu, kura derētu šim disciplīnas paraugam. Saprast, ka vārdnīcas izvēla ir _disciplīnas kopienas_, ne pasniedzēja, atbildība — un ka I2 atrisinājumam ir divi slāņi: depozitora izvēla un repozitorija konfigurācija (CVOC).
+**Sesija:** 3 (I + R: Sadarbspējīgi un atkārtoti izmantojami) — 2026-05-05, 14:10–14:40
+**Bloks:** 3.6 (30 min — ~20 min klusuma darbs + ~10 min apkopojums un Baloža paraugs)
+**Formāts:** _Participant-first_ — vispirms jūs paši brīvi izvēlaties datu kopu (četras opcijas, ieskaitot savējo) un strādājat ar to klusumā ~20 min, tad noslēdzošā Aptauja 4 fiksē jūsu vārdnīcu izvēli, tad pasniedzējs demonstrē Baloža (QVUERT) paraugu kā strādājošu piemēru (~10 min). **Tas ir _strukturāls_ apgrieziens** no 1. un 2. sesijas demo-first modeļa — šeit jūs paši pirmie atklājat, pasniedzējs pēc tam kalibrē.
+**Mērķis:** Padarīt I2 prasību **konkrētu un personīgu** — atrast atslēgvārdu lauku, atrast disciplīnai atbilstošas kontrolētas vārdnīcas un meklēt **konkrētus jēdzienus** (URI), kas pārklātu jūsu atslēgvārdus. Saprast, ka vārdnīcas izvēle ir _disciplīnas kopienas_, ne pasniedzēja, atbildība; ka ne katram atslēgvārdam ir precīza URI; un ka I2 atrisinājumam ir divi slāņi: depozitora izvēle un repozitorija konfigurācija (CVOC).
 
 > **Mijiedarbības piezīme:** Sesijas laikā **čats netiek lasīts** (auditorijas mērogs ~197). Ja jums ir formāls jautājums, lūdzu, ievietojiet to **Q&A panelī** — Mikus tos apkopo un pasniedzējs atbild pa pārtraukumu vai sesijas beigās. Šī sesija ietver **četras aptaujas** (Aptauja 1 par RDF iepriekšējo pieredzi Bloka 3.1 sākumā, Aptauja 2 par vārdnīcu terminu pazīstamību Bloka 3.3 vidū — _opcionāla_, Aptauja 3 par disciplīnas kohortu Bloka 3.4 vidū un noslēdzošā Aptauja 4 par vārdnīcu izvēli šī Bloka 3.6 vidū).
 >
@@ -16,54 +16,58 @@
 
 ## 2. Ko mēs darīsim
 
-Strādāsim ar **trīs reālām datu kopām vienlaikus** — vienu humanitāro, vienu sociālo zinātņu, vienu dzīvības zinātņu. Katra dalībnieks saņem _vienu_ datu kopu pēc uzvārda pirmā burta:
+Strādāsim ar **četrām opcijām** — trīs verificētas reālas datu kopas (humanitāri, sociālo zinātņu, dzīvības zinātņu) plus **jūsu pašu datu kopa**. Jūs brīvi izvēlaties **vienu** opciju:
 
-- **A–G** → humanitāri (Baloža interviju transkripciju kopa, dv.dataverse.lv)
-- **H–N** → sociālo zinātņu (Surikovas un kolēģu aptaujas datu kopa par pieaugušo profesionālo attīstību, dv.dataverse.lv)
-- **O–Ž** → dzīvības zinātņu (Spinazzolas un kolēģu Athar biosignālu datu kopa, Zenodo)
+- **(a)** humanitāri — Baloža interviju transkripciju kopa, dv.dataverse.lv (`10.71782/DATA/QVUERT`)
+- **(b)** sociālo zinātņu — Surikovas un kolēģu aptaujas datu kopa par pieaugušo profesionālo attīstību, dv.dataverse.lv (`10.71782/DATA/SMGJHG`)
+- **(c)** dzīvības zinātņu — Spinazzolas un kolēģu Athar biosignālu datu kopa, Zenodo (`10.5281/zenodo.15365515`)
+- **(d)** **sava datu kopa** — jūsu jau publicētā vai plānošanas stadijā esošā kopa (jebkurā repozitorijā ar publisku metadatu eksportu)
 
-Jūs **klusumā** strādājat ar piesaistīto datu kopu ~8 minūtes — atveriet datu kopas lapu, atrodiet atslēgvārdu lauku, padomājiet, kura kontrolēta vārdnīca pārklātu šos atslēgvārdus. Tad **Aptauja 4** fiksē jūsu izvēli; tad pasniedzējs demonstrē visus trīs paraugus secīgi, narējot atbilstoši aptaujas rezultātiem.
+Jūs **klusumā** strādājat ar izvēlēto datu kopu ~20 minūtes — atveriet lapu, atrodiet atslēgvārdu lauku, atrodiet disciplīnai atbilstošas kontrolētas vārdnīcas un meklējiet **konkrētus jēdzienus (URI)**, kas pārklātu jūsu atslēgvārdus. Tad **Aptauja 4** fiksē jūsu vārdnīcu izvēli; tad pasniedzējs demonstrē Baloža (QVUERT) paraugu kā strādājošu piemēru (~10 min) — pārējiem trim ir paralēli raksti, ko var pārlasīt §7.
 
-> **Kāpēc pēc uzvārda dalījums, ne pēc disciplīnas?** Tas ir _slodzes-dalījuma_ mehānisms — trīs paraugi vienlaikus ar 197 dalībniekiem. Strādājiet ar piesaistīto datu kopu, pat ja tā nav jūsu disciplīna — tas dod jums vairākus skatpunktus, un demonstrācijā mēs salīdzināsim visus trīs.
+> **Kāpēc brīva izvēle, ne uzvārda dalījums?** _(Vēsturiska piezīme: Phase 4b draftā bija A–G / H–N / O–Ž slodzes-dalījuma mehānisms; tas atcelts pēc 2026-05-05 atskata — visiem dalībniekiem sava disciplīna ir tuvāka nekā piespiedu cita-disciplīnas paraugs, un sava datu kopa ir vēl tuvāka.)_ Brīva izvēle ļauj jums strādāt ar to, kas jūsu darbam ir vistuvāk; pēc-aptaujas Baloža walkthrough rāda, kā tas pats process izskatās uz konkrēta humanitāra paraugā.
 
-> **Kāpēc divi dv.dataverse.lv un viens Zenodo paraugs?** Vārdnīcu izmantošanas raksti **atšķiras** starp repozitorijām un disciplīnām — tas ir tieši Bloka 3.6 saturiskais kodols. Krustplatformu salīdzinājums parādīs, ka I2 (sadarbspējīgs vārdnīcu lietojums) nav viena platformas problēma, bet sistēmiska struktūra.
+> **Kāpēc Baloža (QVUERT) paraugs apkopojumā, ne visi trīs?** QVUERT ir kursa caurviju paraugs (1. un 2. sesijā jau analizēts) — vienots empīriskais kontekss ļauj 10 minūtēs parādīt **konkrētus jēdzienu URI** terminu līmenī, ne tikai augstā līmeņa salīdzinājumu. SMGJHG un Athar paralēlie raksti dokumentēti §7 šajā README pēc-sesijas pārlasīšanai.
 
 ---
 
-## 3. Solis pa solim — jūsu darbība (klusuma darba laiks, ~8 min)
+## 3. Solis pa solim — jūsu darbība (klusuma darba laiks, ~20 min)
 
 > **PIRMS LASĪT 4. + 5. + 6. + 8. + 9. SADAĻAS — IZPILDIET 3. SADAĻU.** 4. sadaļa zemāk dod jums datu kopas saites; 8. sadaļas kontrolsaraksts ir _pēc-sesijas_ pašpārbaudei, _ne_ klusuma darba laikam. 6. sadaļa rāda Aptauja 4 jautājumu un opcijas — neskatieties tās līdz aptauja parādās ekrānā.
 
-**Jūsu protokols (5 soļi, ~8 min):**
+**Jūsu protokols (5 soļi, ~20 min):**
 
-1. **Atveriet jūsu uzvārdam piesaistīto datu kopas lapu** (URL — sk. 4. sadaļā: A–G QVUERT, H–N SMGJHG, O–Ž Athar; vai uz protokola slaida, ko redzat ekrānā).
-2. **Atrodiet atslēgvārdu lauku.** Uz dv.dataverse.lv (QVUERT, SMGJHG) — scroll uz leju līdz _Citation Metadata_ sadaļai; Keywords ir tabulas vidū vai apakšā. Uz Zenodo (Athar) — scroll uz leju līdz _Subjects_ sadaļai zem nosaukuma un autoriem.
+1. **Izvēlieties datu kopu** no četrām opcijām (4. sadaļa: (a) QVUERT, (b) SMGJHG, (c) Athar, (d) sava). Atveriet tās lapu pārlūkā. Sava kopa: dv.dataverse.lv vai Zenodo URL, vai cits repozitorijs ar publisku metadatu eksportu (sk. §5 par eksporta URL).
+2. **Atrodiet atslēgvārdu lauku.** Uz dv.dataverse.lv (QVUERT, SMGJHG, dažas savas) — scroll uz leju līdz _Citation Metadata_ sadaļai; Keywords ir tabulas vidū vai apakšā. Uz Zenodo (Athar, dažas savas) — scroll uz leju līdz _Subjects_ sadaļai zem nosaukuma un autoriem. Citos repozitorijos lauks var saukties _Keywords_, _Subjects_, _Tags_ vai _Topics_.
 3. **Pierakstiet sev (uz papīra vai piezīmju ekrānā):**
    - Cik atslēgvārdu ir laukā?
    - Kāds ir to formāts? (a) brīvs teksts; (b) URI saites uz vārdnīcu; (c) brīvs teksts ar atzīmi par vārdnīcu (piem., MeSH terma nosaukums, bet bez URI); (d) klasifikācijas kategorija (piem., "Social Sciences", "Arts and Humanities")
    - Vai redzat, ka kāds atslēgvārds ir tieši URI saite (klikšķins atver MeSH/ORCID/ROR/citas vārdnīcas lapu)?
-4. **Padomājiet — kura no 3.4. blokā minētajām vārdnīcām pārklātu šos atslēgvārdus?** (3.4. bloks pieminēja MeSH medicīnai, GEMET videi, EuroVoc politikai, AGROVOC lauksaimniecībai, ORCID autoriem, ROR iestādēm.) Ja neviena nederētu — pierakstiet "neviena no šīm".
-5. **Aptauja 4** fiksēs jūsu izvēli pēc klusuma darba beigām. Atstājiet datu kopas cilni atvērtu — pasniedzējs demonstrās visus trīs paraugus pēc aptaujas.
+4. **Atrodiet kandidāta vārdnīcu(-as) un konkrētus jēdzienus.** Tas ir vingrinājuma kodols — divas darbības:
+   - **4a. Vārdnīcu izvēle.** Disciplīnas ceļš: medicīna → MeSH (`https://meshb.nlm.nih.gov/`); vide → GEMET (`https://www.eionet.europa.eu/gemet/lv/`, latviski); ES politika → EuroVoc (`https://eur-lex.europa.eu/browse/eurovoc.html?locale=lv`, latviski); lauksaimniecība → AGROVOC (`https://agrovoc.fao.org/`); sociālo zinātņu → ELSST (`https://elsst.cessda.eu/`); humanitāri / vispārīgi / krustdisciplīnāri → Wikidata (`https://www.wikidata.org/`), LCSH (`https://id.loc.gov/authorities/subjects.html`), GND (`https://d-nb.info/standards/elementset/gnd`). Reģistri meklēšanai: LOV (`https://lov.linkeddata.es/`, 906 vārdnīcas indeksētas) un BARTOC (`https://bartoc.org/`, plašāks tvērums).
+   - **4b. Konkrētu jēdzienu meklēšana.** Atveriet izvēlētās vārdnīcas pārlūku, meklējiet **katru** savu atslēgvārdu un pierakstiet jēdziena URI. Ja precīza URI nav — pierakstiet **plašāko jēdzienu**, ar kuru var savienot, vai atzīmējiet "nav atbilstošas URI". Pieņemiet, ka ne visi atslēgvārdi tiks pārklāti — tas pats par sevi ir konstatējums (sk. Baloža paraugu §7.1, kur ~3 no 5 terminiem ir vārdnīcas pārklājumā, pārējie paliek brīvā tekstā).
+5. **Aptauja 4** fiksēs jūsu vārdnīcu izvēli pēc klusuma darba beigām. Atstājiet datu kopas cilni atvērtu — pasniedzējs demonstrēs Baloža (QVUERT) paraugu pēc aptaujas.
 
-**Ja cilne neielādējas** — atveriet `data/topic3-block3.6-{jūsu paraugs}/landing.html`. Paraugu mapes nosaukumi:
+**Ja cilne neielādējas** — atveriet `data/topic3-block3.6-{paraugs}/landing.html`. Paraugu mapes nosaukumi:
 
-- A–G grupa → `data/topic3-block3.6-qvuert/`
-- H–N grupa → `data/topic3-block3.6-smgjhg/`
-- O–Ž grupa → `data/topic3-block3.6-athar/`
+- (a) QVUERT → `data/topic3-block3.6-qvuert/`
+- (b) SMGJHG → `data/topic3-block3.6-smgjhg/`
+- (c) Athar → `data/topic3-block3.6-athar/`
+- (d) sava — atveriet sava repozitorija URL atsevišķi; offline-snapshot nav iepriekš sagatavots
 
 Atveriet `landing.html` saglabāto versiju vai `keywords-screenshot.png` PNG ekrānuzņēmumu.
 
 **Ja jūs neredzat atslēgvārdu lauku 1 minūtē** — rakstiet Q&A panelī "kur ir Keywords lauks?". Mikus atbildēs ar lauka atrašanās vietu.
 
-**Vidus-loga orientācijas pārbaude (~4-min punktā):** pasniedzējs ievietos atrunu — "_vēl ~4 minūtes; ja esat iestrēdzis, rakstiet Q&A panelī_". Tas nav pārtraukums — vienkārši orientācija. Turpiniet darbu.
+**Vidus-loga orientācijas pārbaudes (~7-min un ~14-min punktos):** pasniedzējs ievietos atrunu — "_vēl ~13 / ~6 minūtes; ja esat iestrēdzis, rakstiet Q&A panelī_". Tās nav pārtraukumi — vienkārši orientācija. Turpiniet darbu.
 
 ---
 
 ## 4. Datu kopas
 
-Trīs reālas datu kopas, visas verificētas dzīvas 2026-05-04. Divas no tām dv.dataverse.lv (Latvijas FAIR repozitorija); viena no Zenodo (CERN-uzturēta, starptautiskā FAIR repozitorija).
+Trīs verificētas reālas datu kopas (visas dzīvas 2026-05-04) plus jūsu pašu datu kopa kā ceturtais variants. Divas verificētās ir dv.dataverse.lv (Latvijas FAIR repozitorija); viena ir Zenodo (CERN-uzturēta, starptautiskā FAIR repozitorija).
 
-### 4.1 Humanitāri — A–G uzvārdu grupa
+### 4.1 Humanitāri — variants (a)
 
 **Nosaukums:** _Biogrāfisko interviju transkripcijas projektā "Konversijas un parāvumi: latviešu filozofijas epistēmiskās stratēģijas padomju periodā (1944-1991)"_
 
@@ -75,7 +79,7 @@ Trīs reālas datu kopas, visas verificētas dzīvas 2026-05-04. Divas no tām d
 
 **Landing page:** <https://dv.dataverse.lv/dataset.xhtml?persistentId=doi:10.71782/DATA/QVUERT>
 
-### 4.2 Sociālo zinātņu — H–N uzvārdu grupa
+### 4.2 Sociālo zinātņu — variants (b)
 
 **Nosaukums:** _Survey dataset regarding adults' professional development and the transfer of its results to professional practice_
 
@@ -87,7 +91,7 @@ Trīs reālas datu kopas, visas verificētas dzīvas 2026-05-04. Divas no tām d
 
 **Landing page:** <https://dv.dataverse.lv/dataset.xhtml?persistentId=doi:10.71782/DATA/SMGJHG>
 
-### 4.3 Dzīvības zinātņu — O–Ž uzvārdu grupa
+### 4.3 Dzīvības zinātņu — variants (c)
 
 **Nosaukums:** _Athar: Biosignals Dataset from a Para-Handcycling ride across Saudi Arabia_
 
@@ -99,11 +103,22 @@ Trīs reālas datu kopas, visas verificētas dzīvas 2026-05-04. Divas no tām d
 
 **Landing page:** <https://zenodo.org/records/15365515>
 
+### 4.4 Sava datu kopa — variants (d)
+
+Ja jums ir publicēta vai plānošanas stadijā esoša datu kopa jebkurā repozitorijā ar publisku metadatu eksportu — strādājiet ar to. Tas ir vingrinājuma autentiskākā forma: izejmateriāls ir _jūsu_ darbs, secinājumi attiecas uz _jūsu_ disciplīnas vārdnīcu izvēli, un Aptauja 4 atbilde fiksē _jūsu_ rītdienas plānu.
+
+**Pievienojot, pārliecinieties par:**
+
+- Datu kopai ir publiska landing page (URL pārlūkā jums un kolēģiem).
+- Atslēgvārdu lauks pastāv un ir publiski redzams (lielākajā daļā repozitoriju — Keywords, Subjects, Tags vai Topics).
+- Ja kopa ir plānošanas stadijā un repozitorijā vēl nav, **strādājiet ar plānoto atslēgvārdu sarakstu** (jebkurš dokuments, e-pasts, projekta plāns) — vingrinājuma kodols (kandidāta vārdnīcu un jēdzienu meklēšana) darbojas arī tad.
+- Offline-snapshot variantam (d) iepriekš nav sagatavots; ja sava kopa nedod ielādēt, varat pāriet uz (a)/(b)/(c) un piezīmēs norādīt, ka pārbaudīsiet savu pēc sesijas.
+
 ---
 
 ## 5. Eksporta URL — kā paši piekļūt metadatu eksportiem
 
-Visas trīs datu kopas piedāvā metadatu eksportus caur publisko API. Atslēga nav nepieciešama publicētām datu kopām. Šie URL ir lai jūs paši pēc sesijas varētu apskatīt, kā tieši izskatās metadati zem datu kopas lapas.
+Trīs verificētās datu kopas piedāvā metadatu eksportus caur publisko API; sava datu kopa (variants d) — atkarībā no repozitorija, kur tā publicēta. Atslēga nav nepieciešama publicētām datu kopām. Šie URL ir lai jūs paši pēc sesijas varētu apskatīt, kā tieši izskatās metadati zem datu kopas lapas.
 
 ### 5.1 dv.dataverse.lv eksporta URL formāts
 
@@ -134,41 +149,56 @@ Kur `{FORMAT}` ir viens no: `json-ld` (schema.org), `datacite-xml`, `dublincore`
 
 ## 6. Aptauja 4 — vārdnīcu izvēla (multi-select)
 
-**Aptauja 4 (Bloks 3.6, klusuma darba beigās, ~12:00 minūte):**
+**Aptauja 4 (Bloks 3.6, klusuma darba beigās, ~24:00 minūte):**
 
-> _"Kuru kontrolēto vārdnīcu jūs ieteiktu jūsu uzvārda grupai piesaistītajai datu kopai?"_ (multi-select — varat izvēlēties vairākas)
+> _"Kuru kontrolēto vārdnīcu jūs apsvērāt savai izvēlētajai datu kopai?"_ (multi-select — varat izvēlēties vairākas)
 
 - (a) MeSH (Medical Subject Headings)
 - (b) GEMET (vides terminoloģija)
 - (c) EuroVoc (ES politikas terminoloģija)
-- (d) SKOS-LV vai cita Latvijā veidota vārdnīca
-- (e) AGROVOC (lauksaimniecības terminoloģija)
-- (f) Cita vārdnīca (atstājiet komentāru pēc sesijas)
-- (g) Nezinu / vajag konsultāciju
+- (d) AGROVOC (lauksaimniecības terminoloģija)
+- (e) Wikidata vai LCSH _(humanitāri / vispārīgi)_
+- (f) ELSST vai cita disciplīnas vārdnīca
+- (g) Cita vārdnīca (atstājiet komentāru pēc sesijas)
+- (h) Nezinu / vajag konsultāciju
 
-**Atbildes nav pareizas vai nepareizas — tās ir kalibrācijas dati pasniedzēja salīdzinošajai demonstrācijai.** Aptaujas dati saglabāti pēc sesijas materiālu pakā.
+**Atbildes nav pareizas vai nepareizas — tās ir kalibrācijas dati pasniedzēja Baloža walkthrough pielāgošanai.** Aptaujas dati saglabāti pēc sesijas materiālu pakā.
 
 ---
 
-## 7. Pēc aptaujas — pasniedzēja apkopojums
+## 7. Pēc aptaujas — pasniedzēja Baloža walkthrough (~10 min)
 
-Pēc Aptaujas 4 noslēgšanas pasniedzējs demonstrēs visus trīs paraugus secīgi (~6 min kopā). Demonstrācijas kārtība: **QVUERT humanitāri → SMGJHG sociālo zinātņu → Athar dzīvības zinātņu** (default; ja Aptauja 3 norāda dominējošu sociālo zinātņu kohortu, kārtība var pielāgoties).
+Pēc Aptaujas 4 noslēgšanas pasniedzējs demonstrē Baloža (QVUERT) paraugu kā **strādājošu piemēru** — atslēgvārdu lauka stāvokli, kandidāta vārdnīcas un konkrētus jēdzienu URI katram no pieciem terminiem (~10 min). SMGJHG un Athar paralēlie raksti dokumentēti zemāk §7.2–7.3 pēc-sesijas pārlasīšanai (pasniedzējs sesijā tos pieskar īsi, ja Aptauja 3 vai Aptauja 4 norāda dominējošu kohortu).
 
-**Galvenie konstatējumi**, ko pasniedzējs demonstrēs (lai jūs pēc sesijas varētu pārlasīt):
-
-### 7.1 QVUERT humanitāri — depozitora-izvēla I2 trūkums (divkāršs)
+### 7.1 QVUERT humanitāri — Baloža paraugs (sesijas walkthrough kodols)
 
 QVUERT atslēgvārdu lauki satur _Arts and Humanities_ Subject klasifikātoru un **vienu** keyword lauku ar piecu latviešu terminu komatu-atdalītu virkni: `"filozofija Latvijā, padomju filozofija, konversijas, pārrāvumi, epistēmiskās stratēģijas"`. **Nav `subjectScheme`, nav `valueUri` — vārdnīca nav izvēlēta.** Tas ir _depozitora-izvēla_ I2 trūkuma slānis ar **divām nepilnībām vienlaikus**: (1) vārdnīca nav izvēlēta — brīvs teksts; (2) pieci atsevišķi koncepti ir mašīni vienā virknē, ne strukturāli atdalīti — metadatu modelis to neredz kā piecus konceptus, bet kā vienu lauku.
 
 F-UJI 2026-04-27 ziņojums šai datu kopai: **`FsF-I2-01M` fail (0/2)** — tieši šī Bloka 3.6 empīriskais motivācijas avots.
 
-### 7.2 SMGJHG sociālo zinātņu — paralēls I2 trūkums
+**Kandidāta vārdnīcas un jēdzieni** (tabula, ko pasniedzējs rāda slaidā):
+
+| Termins                  | Vārdnīca       | Kandidāta jēdziens                                         |
+| ------------------------ | -------------- | ---------------------------------------------------------- |
+| filozofija Latvijā       | **Wikidata**   | `wd:Q5891` _philosophy_ + `wd:Q211` _Latvia_ kā vieta      |
+| padomju filozofija       | **LCSH**       | _Philosophy, Russian — Soviet period_ <!-- VERIFY: id.loc.gov authority heading exact form --> |
+| epistēmiskās stratēģijas | **Wikidata**   | `wd:Q9471` _epistemology_ _(plašāks; precīza jēdziena nav)_ |
+| konversijas _(filozof.)_ | **brīvs teksts** ar atrunu | konteksta-specifiska nozīme — `wd:Q193292` ir reliģiska konversija, **ne** šī |
+| pārrāvumi _(rupture)_    | **brīvs teksts** | nav viennozīmīga URI — Foucault-tradīcijas jēdziens      |
+| _Arts and Humanities_    | **DataCite Subject** | augstā līmeņa klasifikators — jau ir laukā           |
+
+> **Realitāte:** vārdnīcas pārklāj ~3 no 5 terminiem ar URI; pārējie paliek brīvā tekstā ar disciplīnas-specifisku nozīmi. _Tas ir pareizi_ — vārdnīcas nav universāls aizvietotājs, bet stiprā URI piesaiste tām, kas ir.
+
+<!-- VERIFY (pirms sesijas): pārbaudīt Q-IDs (Q5891, Q211, Q9471, Q193292) wikidata.org un LCSH formu id.loc.gov;
+     ja kāds atšķiras, koriģēt tabulu šajā README un atbilstošajā slaidā. -->
+
+### 7.2 SMGJHG sociālo zinātņu — paralēls I2 trūkums (pēc-sesijas pārlasīšana)
 
 SMGJHG atslēgvārdu lauks satur _Social Sciences_ kā disciplīnas klasifikātoru un deviņus brīva teksta terminus angliski (`adult education`, `professional competence`, `professional development` u.c.). **Nav `subjectScheme`, nav `valueUri`.** Tas ir _tas pats_ I2 trūkuma raksts kā QVUERT — cita disciplīna, cita autoru komanda, tas pats trūkums. **Tas ir Latvijas depozitēšanas struktūras raksts**, ne vienas datu kopas problēma.
 
-Vārdnīcu kandidāti šim paraugam: **EuroVoc** (adult-education ir ES politikas terminoloģijā), starptautiski — **ELSST** (CESSDA Eiropas sociālo zinātņu tēzaurs; nav Aptaujas 4 sarakstā, bet ir kanoniskā sociālo zinātņu izvēla starptautiski; daļēji tulkots latviski).
+Vārdnīcu kandidāti šim paraugam: **EuroVoc** (adult-education ir ES politikas terminoloģijā) un starptautiski — **ELSST** (CESSDA Eiropas sociālo zinātņu tēzaurs; daļēji tulkots latviski).
 
-### 7.3 Athar dzīvības zinātņu — platformas-CVOC trūkums
+### 7.3 Athar dzīvības zinātņu — platformas-CVOC trūkums (pēc-sesijas pārlasīšana)
 
 Athar atslēgvārdu lauks satur **septiņus MeSH terminus** — `Spinal Cord Injuries`, `Datasets as Topic`, `Neurological Rehabilitation`, `Fatigue/physiopathology`, `Heart Rate Determination`, `Body Temperature Changes`, `Paraplegia`. **`subjectScheme: MeSH` ir deklarēts katrai sējai, bet `valueUri: null` katrai sējai.** Depozitors izvēlējās MeSH terminus, bet Zenodo deponēšanas forma neielādēja URI saites.
 
@@ -181,7 +211,7 @@ MeSH terminam _Spinal Cord Injuries_ pastāv URI: `https://id.nlm.nih.gov/mesh/D
 | **Depozitora izvēla** (QVUERT, SMGJHG raksts) | Jūs paši, kā depozitori | Rītdien — izvēlieties vārdnīcu savai disciplīnai pirms publicēšanas |
 | **Repozitorija binding (CVOC)** (Athar raksts) | Repozitorija administrators | Runājiet ar VPC datu kuratoriem par CVOC iespējošanu dv.dataverse.lv |
 
-Pirmo slāni jūs risināt depozitēšanas formā — izvēlieties terminus no MeSH/GEMET/EuroVoc/AGROVOC/cita vietā brīva teksta. Otro slāni risina repozitorija konfigurācija — CVOC iestatījums, kas savieno depozitēšanas formas atslēgvārdu lauku ar konkrētu vārdnīcu un automātiski binds URI.
+Pirmo slāni jūs risināt depozitēšanas formā — izvēlieties terminus no MeSH/GEMET/EuroVoc/AGROVOC/Wikidata/LCSH vietā brīva teksta. Otro slāni risina repozitorija konfigurācija — CVOC iestatījums, kas savieno depozitēšanas formas atslēgvārdu lauku ar konkrētu vārdnīcu un automātiski binds URI.
 
 **Mehānisms ir vienots; saturiskās vārdnīcu izvēles ir disciplīnas kopienas atbildība.** Topic 3 māca mehānismu; jūsu disciplīnas kuratori (mēs varam palīdzēt jums tos atrast) iesaka konkrēto.
 
@@ -272,8 +302,8 @@ Ja vēlaties pieprasīt, lai dv.dataverse.lv iespējo CVOC konkrētai vārdnīca
 Pēc sesijas, lūdzu, atstājiet īsu atgriezenisko saiti ar:
 
 - Kura no četrām aptaujām (Aptauja 1 RDF pieredze, Aptauja 2 vārdnīcu termini, Aptauja 3 disciplīna, Aptauja 4 vārdnīcu izvēla) jums šķita visnoderīgākā?
-- Kurš no trim Bloka 3.6 paraugiem (QVUERT, SMGJHG, Athar) jums deva visskaidrāko priekšstatu par I2 mehānismu?
-- Vai 8 minūšu klusuma darbs bija pietiekams, par maz vai par daudz?
+- Kuru no četrām opcijām ((a) QVUERT, (b) SMGJHG, (c) Athar, (d) sava datu kopa) izvēlējāties? Kurš variants vai pasniedzēja Baloža walkthrough deva visskaidrāko priekšstatu par I2 mehānismu?
+- Vai 20 minūšu klusuma darbs bija pietiekams, par maz vai par daudz?
 - Vai jums ir konkrēta vārdnīca, par kuru vēlaties uzzināt vairāk pēc kursa? (Norādiet sajūsmīgi — VPC datu kuratori var palīdzēt sasaistīties ar disciplīnas kopienu.)
 
 Atbildes (anonīmas) tiks iekļautas pēc-sesijas materiālu pakā un izmantotas kursa pielāgošanai nākamajam izlaidumam.
