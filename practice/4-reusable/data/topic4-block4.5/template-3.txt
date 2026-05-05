@@ -1,0 +1,29 @@
+# T3 — F2 ≡ R1 closing payoff
+# Tās pašas Wikidata īpašības, ko lietojām T1, lai *atrastu* iestādi
+# (P6782 — ROR ID; P17 — valsts), nāk kopā ar P571 (dibināšanas gads)
+# un P159 (mītne) — kas piešķir kontekstu *atkārtotai izmantošanai*.
+# Lauks neizmainās; izmaināt jautājums.
+#
+# Phase 4 verifikācijas piezīme (2026-05-04 PM): sākotnējā Phase 2 §10 #1
+# T3 versijā P571 bija OPTIONAL — bet 8/8 rezultāta rindas atgrieza
+# `?inception = ""` (Wikidata neuzglabā dibināšanas gadu lielākai daļai
+# no 12 T1 institūcijām). Lai narrative "dibināšanas gads piešķir
+# kontekstu" lands, T3 P571 ir REQUIRED (ne OPTIONAL). Rezultāts:
+# 8 vecākās LV iestādes ar dokumentētu dibināšanas gadu (1872-1921),
+# 6/8 ar mītnes pilsētu. Pedagoģiskais saturs nemainās; Wikidata
+# realitāte respektēta.
+# Sagaidāms: 8 rindas (~0,3 sek); Rīgas Būvniecības koledža (1872),
+# Paula Stradiņa klīniskā universitātes slimnīca (1910), Ekonomikas
+# ministrija (1918), IZM (1918), VARAM (1918), Latvijas Mākslas
+# akadēmija (1919), Latvijas Sporta pedagoģijas akadēmija (1921) u.c.
+
+SELECT ?inst ?instLabel ?ror ?inception ?hqLabel
+WHERE {
+  ?inst wdt:P6782 ?ror .
+  ?inst wdt:P17 wd:Q211 .
+  ?inst wdt:P571 ?inception .
+  OPTIONAL { ?inst wdt:P159 ?hq }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "lv,en" }
+}
+ORDER BY ?inception
+LIMIT 8

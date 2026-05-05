@@ -1,0 +1,120 @@
+{
+  "created": "2026-03-29T10:53:46.363234+00:00",
+  "modified": "2026-03-29T10:53:46.564658+00:00",
+  "id": 19311915,
+  "conceptrecid": "19311914",
+  "doi": "10.5281/zenodo.19311915",
+  "conceptdoi": "10.5281/zenodo.19311914",
+  "doi_url": "https://doi.org/10.5281/zenodo.19311915",
+  "metadata": {
+    "title": "Party financial declarations, Latvia, 2002-2024",
+    "doi": "10.5281/zenodo.19311915",
+    "publication_date": "2026-03-29",
+    "description": "<p>Data from annual financial declarations submitted to the supervising authority by Latvian political parties, 2002-2024.</p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Ikstens, Jānis",
+        "affiliation": "University of Latvia",
+        "orcid": "0000-0003-3191-6305"
+      }
+    ],
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "grants": [
+      {
+        "code": "LU-BA-ZG-2024/1-0019",
+        "internal_id": "05g3mes96::LU-BA-ZG-2024/1-0019",
+        "funder": {
+          "name": "University of Latvia"
+        },
+        "title": "Public funding and party organizational development in Latvia and Estonia"
+      }
+    ],
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "19311914"
+          }
+        }
+      ]
+    }
+  },
+  "title": "Party financial declarations, Latvia, 2002-2024",
+  "links": {
+    "self": "https://zenodo.org/api/records/19311915",
+    "self_html": "https://zenodo.org/records/19311915",
+    "preview_html": "https://zenodo.org/records/19311915?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.19311915",
+    "self_doi": "https://doi.org/10.5281/zenodo.19311915",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19311915",
+    "reserve_doi": "https://zenodo.org/api/records/19311915/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/19311914",
+    "parent_html": "https://zenodo.org/records/19311914",
+    "parent_doi": "https://doi.org/10.5281/zenodo.19311914",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19311914",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:19311915/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:19311915/sequence/default",
+    "files": "https://zenodo.org/api/records/19311915/files",
+    "media_files": "https://zenodo.org/api/records/19311915/media-files",
+    "archive": "https://zenodo.org/api/records/19311915/files-archive",
+    "archive_media": "https://zenodo.org/api/records/19311915/media-files-archive",
+    "latest": "https://zenodo.org/api/records/19311915/versions/latest",
+    "latest_html": "https://zenodo.org/records/19311915/latest",
+    "versions": "https://zenodo.org/api/records/19311915/versions",
+    "draft": "https://zenodo.org/api/records/19311915/draft",
+    "access_links": "https://zenodo.org/api/records/19311915/access/links",
+    "access_grants": "https://zenodo.org/api/records/19311915/access/grants",
+    "access_users": "https://zenodo.org/api/records/19311915/access/users",
+    "access_request": "https://zenodo.org/api/records/19311915/access/request",
+    "access": "https://zenodo.org/api/records/19311915/access",
+    "communities": "https://zenodo.org/api/records/19311915/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/19311915/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/19311915/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/19311915/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/19311915/quota-increase",
+    "requests": "https://zenodo.org/api/records/19311915/requests"
+  },
+  "updated": "2026-03-29T10:53:46.564658+00:00",
+  "recid": "19311915",
+  "revision": 4,
+  "files": [
+    {
+      "id": "73a0b550-9e1f-4317-bca4-464e03ed1a2e",
+      "key": "LV annual financial declarations_Zenodo.xlsx",
+      "size": 529866,
+      "checksum": "md5:ca64e9a7adab8645bf1ec7b1bf107184",
+      "links": {
+        "self": "https://zenodo.org/api/records/19311915/files/LV%20annual%20financial%20declarations_Zenodo.xlsx/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "1242953"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 1,
+    "unique_downloads": 1,
+    "views": 9,
+    "unique_views": 9,
+    "version_downloads": 1,
+    "version_unique_downloads": 1,
+    "version_unique_views": 9,
+    "version_views": 9
+  },
+  "state": "done",
+  "submitted": true
+}

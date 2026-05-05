@@ -1,0 +1,33 @@
+{
+  "type": "dataset",
+  "id": "https://doi.org/10.71782/data/qvuert",
+  "categories": [
+    "Arts and Humanities",
+    "filozofija Latvijā, padomju filozofija, konversijas, pārrāvumi, epistēmiskās stratēģijas"
+  ],
+  "author": [
+    {
+      "family": "Balodis",
+      "given": "Andrejs"
+    }
+  ],
+  "contributor": [
+    {
+      "family": "Balodis",
+      "given": "Andrejs"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "abstract": "Pētījumā izmantota jauktu metožu pieeja, kas apvieno ideju, ideoloģiju un sociāli kultūras konteksta historiogrāfiskus pētījumus ar kvalitatīvu empīrisko izpēti. Pieeja ietver (a) vēsturisko avotu izpēti par periodiem (1944–1953 un 1981–1990) un (b) kvalitatīvu empīrisko izpēti, konkrētāk biogrāfiskās izpētes metodes, lai atklātu pārrāvumus Padomju Latvijas filozofijā no pirmās personas skatpunkta. Biogrāfiskās izpētes metožu izmantošana sniedz perspektīvu, kas ļauj pilnvērtīgāk izprast pārrāvuma procesus Latvijas intelektuālajā vēsturē Padomju periodā.\nDatu kopa ietver 6 biogrāfisko interviju transkripcijas ar respondentiem, kuri profesionāli nodarbojušies ar filozofiju Latvijas PSR, par viņu pieredzi un lietotajām stratēģijām, pielāgojoties padomju režīma ideoloģiskajiem apstākļiem.\n\nThe study employs a mixed-methods approach that combines historiographical analysis of ideas, ideologies, and socio-cultural contexts with qualitative empirical research. The approach includes (a) an examination of historical sources from the periods 1944–1953 and 1981–1990, and (b) qualitative empirical inquiry, specifically the use of biographical research methods, to uncover ruptures in Soviet Latvian philosophy from a first-person perspective. The use of biographical methods provides a perspective that enables a more comprehensive understanding of processes of rupture in Latvia’s intellectual history during the Soviet period.\nThe dataset consists of six biographical interview transcripts with respondents who were professionally engaged in philosophy in the Latvian SSR, focusing on their experiences and the strategies they employed to adapt to the ideological conditions of the Soviet regime.",
+  "DOI": "10.71782/DATA/QVUERT",
+  "publisher": "DataverseLV",
+  "title": "Biogrāfisko interviju transkripcijas projektā \"Konversijas un parāvumi: latviešu filozofijas epistēmiskās stratēģijas padomju periodā (1944-1991)\"",
+  "URL": "https://dv.dataverse.lv/citation?persistentId=doi:10.71782/DATA/QVUERT",
+  "version": "1.0"
+}

@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Spinazzola, Elisabetta</creatorName>
+      <givenName>Elisabetta</givenName>
+      <familyName>Spinazzola</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0009-0007-5966-7976</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/00bgk9508" affiliationIdentifierScheme="ROR">Polytechnic University of Turin</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Prono, Luciano</creatorName>
+      <givenName>Luciano</givenName>
+      <familyName>Prono</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0003-1507-9092</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/00bgk9508" affiliationIdentifierScheme="ROR">Polytechnic University of Turin</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Guanziroli, Eleonora</creatorName>
+      <givenName>Eleonora</givenName>
+      <familyName>Guanziroli</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0002-7512-5372</nameIdentifier>
+      <affiliation>Villa Beretta</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Molteni, Franco</creatorName>
+      <givenName>Franco</givenName>
+      <familyName>Molteni</familyName>
+      <affiliation>Villa Beretta</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Pareschi, Fabio</creatorName>
+      <givenName>Fabio</givenName>
+      <familyName>Pareschi</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0001-8777-7135</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/00bgk9508" affiliationIdentifierScheme="ROR">Polytechnic University of Turin</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Rovatti, Riccardo</creatorName>
+      <givenName>Riccardo</givenName>
+      <familyName>Rovatti</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0002-4731-7860</nameIdentifier>
+      <affiliation>University of Bologna</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Setti, Gianluca</creatorName>
+      <givenName>Gianluca</givenName>
+      <familyName>Setti</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0002-2496-1856</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/01q3tbs38" affiliationIdentifierScheme="ROR">King Abdullah University of Science and Technology</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title>Athar: Biosignals Dataset from a Para-Handcycling ride across Saudi Arabia</title>
+  </titles>
+  <publisher name="Zenodo"/>
+  <publicationYear>2025</publicationYear>
+  <subjects>
+    <subject subjectScheme="MeSH">Spinal Cord Injuries</subject>
+    <subject subjectScheme="MeSH">Datasets as Topic/statistics &amp; numerical data</subject>
+    <subject subjectScheme="MeSH">Neurological Rehabilitation/statistics &amp; numerical data</subject>
+    <subject subjectScheme="MeSH">Fatigue/physiopathology</subject>
+    <subject subjectScheme="MeSH">Heart Rate Determination</subject>
+    <subject subjectScheme="MeSH">Body Temperature Changes</subject>
+    <subject subjectScheme="MeSH">Paraplegia</subject>
+  </subjects>
+  <dates>
+    <date dateType="Issued">2025-05-08</date>
+    <date dateType="Updated">2026-05-04</date>
+  </dates>
+  <language>eng</language>
+  <resourceType resourceTypeGeneral="Dataset"></resourceType>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsVersionOf">10.5281/zenodo.15365514</relatedIdentifier>
+  </relatedIdentifiers>
+  <version>v1.0</version>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode" rightsIdentifierScheme="spdx" rightsIdentifier="cc-by-nc-sa-4.0">Creative Commons Attribution Non Commercial Share Alike 4.0 International</rights>
+    <rights rightsURI="info:eu-repo/semantics/openAccess"/>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">This work follows a five-month training period culminating in the first hand-bike ride across Saudi Arabia ever. The subject undertook a 30-day journey from east to west, cycling over 3000 km between December 10, 2023, and January 17, 2024. He began in Dammam and concluded at the KAUST campus, passing through major cities and regions including Riyadh, Buraydah (Qassim), Hail, AlUla, Red Sea Global, Al-Madinah, Makkah, Jeddah, and finally KAUST, asdocumented by the Athar web-site. For the study, the participant employed the CrossWind XE handbike by Maddiline Cycle Snc 3 and the HP Scorpion FS 26Enduro trike 4. More specifically, this is a tadpole trike, which is part of a much larger class of human-powered vehicles called recumbents.Furthermore, the individual employs functional electrical stimulation (FES). FES reproduces the physiological movements of the muscle groups involved, enabling limb movement even with reduced or absent neural connectivity. Specifically, he used the portable VIK8 solution with the Adaptive Functional Electrical Stimulation Kinesitherapy technology (AFESK), developed by VIKTOR S.r.l., an innovative MedTech SME that develops devices and methods with applications in neurorehabilitation and sports training. VIK8 can reproduce, support, and maximize every complex cyclical movement, such as cycling with a bicycle, hand bike, or trike.Finally, data was sent daily to the Villa Beretta Rehabilitation Research Innovation Institute (VBRRII), in order to monitor in real time the patient’s state.
+
+ </description>
+    <description descriptionType="Abstract">The availability of public biosignal datasets is crucial for the research advancement in healthcare. More specifically, data from patients under specific disease conditions (e.g., paraplegic subjects) are rare but necessary, for the development of diagnostic and therapeutic tools.In this work, we release a new dataset, published on the Physionet platform, along with a detailed description and analysis. It is composed of biosignal recordings of a Spinal Cord-Injured (SCI) subject, performing hand-bicycle training over five month and 3000 km hand-bycicle race across Saudi Arabia. The participant was equipped with Healer R2 and R3 wearable devices by L.I.F.E. S.r.l., to record electrocardiographic, respiration, blood saturation, acceleration and body temperature signals. The raw data elaboration employs standard methods to evaluate multiple physiological parameters and clinical aspects, such as heart rate, respiration rate, fatigue and the correlation and consistency of the acquired data. During the race, clinical parameters showed less variability compared to the training, while fatigue resistance increased due to the improved physical condition introduced by training.This case study serves as a foundation for long-term recordings acquisitions, enabling analyses of rehabilitation progress and training effectiveness in SCI individuals.</description>
+    <description descriptionType="Methods">Device:----------------------------------------------------We employed the Healer wearable device to collect the training and journey biomedical data. Healer is a wearableembedded device made of synthetic, elastic and breathable technical fabric that integrates a series of sensors for detecting physiological parameters and signals. Healer is a Medical Device (MDD Class IIa) developed by L.I.F.E. Italia S.r.l. 5, intended for multiparametric monitoring applications and diagnostic exams. The device includes a data logger and cloud platform (Healer Cloud) for data storage and elaboration. In our experiment, the subject used both the Healer R2 and R3 models. The sensor-equipped garment records a set of different physiological signals:.• The ECG signals. • The respiratory signals. • Temperature.• The SpO2. • The mechanical acceleration. It is measured by means of a 9-channels Inertial Measurement Unit sensor (IMU)placed on the subject’s back.All the sensors are controlled by dedicated electronics, which are enclosed within a plastic shell -— the wearabledevice connector -— located in the rear of the Healer device. You can find more information at: https://x10x.com/
+
+Partecipant:----------------------------------------------------
+
+1 subject. He is a 42 years old male subject of 79 kg and 1.75 meters tall, with lumbosacral partial stable SCI damage. The participant was not active athlete before his spinal cord injury occurred.Instead, after the rehabilitation, he started performing outdoor race, improving is sport endurance. The investigation was approved by the KAUST University. All training sessions were planned and supervised by the clinical team, which followed his rehabilitation program.
+
+ </description>
+    <description descriptionType="TechnicalInfo">Description of database:
+
+  This database contains 42 records, each named as  the date in which they have been recorded.36 of them are related to the subject’s training phase from July (20230714) to December 2023 (20231211), whilethe remaining 6 were recorded during the race period from December 2023 (20231229) to January 2024 (20240113). Each record corresponds to a training or race session respectively. Each record folder contains datastructured as follow, for a total of 23 types of raw biosignals (dataset entries) and 3 extracted features.The extracted features and associated script functions are implemented in Matlab. Each record is made up of .h5 file: named as the date in which data have been recorded. It contains:
+
+- the accelerometer data in X, Y and Z direction. The sensor is set so that the x-axis corresponds to the transverse(horizontal) plane, the y-axis to the longitudinal (vertical) plane, and the z-axis to the sagittal plane. In this configuration, the y-acceleration signal (Y) indicates the gravitational acceleration (9.8 m/s2) along with any leaps or undulations from the ground. The x-acceleration (X) revealed a mean equal to 0 m/s2, indicating no motion in that direction (as expected), while the z-acceleration (Z) corresponds to the direction of motion. Finally, we can infer the sensor orientation from the acceleration data. As an example, we observe a negative contribution in the z-acceleration due to the angle created by the inclined sitting position of the hand bike.They are expressed in m/s^2 and sampled at 100Hz.
+
+- the electrocardiogram signals of la, ll, ra. Since these signals have been recorded for well-being estimation only, they have been acquired at 1 Hz. They are expressed in mV.
+
+- stores leads l1, l2 and v1 to v6. These signals have been recorded at 500 Hz of sampling frequency to perform a more precise diagnostic examination and clinical monitoring. They are expressed in mV.
+
+-Respiration data: abdominal, xiphoid and thoracic records. They are expressed in mV and sampled at 50Hz.
+
+-O2 data: the SpO2, the perfusion, the quality of acquisition of the records and the general status. They have adimentional physical unit and are expressed in percentage. They have been acquired at 0.67Hz.
+
+-Temperature: two temperature signals. The two recordings refer to a dual temperature sensor. Originally, one measures the body temperature, which is, affected by the ambient temperature due to the sensor’s design.Therefore, an additional sensor has been added to measure the ambient temperature, which in turn is affected by thebody temperature. However, t1 differs from t2 of maximum 3.46 ◦C. For the evaluation in this work we used the t1signals.Some temperature recordings (from the 10th of September to the 1st of October and from 6th of October to the 11thof December) are affected by poor quality and corrupted acquisition, because of an undetected device damage. They have been sampled at 1Hz and expressed in °C.
+
+-Variable.mat: contains extra features evaluated from the I leads, as HR and RR, heart rate and respiration rate. HR and RR are expressed in bpm
+
+-PQR.mat: correspond to Pulse Respiration Quotient, (ratio between HR and RR), as an adimentional quantity.They have been evaluated for each minute of record. 
+
+In the function folder, there are the following scripts:- visualize.m : to open the raw data .h5 file and see every signals.- PQR.m: to evaluate the PQR feature.- hrv.m: to calculate che HR and denoise the ECG signals.- fatigue.m: to perform a fatigue assessment from hrv spectrum.</description>
+    <description descriptionType="Other">References to any published works that describe or make use of the database, in the form in which theseworks should be cited in any future publications o dataset usage: DOI 10.5281/zenodo.15365515.
+
+Contact information:----------------------------------------------------(1) PhD student Elisabetta Spinazzola    Department of Electronic and Telecommunication, Politecnico di Torino, 10129 Torino, Italy    elisabetta.spinazzola@polito.it(2) Assistant Professor Luciano Prono     Department of Electronic and Telecommunication, Politecnico di Torino, 10129 Torino, Italy    luciano.prono@polito.it.</description>
+  </descriptions>
+</resource>

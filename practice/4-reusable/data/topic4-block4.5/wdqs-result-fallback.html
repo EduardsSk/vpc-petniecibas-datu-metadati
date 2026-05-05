@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+  <meta charset="UTF-8">
+  <title>WDQS fallback — Bloks 4.5 SPARQL šabloni (VPC 2026/4)</title>
+  <meta name="generator" content="VPC 2026/4 Topic 4 Phase 4c capture (2026-05-04)">
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; max-width: 960px; margin: 2em auto; padding: 0 1em; color: #003C4A; line-height: 1.5; }
+    h1 { color: #003C4A; border-bottom: 3px solid #FFB82E; padding-bottom: .3em; }
+    h2 { color: #003C4A; border-bottom: 1px solid #DDF6F1; padding-bottom: .2em; margin-top: 2em; }
+    .alert { background: #FFF1D5; border-left: 4px solid #FFB82E; padding: 1em 1.2em; margin: 1em 0; border-radius: 4px; }
+    pre { background: #f4f8f8; border: 1px solid #DDF6F1; padding: .8em 1em; border-radius: 4px; overflow-x: auto; font-size: 0.95em; }
+    table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+    th, td { padding: .4em .8em; border: 1px solid #DDF6F1; text-align: left; vertical-align: top; }
+    th { background: #DDF6F1; font-weight: 600; }
+    tr:nth-child(even) { background: #f4f8f8; }
+    a { color: #003C4A; }
+    code { background: #f4f8f8; padding: .15em .3em; border-radius: 3px; font-size: 0.9em; }
+    .meta { color: #555; font-size: 0.9em; }
+  </style>
+</head>
+<body>
+
+<h1>WDQS fallback — Bloks 4.5 SPARQL šabloni</h1>
+
+<p class="meta">VPC 2026/4 — Pētniecības datu metadatu izveide. 4. sesija, Bloks 4.5 (15:50–16:15). Šis fails ir <strong>fallback variants</strong>, ja jūsu pārlūks nevar atvērt <a href="https://query.wikidata.org/">https://query.wikidata.org/</a>. Saglabātie rezultāti — 2026-05-04 PM live verifikācija.</p>
+
+<div class="alert">
+  <strong>Ko darīt:</strong> ja jūsu cilne <code>query.wikidata.org</code> neielādējas 1 minūtes laikā, atveriet šo HTML failu lokāli (ko jūs jau darāt — tā taču, ja redzat šo tekstu) un sekojiet zemāk dotajiem rezultātiem. Ja jūsu pārlūks <em>strādā</em>, atstājiet šo cilni atvērtu kā uzziņu — jūsu pašu izvades atbilst zemāk redzamajām.
+</div>
+
+<h2>T1 — Latvijas iestādes ar ROR ID</h2>
+
+<p>Tas pats vaicājums, ko 3. sesijas Bloka 3.4 demonstrācijā redzējāt. Filtrē Wikidata pēc divām īpašībām: <code>P6782</code> (ROR ID — pastāv ieraksts) un <code>P17</code> (valsts = Latvija, <code>wd:Q211</code>).</p>
+
+<pre>SELECT ?inst ?instLabel ?ror
+WHERE {
+  ?inst wdt:P6782 ?ror .
+  ?inst wdt:P17 wd:Q211 .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "lv,en" }
+}
+LIMIT 12</pre>
+
+<p><strong>Sagaidāms iznākums:</strong> 12 rindas (~0,2 sek). Faktiskais 2026-05-04 PM iznākums:</p>
+
+<table>
+  <thead><tr><th>Iestāde</th><th>Wikidata</th><th>ROR ID</th></tr></thead>
+  <tbody>
+    <tr><td>Latvijas Banka</td><td>Q687709</td><td>000cf1839</td></tr>
+    <tr><td>Rīgas Juridiskā augstskola</td><td>Q850355</td><td>05wh3xd46</td></tr>
+    <tr><td>Rīgas Tehniskā universitāte</td><td>Q411895</td><td>00twb6c09</td></tr>
+    <tr><td>Latvijas Universitāte</td><td>Q498407</td><td>05g3mes96</td></tr>
+    <tr><td>Latvijas Organiskās sintēzes institūts</td><td>Q4201643</td><td>01a92vw29</td></tr>
+    <tr><td>Transporta un sakaru institūts</td><td>Q4201765</td><td>01628w679</td></tr>
+    <tr><td>Latvijas Jūras akadēmija</td><td>Q4254869</td><td>00xxekd18</td></tr>
+    <tr><td>Latvijas Kultūras akadēmija</td><td>Q4254872</td><td>03f18y477</td></tr>
+    <tr><td>Liepājas Universitāte</td><td>Q3498695</td><td>01gzemj61</td></tr>
+    <tr><td>RTU Rēzeknes akadēmija</td><td>Q3801493</td><td>04d6the49</td></tr>
+    <tr><td>RTU Rēzeknes akadēmija</td><td>Q3801493</td><td>0510ppv76</td></tr>
+    <tr><td>Rīgas Ekonomikas augstskola</td><td>Q3931927</td><td>00qaje814</td></tr>
+  </tbody>
+</table>
+
+<p class="meta">Piezīme: RTU Rēzeknes akadēmijai ir divi ROR ID — tas ir reāls Wikidata ↔ ROR savienojuma raksts (institūcija pastāv vairāk kā vienā ROR ierakstā vēsturisku iemeslu dēļ). Tas ir pedagoģiski derīgs novērojums R1.3 par "saites starp reģistriem ne vienmēr ir 1:1".</p>
+
+<h2>T2 — Latvijas universitātes (filtrs)</h2>
+
+<p>Vienīgā maiņa salīdzinājumā ar T1: pievienota viena rinda <code>?inst wdt:P31 wd:Q3918 .</code> — kas filtrē rezultātus, lai paliek tikai tās iestādes, kas Wikidata ir klasificētas kā "universitāte" (<code>Q3918</code>).</p>
+
+<pre>SELECT ?inst ?instLabel ?ror
+WHERE {
+  ?inst wdt:P6782 ?ror .
+  ?inst wdt:P17 wd:Q211 .
+  ?inst wdt:P31 wd:Q3918 .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "lv,en" }
+}
+LIMIT 10</pre>
+
+<p><strong>Sagaidāms iznākums:</strong> 10 rindas (~0,3 sek):</p>
+
+<table>
+  <thead><tr><th>Iestāde</th><th>Wikidata</th><th>ROR ID</th></tr></thead>
+  <tbody>
+    <tr><td>Liepājas Universitāte</td><td>Q3498695</td><td>01gzemj61</td></tr>
+    <tr><td>Daugavpils Universitāte</td><td>Q1854796</td><td>01mrkb883</td></tr>
+    <tr><td>Rīgas Stradiņa universitāte</td><td>Q2007643</td><td>03nadks56</td></tr>
+    <tr><td>Jāzepa Vītola Latvijas Mūzikas akadēmija</td><td>Q2570442</td><td>014zenb08</td></tr>
+    <tr><td>Baltijas Starptautiskā akadēmija</td><td>Q4076909</td><td>02r52cf76</td></tr>
+    <tr><td>Latvijas Jūras akadēmija</td><td>Q4254869</td><td>00xxekd18</td></tr>
+    <tr><td>Latvijas Kultūras akadēmija</td><td>Q4254872</td><td>03f18y477</td></tr>
+    <tr><td>Rīgas Starptautiskā ekonomikas un biznesa administrācijas augstskola</td><td>Q4394523</td><td>00pc6v375</td></tr>
+    <tr><td>Latvijas Biozinātņu un tehnoloģiju universitāte</td><td>Q1342858</td><td>03f077y84</td></tr>
+    <tr><td>Starptautiskā praktiskās psiholoģijas augstskola</td><td>Q15649513</td><td>00skfd876</td></tr>
+  </tbody>
+</table>
+
+<p class="meta">T2 padara redzamu, ka <strong>vienīgais ko mēs mainām</strong> no T1 ir viena Wikidata īpašība — <code>P31</code> (instance of). T1 atbild "kuras LV iestādes ir reģistrētas ROR?"; T2 atbild "no tām — kuras ir universitātes?". Tas pats lauks <code>P6782</code>; cits jautājums.</p>
+
+<h2>T3 — F2 ≡ R1 closing payoff</h2>
+
+<p>Tās pašas Wikidata īpašības, ko lietojām T1, lai <em>atrastu</em> iestādi (<code>P6782</code> ROR ID; <code>P17</code> valsts) — nāk kopā ar <code>P571</code> (dibināšanas gads) un <code>P159</code> (mītne) — <strong>kas piešķir kontekstu <em>atkārtotai izmantošanai</em></strong>. Lauks neizmainās; izmaināt jautājums.</p>
+
+<pre>SELECT ?inst ?instLabel ?ror ?inception ?hqLabel
+WHERE {
+  ?inst wdt:P6782 ?ror .
+  ?inst wdt:P17 wd:Q211 .
+  ?inst wdt:P571 ?inception .
+  OPTIONAL { ?inst wdt:P159 ?hq }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "lv,en" }
+}
+ORDER BY ?inception
+LIMIT 8</pre>
+
+<p><strong>Sagaidāms iznākums:</strong> 8 rindas (~0,3 sek) — 8 vecākās LV iestādes ar dokumentētu dibināšanas gadu, sakārtotas pēc dibināšanas gada augšupejoši:</p>
+
+<table>
+  <thead><tr><th>Iestāde</th><th>ROR ID</th><th>Dibināšanas gads</th><th>Mītne</th></tr></thead>
+  <tbody>
+    <tr><td>Rīgas Būvniecības koledža</td><td>05xgx1b08</td><td>1872</td><td><em>(nav)</em></td></tr>
+    <tr><td>Paula Stradiņa klīniskā universitātes slimnīca</td><td>00h1aq868</td><td>1910</td><td>Rīga</td></tr>
+    <tr><td>Latvijas Republikas Ekonomikas ministrija</td><td>00kzfz874</td><td>1918</td><td>Rīga</td></tr>
+    <tr><td>Latvijas Republikas Iekšlietu ministrija</td><td>05503d050</td><td>1918</td><td><em>(nav)</em></td></tr>
+    <tr><td>Latvijas Republikas Izglītības un zinātnes ministrija</td><td>02hcxaq60</td><td>1918-11-18</td><td>Rīga</td></tr>
+    <tr><td>Latvijas Republikas Viedās administrācijas un reģionālās attīstības ministrija</td><td>03b7ffd73</td><td>1918-11-18</td><td>Rīga</td></tr>
+    <tr><td>Latvijas Mākslas akadēmija</td><td>015j3ky41</td><td>1919-08-20</td><td>Rīga</td></tr>
+    <tr><td>Latvijas Sporta pedagoģijas akadēmija</td><td>02h9hn661</td><td>1921</td><td><em>(nav)</em></td></tr>
+  </tbody>
+</table>
+
+<div class="alert">
+  <strong>F2 ≡ R1 atziņa:</strong> T1 vaicājums <em>atrod</em> 12 LV iestādes ar ROR ID — tas ir <strong>F2</strong> (bagātīgi metadati, kas padara iestādi atrodamu). T3 vaicājums tām pašām iestādēm pievieno divas īpašības — kad iestāde dibināta, kur tā atrodas — kas piešķir kontekstu atkārtotai izmantošanai. Tas ir <strong>R1</strong> (bagātīgs apraksts, kas padara datus atkārtoti izmantojamus). <strong>Tas pats lauks <code>P6782</code>. Divi jautājumi.</strong>
+</div>
+
+<h2>Avoti un atsauces</h2>
+
+<ul>
+  <li>Wikidata Query Service: <a href="https://query.wikidata.org/">https://query.wikidata.org/</a></li>
+  <li>SPARQL 1.1 specifikācija: <a href="https://www.w3.org/TR/sparql11-query/">W3C Recommendation 2013-03-21</a></li>
+  <li>Wikidata SPARQL ielāde: <a href="https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service">Wikidata:SPARQL_query_service</a></li>
+  <li>3. sesijas Bloka 3.4 ievada vaicājums: <code>materials/practice/3-interoperable-reusable-vocabulary-suggestion.md</code></li>
+  <li>Šī faila ģenerēšana: 4. sesijas Phase 4c capture, 2026-05-04 PM (Topic 4 build)</li>
+</ul>
+
+<p class="meta">Šis HTML fails ir saglabāts kursa materiālu pakas ietvaros (<code>practice/4-reusable/data/topic4-block4.5/wdqs-result-fallback.html</code>). Pēc 4. sesijas tas ir pieejams ikvienam dalībniekam tālākai uzziņai. Jautājumi: <a href="mailto:eduards.skvireckis@lnb.lv">eduards.skvireckis@lnb.lv</a>.</p>
+
+</body>
+</html>

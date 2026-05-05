@@ -1,0 +1,290 @@
+{
+  "data": {
+    "id": "10.5281/zenodo.15365515",
+    "type": "dois",
+    "attributes": {
+      "doi": "10.5281/zenodo.15365515",
+      "prefix": "10.5281",
+      "suffix": "zenodo.15365515",
+      "identifiers": [
+        {
+          "identifier": "oai:zenodo.org:15365515",
+          "identifierType": "oai"
+        }
+      ],
+      "alternateIdentifiers": [
+        {
+          "alternateIdentifierType": "oai",
+          "alternateIdentifier": "oai:zenodo.org:15365515"
+        }
+      ],
+      "creators": [
+        {
+          "name": "Spinazzola, Elisabetta",
+          "nameType": "Personal",
+          "givenName": "Elisabetta",
+          "familyName": "Spinazzola",
+          "affiliation": [
+            "Polytechnic University of Turin"
+          ],
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "0009-0007-5966-7976",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ]
+        },
+        {
+          "name": "Prono, Luciano",
+          "nameType": "Personal",
+          "givenName": "Luciano",
+          "familyName": "Prono",
+          "affiliation": [
+            "Polytechnic University of Turin"
+          ],
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "0000-0003-1507-9092",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ]
+        },
+        {
+          "name": "Guanziroli, Eleonora",
+          "nameType": "Personal",
+          "givenName": "Eleonora",
+          "familyName": "Guanziroli",
+          "affiliation": [
+            "Villa Beretta"
+          ],
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "0000-0002-7512-5372",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ]
+        },
+        {
+          "name": "Molteni, Franco",
+          "nameType": "Personal",
+          "givenName": "Franco",
+          "familyName": "Molteni",
+          "affiliation": [
+            "Villa Beretta"
+          ],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Pareschi, Fabio",
+          "nameType": "Personal",
+          "givenName": "Fabio",
+          "familyName": "Pareschi",
+          "affiliation": [
+            "Polytechnic University of Turin"
+          ],
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "0000-0001-8777-7135",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ]
+        },
+        {
+          "name": "Rovatti, Riccardo",
+          "nameType": "Personal",
+          "givenName": "Riccardo",
+          "familyName": "Rovatti",
+          "affiliation": [
+            "University of Bologna"
+          ],
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "0000-0002-4731-7860",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ]
+        },
+        {
+          "name": "Setti, Gianluca",
+          "nameType": "Personal",
+          "givenName": "Gianluca",
+          "familyName": "Setti",
+          "affiliation": [
+            "King Abdullah University of Science and Technology"
+          ],
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "0000-0002-2496-1856",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "title": "Athar: Biosignals Dataset from a Para-Handcycling ride across Saudi Arabia"
+        }
+      ],
+      "publisher": "Zenodo",
+      "container": {},
+      "publicationYear": 2025,
+      "subjects": [
+        {
+          "subject": "Spinal Cord Injuries",
+          "subjectScheme": "MeSH"
+        },
+        {
+          "subject": "Datasets as Topic/statistics &amp; numerical data",
+          "subjectScheme": "MeSH"
+        },
+        {
+          "subject": "Neurological Rehabilitation/statistics &amp; numerical data",
+          "subjectScheme": "MeSH"
+        },
+        {
+          "subject": "Fatigue/physiopathology",
+          "subjectScheme": "MeSH"
+        },
+        {
+          "subject": "Heart Rate Determination",
+          "subjectScheme": "MeSH"
+        },
+        {
+          "subject": "Body Temperature Changes",
+          "subjectScheme": "MeSH"
+        },
+        {
+          "subject": "Paraplegia",
+          "subjectScheme": "MeSH"
+        }
+      ],
+      "contributors": [],
+      "dates": [
+        {
+          "date": "2025-05-08",
+          "dateType": "Issued"
+        }
+      ],
+      "language": "en",
+      "types": {
+        "ris": "DATA",
+        "bibtex": "misc",
+        "citeproc": "dataset",
+        "schemaOrg": "Dataset",
+        "resourceType": "",
+        "resourceTypeGeneral": "Dataset"
+      },
+      "relatedIdentifiers": [
+        {
+          "relationType": "IsVersionOf",
+          "relatedIdentifier": "10.5281/zenodo.15365514",
+          "relatedIdentifierType": "DOI"
+        }
+      ],
+      "relatedItems": [],
+      "sizes": [],
+      "formats": [],
+      "version": "v1.0",
+      "rightsList": [
+        {
+          "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-nc-sa-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ],
+      "descriptions": [
+        {
+          "description": "This work follows a five-month training period culminating in the first hand-bike ride across Saudi Arabia ever. The subject undertook a 30-day journey from east to west, cycling over 3000 km between December 10, 2023, and January 17, 2024. He began in Dammam and concluded at the KAUST campus, passing through major cities and regions including Riyadh, Buraydah (Qassim), Hail, AlUla, Red Sea Global, Al-Madinah, Makkah, Jeddah, and finally KAUST, asdocumented by the Athar web-site. For the study, the participant employed the CrossWind XE handbike by Maddiline Cycle Snc 3 and the HP Scorpion FS 26Enduro trike 4. More specifically, this is a tadpole trike, which is part of a much larger class of human-powered vehicles called recumbents.Furthermore, the individual employs functional electrical stimulation (FES). FES reproduces the physiological movements of the muscle groups involved, enabling limb movement even with reduced or absent neural connectivity. Specifically, he used the portable VIK8 solution with the Adaptive Functional Electrical Stimulation Kinesitherapy technology (AFESK), developed by VIKTOR S.r.l., an innovative MedTech SME that develops devices and methods with applications in neurorehabilitation and sports training. VIK8 can reproduce, support, and maximize every complex cyclical movement, such as cycling with a bicycle, hand bike, or trike.Finally, data was sent daily to the Villa Beretta Rehabilitation Research Innovation Institute (VBRRII), in order to monitor in real time the patient’s state.\n\n ",
+          "descriptionType": "Abstract"
+        },
+        {
+          "description": "The availability of public biosignal datasets is crucial for the research advancement in healthcare. More specifically, data from patients under specific disease conditions (e.g., paraplegic subjects) are rare but necessary, for the development of diagnostic and therapeutic tools.In this work, we release a new dataset, published on the Physionet platform, along with a detailed description and analysis. It is composed of biosignal recordings of a Spinal Cord-Injured (SCI) subject, performing hand-bicycle training over five month and 3000 km hand-bycicle race across Saudi Arabia. The participant was equipped with Healer R2 and R3 wearable devices by L.I.F.E. S.r.l., to record electrocardiographic, respiration, blood saturation, acceleration and body temperature signals. The raw data elaboration employs standard methods to evaluate multiple physiological parameters and clinical aspects, such as heart rate, respiration rate, fatigue and the correlation and consistency of the acquired data. During the race, clinical parameters showed less variability compared to the training, while fatigue resistance increased due to the improved physical condition introduced by training.This case study serves as a foundation for long-term recordings acquisitions, enabling analyses of rehabilitation progress and training effectiveness in SCI individuals.",
+          "descriptionType": "Abstract"
+        },
+        {
+          "description": "Device:----------------------------------------------------We employed the Healer wearable device to collect the training and journey biomedical data. Healer is a wearableembedded device made of synthetic, elastic and breathable technical fabric that integrates a series of sensors for detecting physiological parameters and signals. Healer is a Medical Device (MDD Class IIa) developed by L.I.F.E. Italia S.r.l. 5, intended for multiparametric monitoring applications and diagnostic exams. The device includes a data logger and cloud platform (Healer Cloud) for data storage and elaboration. In our experiment, the subject used both the Healer R2 and R3 models. The sensor-equipped garment records a set of different physiological signals:.• The ECG signals. • The respiratory signals. • Temperature.• The SpO2. • The mechanical acceleration. It is measured by means of a 9-channels Inertial Measurement Unit sensor (IMU)placed on the subject’s back.All the sensors are controlled by dedicated electronics, which are enclosed within a plastic shell -— the wearabledevice connector -— located in the rear of the Healer device. You can find more information at: https://x10x.com/\n\nPartecipant:----------------------------------------------------\n\n1 subject. He is a 42 years old male subject of 79 kg and 1.75 meters tall, with lumbosacral partial stable SCI damage. The participant was not active athlete before his spinal cord injury occurred.Instead, after the rehabilitation, he started performing outdoor race, improving is sport endurance. The investigation was approved by the KAUST University. All training sessions were planned and supervised by the clinical team, which followed his rehabilitation program.\n\n ",
+          "descriptionType": "Methods"
+        },
+        {
+          "description": "Description of database:\n\n  This database contains 42 records, each named as  the date in which they have been recorded.36 of them are related to the subject’s training phase from July (20230714) to December 2023 (20231211), whilethe remaining 6 were recorded during the race period from December 2023 (20231229) to January 2024 (20240113). Each record corresponds to a training or race session respectively. Each record folder contains datastructured as follow, for a total of 23 types of raw biosignals (dataset entries) and 3 extracted features.The extracted features and associated script functions are implemented in Matlab. Each record is made up of .h5 file: named as the date in which data have been recorded. It contains:\n\n- the accelerometer data in X, Y and Z direction. The sensor is set so that the x-axis corresponds to the transverse(horizontal) plane, the y-axis to the longitudinal (vertical) plane, and the z-axis to the sagittal plane. In this configuration, the y-acceleration signal (Y) indicates the gravitational acceleration (9.8 m/s2) along with any leaps or undulations from the ground. The x-acceleration (X) revealed a mean equal to 0 m/s2, indicating no motion in that direction (as expected), while the z-acceleration (Z) corresponds to the direction of motion. Finally, we can infer the sensor orientation from the acceleration data. As an example, we observe a negative contribution in the z-acceleration due to the angle created by the inclined sitting position of the hand bike.They are expressed in m/s^2 and sampled at 100Hz.\n\n- the electrocardiogram signals of la, ll, ra. Since these signals have been recorded for well-being estimation only, they have been acquired at 1 Hz. They are expressed in mV.\n\n- stores leads l1, l2 and v1 to v6. These signals have been recorded at 500 Hz of sampling frequency to perform a more precise diagnostic examination and clinical monitoring. They are expressed in mV.\n\n-Respiration data: abdominal, xiphoid and thoracic records. They are expressed in mV and sampled at 50Hz.\n\n-O2 data: the SpO2, the perfusion, the quality of acquisition of the records and the general status. They have adimentional physical unit and are expressed in percentage. They have been acquired at 0.67Hz.\n\n-Temperature: two temperature signals. The two recordings refer to a dual temperature sensor. Originally, one measures the body temperature, which is, affected by the ambient temperature due to the sensor’s design.Therefore, an additional sensor has been added to measure the ambient temperature, which in turn is affected by thebody temperature. However, t1 differs from t2 of maximum 3.46 ◦C. For the evaluation in this work we used the t1signals.Some temperature recordings (from the 10th of September to the 1st of October and from 6th of October to the 11thof December) are affected by poor quality and corrupted acquisition, because of an undetected device damage. They have been sampled at 1Hz and expressed in °C.\n\n-Variable.mat: contains extra features evaluated from the I leads, as HR and RR, heart rate and respiration rate. HR and RR are expressed in bpm\n\n-PQR.mat: correspond to Pulse Respiration Quotient, (ratio between HR and RR), as an adimentional quantity.They have been evaluated for each minute of record. \n\nIn the function folder, there are the following scripts:- visualize.m : to open the raw data .h5 file and see every signals.- PQR.m: to evaluate the PQR feature.- hrv.m: to calculate che HR and denoise the ECG signals.- fatigue.m: to perform a fatigue assessment from hrv spectrum.",
+          "descriptionType": "TechnicalInfo"
+        },
+        {
+          "description": "References to any published works that describe or make use of the database, in the form in which theseworks should be cited in any future publications o dataset usage: DOI 10.5281/zenodo.15365515.\n\nContact information:----------------------------------------------------(1) PhD student Elisabetta Spinazzola    Department of Electronic and Telecommunication, Politecnico di Torino, 10129 Torino, Italy    elisabetta.spinazzola@polito.it(2) Assistant Professor Luciano Prono     Department of Electronic and Telecommunication, Politecnico di Torino, 10129 Torino, Italy    luciano.prono@polito.it.",
+          "descriptionType": "Other"
+        }
+      ],
+      "geoLocations": [],
+      "fundingReferences": [],
+      "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTI4MS9aRU5PRE8uMTUzNjU1MTU8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPlNwaW5henpvbGEsIEVsaXNhYmV0dGE8L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkVsaXNhYmV0dGE8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+U3BpbmF6em9sYTwvZmFtaWx5TmFtZT4KICAgICAgPG5hbWVJZGVudGlmaWVyIG5hbWVJZGVudGlmaWVyU2NoZW1lPSJPUkNJRCIgc2NoZW1lVVJJPSIiPjAwMDktMDAwNy01OTY2LTc5NzY8L25hbWVJZGVudGlmaWVyPgogICAgICA8YWZmaWxpYXRpb24gYWZmaWxpYXRpb25JZGVudGlmaWVyPSJodHRwczovL3Jvci5vcmcvMDBiZ2s5NTA4IiBhZmZpbGlhdGlvbklkZW50aWZpZXJTY2hlbWU9IlJPUiI+UG9seXRlY2huaWMgVW5pdmVyc2l0eSBvZiBUdXJpbjwvYWZmaWxpYXRpb24+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+UHJvbm8sIEx1Y2lhbm88L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkx1Y2lhbm88L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+UHJvbm88L2ZhbWlseU5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiIHNjaGVtZVVSST0iIj4wMDAwLTAwMDMtMTUwNy05MDkyPC9uYW1lSWRlbnRpZmllcj4KICAgICAgPGFmZmlsaWF0aW9uIGFmZmlsaWF0aW9uSWRlbnRpZmllcj0iaHR0cHM6Ly9yb3Iub3JnLzAwYmdrOTUwOCIgYWZmaWxpYXRpb25JZGVudGlmaWVyU2NoZW1lPSJST1IiPlBvbHl0ZWNobmljIFVuaXZlcnNpdHkgb2YgVHVyaW48L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkd1YW56aXJvbGksIEVsZW9ub3JhPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5FbGVvbm9yYTwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5HdWFuemlyb2xpPC9mYW1pbHlOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIiBzY2hlbWVVUkk9IiI+MDAwMC0wMDAyLTc1MTItNTM3MjwvbmFtZUlkZW50aWZpZXI+CiAgICAgIDxhZmZpbGlhdGlvbj5WaWxsYSBCZXJldHRhPC9hZmZpbGlhdGlvbj4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5Nb2x0ZW5pLCBGcmFuY288L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkZyYW5jbzwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5Nb2x0ZW5pPC9mYW1pbHlOYW1lPgogICAgICA8YWZmaWxpYXRpb24+VmlsbGEgQmVyZXR0YTwvYWZmaWxpYXRpb24+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+UGFyZXNjaGksIEZhYmlvPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5GYWJpbzwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5QYXJlc2NoaTwvZmFtaWx5TmFtZT4KICAgICAgPG5hbWVJZGVudGlmaWVyIG5hbWVJZGVudGlmaWVyU2NoZW1lPSJPUkNJRCIgc2NoZW1lVVJJPSIiPjAwMDAtMDAwMS04Nzc3LTcxMzU8L25hbWVJZGVudGlmaWVyPgogICAgICA8YWZmaWxpYXRpb24gYWZmaWxpYXRpb25JZGVudGlmaWVyPSJodHRwczovL3Jvci5vcmcvMDBiZ2s5NTA4IiBhZmZpbGlhdGlvbklkZW50aWZpZXJTY2hlbWU9IlJPUiI+UG9seXRlY2huaWMgVW5pdmVyc2l0eSBvZiBUdXJpbjwvYWZmaWxpYXRpb24+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+Um92YXR0aSwgUmljY2FyZG88L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPlJpY2NhcmRvPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPlJvdmF0dGk8L2ZhbWlseU5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiIHNjaGVtZVVSST0iIj4wMDAwLTAwMDItNDczMS03ODYwPC9uYW1lSWRlbnRpZmllcj4KICAgICAgPGFmZmlsaWF0aW9uPlVuaXZlcnNpdHkgb2YgQm9sb2duYTwvYWZmaWxpYXRpb24+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+U2V0dGksIEdpYW5sdWNhPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5HaWFubHVjYTwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5TZXR0aTwvZmFtaWx5TmFtZT4KICAgICAgPG5hbWVJZGVudGlmaWVyIG5hbWVJZGVudGlmaWVyU2NoZW1lPSJPUkNJRCIgc2NoZW1lVVJJPSIiPjAwMDAtMDAwMi0yNDk2LTE4NTY8L25hbWVJZGVudGlmaWVyPgogICAgICA8YWZmaWxpYXRpb24gYWZmaWxpYXRpb25JZGVudGlmaWVyPSJodHRwczovL3Jvci5vcmcvMDFxM3RiczM4IiBhZmZpbGlhdGlvbklkZW50aWZpZXJTY2hlbWU9IlJPUiI+S2luZyBBYmR1bGxhaCBVbml2ZXJzaXR5IG9mIFNjaWVuY2UgYW5kIFRlY2hub2xvZ3k8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5BdGhhcjogQmlvc2lnbmFscyBEYXRhc2V0IGZyb20gYSBQYXJhLUhhbmRjeWNsaW5nIHJpZGUgYWNyb3NzIFNhdWRpIEFyYWJpYTwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5aZW5vZG88L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMjU8L3B1YmxpY2F0aW9uWWVhcj4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IkRhdGFzZXQiLz4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdCBzdWJqZWN0U2NoZW1lPSJNZVNIIj5TcGluYWwgQ29yZCBJbmp1cmllczwvc3ViamVjdD4KICAgIDxzdWJqZWN0IHN1YmplY3RTY2hlbWU9Ik1lU0giPkRhdGFzZXRzIGFzIFRvcGljL3N0YXRpc3RpY3MgJmFtcDsgbnVtZXJpY2FsIGRhdGE8L3N1YmplY3Q+CiAgICA8c3ViamVjdCBzdWJqZWN0U2NoZW1lPSJNZVNIIj5OZXVyb2xvZ2ljYWwgUmVoYWJpbGl0YXRpb24vc3RhdGlzdGljcyAmYW1wOyBudW1lcmljYWwgZGF0YTwvc3ViamVjdD4KICAgIDxzdWJqZWN0IHN1YmplY3RTY2hlbWU9Ik1lU0giPkZhdGlndWUvcGh5c2lvcGF0aG9sb2d5PC9zdWJqZWN0PgogICAgPHN1YmplY3Qgc3ViamVjdFNjaGVtZT0iTWVTSCI+SGVhcnQgUmF0ZSBEZXRlcm1pbmF0aW9uPC9zdWJqZWN0PgogICAgPHN1YmplY3Qgc3ViamVjdFNjaGVtZT0iTWVTSCI+Qm9keSBUZW1wZXJhdHVyZSBDaGFuZ2VzPC9zdWJqZWN0PgogICAgPHN1YmplY3Qgc3ViamVjdFNjaGVtZT0iTWVTSCI+UGFyYXBsZWdpYTwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJJc3N1ZWQiPjIwMjUtMDUtMDg8L2RhdGU+CiAgPC9kYXRlcz4KICA8bGFuZ3VhZ2U+ZW5nPC9sYW5ndWFnZT4KICA8YWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgICA8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0ib2FpIj5vYWk6emVub2RvLm9yZzoxNTM2NTUxNTwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICA8L2FsdGVybmF0ZUlkZW50aWZpZXJzPgogIDxyZWxhdGVkSWRlbnRpZmllcnM+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNWZXJzaW9uT2YiPjEwLjUyODEvemVub2RvLjE1MzY1NTE0PC9yZWxhdGVkSWRlbnRpZmllcj4KICA8L3JlbGF0ZWRJZGVudGlmaWVycz4KICA8c2l6ZXMvPgogIDxmb3JtYXRzLz4KICA8dmVyc2lvbj52MS4wPC92ZXJzaW9uPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cyByaWdodHNVUkk9Imh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS1uYy1zYS80LjAvbGVnYWxjb2RlIiByaWdodHNJZGVudGlmaWVyPSJjYy1ieS1uYy1zYS00LjAiIHJpZ2h0c0lkZW50aWZpZXJTY2hlbWU9InNwZHgiPkNyZWF0aXZlIENvbW1vbnMgQXR0cmlidXRpb24gTm9uIENvbW1lcmNpYWwgU2hhcmUgQWxpa2UgNC4wIEludGVybmF0aW9uYWw8L3JpZ2h0cz4KICA8L3JpZ2h0c0xpc3Q+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij5UaGlzIHdvcmsgZm9sbG93cyBhIGZpdmUtbW9udGggdHJhaW5pbmcgcGVyaW9kIGN1bG1pbmF0aW5nIGluIHRoZSBmaXJzdCBoYW5kLWJpa2UgcmlkZSBhY3Jvc3MgU2F1ZGkgQXJhYmlhIGV2ZXIuIFRoZSBzdWJqZWN0IHVuZGVydG9vayBhIDMwLWRheSBqb3VybmV5IGZyb20gZWFzdCB0byB3ZXN0LCBjeWNsaW5nIG92ZXIgMzAwMCBrbSBiZXR3ZWVuIERlY2VtYmVyIDEwLCAyMDIzLCBhbmQgSmFudWFyeSAxNywgMjAyNC4gSGUgYmVnYW4gaW4gRGFtbWFtIGFuZCBjb25jbHVkZWQgYXQgdGhlIEtBVVNUIGNhbXB1cywgcGFzc2luZyB0aHJvdWdoIG1ham9yIGNpdGllcyBhbmQgcmVnaW9ucyBpbmNsdWRpbmcgUml5YWRoLCBCdXJheWRhaCAoUWFzc2ltKSwgSGFpbCwgQWxVbGEsIFJlZCBTZWEgR2xvYmFsLCBBbC1NYWRpbmFoLCBNYWtrYWgsIEplZGRhaCwgYW5kIGZpbmFsbHkgS0FVU1QsIGFzZG9jdW1lbnRlZCBieSB0aGUgQXRoYXIgd2ViLXNpdGUuIEZvciB0aGUgc3R1ZHksIHRoZSBwYXJ0aWNpcGFudCBlbXBsb3llZCB0aGUgQ3Jvc3NXaW5kIFhFwqBoYW5kYmlrZSBieSBNYWRkaWxpbmUgQ3ljbGUgU25jIDMgYW5kIHRoZSBIUCBTY29ycGlvbiBGUyAyNkVuZHVybyB0cmlrZSA0LiBNb3JlIHNwZWNpZmljYWxseSwgdGhpcyBpcyBhIHRhZHBvbGUgdHJpa2UsIHdoaWNowqBpcyBwYXJ0IG9mIGEgbXVjaCBsYXJnZXIgY2xhc3Mgb2YgaHVtYW4tcG93ZXJlZCB2ZWhpY2xlc8KgY2FsbGVkIHJlY3VtYmVudHMuRnVydGhlcm1vcmUsIHRoZSBpbmRpdmlkdWFsIGVtcGxveXMgZnVuY3Rpb25hbCBlbGVjdHJpY2FswqBzdGltdWxhdGlvbiAoRkVTKS4gRkVTIHJlcHJvZHVjZXMgdGhlIHBoeXNpb2xvZ2ljYWwgbW92ZW1lbnRzIG9mIHRoZSBtdXNjbGUgZ3JvdXBzIGludm9sdmVkLCBlbmFibGluZyBsaW1iIG1vdmVtZW50wqBldmVuIHdpdGggcmVkdWNlZCBvciBhYnNlbnQgbmV1cmFsIGNvbm5lY3Rpdml0eS4gU3BlY2lmaWNhbGx5LCBoZSB1c2VkIHRoZSBwb3J0YWJsZSBWSUs4IHNvbHV0aW9uIHdpdGggdGhlIEFkYXB0aXZlIEZ1bmN0aW9uYWwgRWxlY3RyaWNhbCBTdGltdWxhdGlvbiBLaW5lc2l0aGVyYXB5IHRlY2hub2xvZ3kgKEFGRVNLKSwgZGV2ZWxvcGVkIGJ5IFZJS1RPUiBTLnIubC4sIGFuIGlubm92YXRpdmXCoE1lZFRlY2ggU01FIHRoYXQgZGV2ZWxvcHMgZGV2aWNlcyBhbmQgbWV0aG9kcyB3aXRoIGFwcGxpY2F0aW9ucyBpbiBuZXVyb3JlaGFiaWxpdGF0aW9uIGFuZCBzcG9ydHMgdHJhaW5pbmcuIFZJSzjCoGNhbiByZXByb2R1Y2UsIHN1cHBvcnQsIGFuZCBtYXhpbWl6ZSBldmVyeSBjb21wbGV4IGN5Y2xpY2FswqBtb3ZlbWVudCwgc3VjaCBhcyBjeWNsaW5nIHdpdGggYSBiaWN5Y2xlLCBoYW5kIGJpa2UsIG9yIHRyaWtlLkZpbmFsbHksIGRhdGEgd2FzIHNlbnQgZGFpbHkgdG8gdGhlIFZpbGxhIEJlcmV0dGEgUmVoYWJpbGl0YXRpb24gUmVzZWFyY2ggSW5ub3ZhdGlvbiBJbnN0aXR1dGUgKFZCUlJJSSksIGluIG9yZGVyIHRvwqBtb25pdG9yIGluIHJlYWwgdGltZSB0aGUgcGF0aWVudOKAmXMgc3RhdGUuCgrCoDwvZGVzY3JpcHRpb24+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+VGhlIGF2YWlsYWJpbGl0eSBvZiBwdWJsaWMgYmlvc2lnbmFsIGRhdGFzZXRzIGlzwqBjcnVjaWFsIGZvciB0aGUgcmVzZWFyY2ggYWR2YW5jZW1lbnQgaW4gaGVhbHRoY2FyZS4gTW9yZcKgc3BlY2lmaWNhbGx5LCBkYXRhIGZyb20gcGF0aWVudHMgdW5kZXIgc3BlY2lmaWMgZGlzZWFzZSBjb25kaXRpb25zIChlLmcuLCBwYXJhcGxlZ2ljIHN1YmplY3RzKSBhcmUgcmFyZSBidXQgbmVjZXNzYXJ5LMKgZm9yIHRoZSBkZXZlbG9wbWVudCBvZiBkaWFnbm9zdGljIGFuZCB0aGVyYXBldXRpYyB0b29scy5JbiB0aGlzIHdvcmssIHdlIHJlbGVhc2UgYSBuZXcgZGF0YXNldCwgcHVibGlzaGVkIG9uIHRoZSBQaHlzaW9uZXQgcGxhdGZvcm0sIGFsb25nIHdpdGggYSBkZXRhaWxlZCBkZXNjcmlwdGlvbsKgYW5kIGFuYWx5c2lzLiBJdCBpcyBjb21wb3NlZCBvZiBiaW9zaWduYWwgcmVjb3JkaW5ncyBvZiBhIFNwaW5hbCBDb3JkLUluanVyZWQgKFNDSSkgc3ViamVjdCwgcGVyZm9ybWluZyBoYW5kLWJpY3ljbGXCoHRyYWluaW5nIG92ZXIgZml2ZSBtb250aCBhbmQgMzAwMCBrbSBoYW5kLWJ5Y2ljbGUgcmFjZSBhY3Jvc3MgU2F1ZGkgQXJhYmlhLiBUaGUgcGFydGljaXBhbnQgd2FzIGVxdWlwcGVkIHdpdGjCoEhlYWxlciBSMiBhbmQgUjMgd2VhcmFibGUgZGV2aWNlcyBieSBMLkkuRi5FLiBTLnIubC4sIHRvIHJlY29yZCBlbGVjdHJvY2FyZGlvZ3JhcGhpYywgcmVzcGlyYXRpb24sIGJsb29kIHNhdHVyYXRpb24swqBhY2NlbGVyYXRpb24gYW5kIGJvZHkgdGVtcGVyYXR1cmUgc2lnbmFscy4gVGhlIHJhdyBkYXRhIGVsYWJvcmF0aW9uIGVtcGxveXMgc3RhbmRhcmQgbWV0aG9kcyB0byBldmFsdWF0ZSBtdWx0aXBsZSBwaHlzaW9sb2dpY2FsIHBhcmFtZXRlcnMgYW5kIGNsaW5pY2FsIGFzcGVjdHMsIHN1Y2ggYXMgaGVhcnQgcmF0ZSwgcmVzcGlyYXRpb24gcmF0ZSwgZmF0aWd1ZSBhbmQgdGhlIGNvcnJlbGF0aW9uwqBhbmQgY29uc2lzdGVuY3kgb2YgdGhlIGFjcXVpcmVkIGRhdGEuIER1cmluZyB0aGUgcmFjZSwgY2xpbmljYWwgcGFyYW1ldGVycyBzaG93ZWQgbGVzcyB2YXJpYWJpbGl0eSBjb21wYXJlZCB0b8KgdGhlIHRyYWluaW5nLCB3aGlsZSBmYXRpZ3VlIHJlc2lzdGFuY2UgaW5jcmVhc2VkIGR1ZSB0byB0aGXCoGltcHJvdmVkIHBoeXNpY2FsIGNvbmRpdGlvbiBpbnRyb2R1Y2VkIGJ5IHRyYWluaW5nLlRoaXMgY2FzZSBzdHVkeSBzZXJ2ZXMgYXMgYSBmb3VuZGF0aW9uIGZvciBsb25nLXRlcm0gcmVjb3JkaW5ncyBhY3F1aXNpdGlvbnMsIGVuYWJsaW5nIGFuYWx5c2VzIG9mIHJlaGFiaWxpdGF0aW9uIHByb2dyZXNzIGFuZCB0cmFpbmluZyBlZmZlY3RpdmVuZXNzIGluIFNDSSBpbmRpdmlkdWFscy48L2Rlc2NyaXB0aW9uPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iTWV0aG9kcyI+RGV2aWNlOi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1XZSBlbXBsb3llZCB0aGUgSGVhbGVyIHdlYXJhYmxlIGRldmljZSB0byBjb2xsZWN0IHRoZcKgdHJhaW5pbmcgYW5kIGpvdXJuZXkgYmlvbWVkaWNhbCBkYXRhLiBIZWFsZXIgaXMgYSB3ZWFyYWJsZWVtYmVkZGVkIGRldmljZSBtYWRlIG9mIHN5bnRoZXRpYywgZWxhc3RpYyBhbmQgYnJlYXRoYWJsZcKgdGVjaG5pY2FsIGZhYnJpYyB0aGF0IGludGVncmF0ZXMgYSBzZXJpZXMgb2Ygc2Vuc29ycyBmb3IgZGV0ZWN0aW5nwqBwaHlzaW9sb2dpY2FsIHBhcmFtZXRlcnMgYW5kIHNpZ25hbHMuIEhlYWxlciBpcyBhIE1lZGljYWzCoERldmljZSAoTUREIENsYXNzIElJYSkgZGV2ZWxvcGVkIGJ5IEwuSS5GLkUuIEl0YWxpYSBTLnIubC4gNSzCoGludGVuZGVkIGZvciBtdWx0aXBhcmFtZXRyaWMgbW9uaXRvcmluZyBhcHBsaWNhdGlvbnMgYW5kIGRpYWdub3N0aWMgZXhhbXMuIFRoZSBkZXZpY2UgaW5jbHVkZXMgYSBkYXRhIGxvZ2dlciBhbmQgY2xvdWTCoHBsYXRmb3JtIChIZWFsZXIgQ2xvdWQpIGZvciBkYXRhIHN0b3JhZ2UgYW5kIGVsYWJvcmF0aW9uLiBJbsKgb3VyIGV4cGVyaW1lbnQsIHRoZSBzdWJqZWN0IHVzZWQgYm90aCB0aGUgSGVhbGVyIFIyIGFuZCBSM8KgbW9kZWxzLiBUaGUgc2Vuc29yLWVxdWlwcGVkIGdhcm1lbnQgcmVjb3JkcyBhIHNldCBvZiBkaWZmZXJlbnTCoHBoeXNpb2xvZ2ljYWwgc2lnbmFsczou4oCiIFRoZSBFQ0cgc2lnbmFscy7CoOKAoiBUaGUgcmVzcGlyYXRvcnkgc2lnbmFscy7CoOKAoiBUZW1wZXJhdHVyZS7igKIgVGhlIFNwTzIuwqDigKIgVGhlIG1lY2hhbmljYWwgYWNjZWxlcmF0aW9uLiBJdCBpcyBtZWFzdXJlZCBieSBtZWFuc8Kgb2YgYSA5LWNoYW5uZWxzIEluZXJ0aWFsIE1lYXN1cmVtZW50IFVuaXQgc2Vuc29yIChJTVUpcGxhY2VkIG9uIHRoZSBzdWJqZWN04oCZcyBiYWNrLkFsbCB0aGUgc2Vuc29ycyBhcmUgY29udHJvbGxlZCBieSBkZWRpY2F0ZWQgZWxlY3Ryb25pY3MswqB3aGljaCBhcmUgZW5jbG9zZWQgd2l0aGluIGEgcGxhc3RpYyBzaGVsbCAt4oCUIHRoZSB3ZWFyYWJsZWRldmljZSBjb25uZWN0b3IgLeKAlCBsb2NhdGVkIGluIHRoZSByZWFyIG9mIHRoZSBIZWFsZXIgZGV2aWNlLsKgWW91IGNhbiBmaW5kIG1vcmUgaW5mb3JtYXRpb24gYXQ6IGh0dHBzOi8veDEweC5jb20vCgpQYXJ0ZWNpcGFudDotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgoxIHN1YmplY3QuIEhlIGlzIGEgNDIgeWVhcnMgb2xkIG1hbGUgc3ViamVjdCBvZiA3OSBrZyBhbmQgMS43NSBtZXRlcnMgdGFsbCzCoHdpdGggbHVtYm9zYWNyYWwgcGFydGlhbCBzdGFibGUgU0NJIGRhbWFnZS4gVGhlIHBhcnRpY2lwYW50wqB3YXMgbm90IGFjdGl2ZSBhdGhsZXRlIGJlZm9yZSBoaXMgc3BpbmFsIGNvcmQgaW5qdXJ5IG9jY3VycmVkLkluc3RlYWQsIGFmdGVyIHRoZSByZWhhYmlsaXRhdGlvbiwgaGUgc3RhcnRlZCBwZXJmb3JtaW5nIG91dGRvb3LCoHJhY2UsIGltcHJvdmluZyBpcyBzcG9ydCBlbmR1cmFuY2UuIFRoZSBpbnZlc3RpZ2F0aW9uIHdhc8KgYXBwcm92ZWQgYnkgdGhlIEtBVVNUIFVuaXZlcnNpdHkuIEFsbCB0cmFpbmluZyBzZXNzaW9ucyB3ZXJlwqBwbGFubmVkIGFuZCBzdXBlcnZpc2VkIGJ5IHRoZSBjbGluaWNhbCB0ZWFtLCB3aGljaCBmb2xsb3dlZMKgaGlzIHJlaGFiaWxpdGF0aW9uIHByb2dyYW0uCgrCoDwvZGVzY3JpcHRpb24+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJUZWNobmljYWxJbmZvIj5EZXNjcmlwdGlvbiBvZiBkYXRhYmFzZToKCsKgIFRoaXMgZGF0YWJhc2UgY29udGFpbnMgNDIgcmVjb3JkcywgZWFjaCBuYW1lZCBhc8KgIHRoZSBkYXRlIGluIHdoaWNoIHRoZXkgaGF2ZSBiZWVuIHJlY29yZGVkLjM2IG9mIHRoZW0gYXJlIHJlbGF0ZWQgdG8gdGhlIHN1YmplY3TigJlzIHRyYWluaW5nIHBoYXNlIGZyb20gSnVseSAoMjAyMzA3MTQpIHRvIERlY2VtYmVyIDIwMjMgKDIwMjMxMjExKSwgd2hpbGV0aGUgcmVtYWluaW5nIDYgd2VyZSByZWNvcmRlZCBkdXJpbmcgdGhlIHJhY2UgcGVyaW9kIGZyb23CoERlY2VtYmVyIDIwMjMgKDIwMjMxMjI5KSB0byBKYW51YXJ5IDIwMjQgKDIwMjQwMTEzKS4gRWFjaCByZWNvcmQgY29ycmVzcG9uZHPCoHRvIGEgdHJhaW5pbmcgb3IgcmFjZSBzZXNzaW9uIHJlc3BlY3RpdmVseS4gRWFjaCByZWNvcmQgZm9sZGVyIGNvbnRhaW5zIGRhdGFzdHJ1Y3R1cmVkIGFzIGZvbGxvdywgZm9yIGEgdG90YWwgb2YgMjMgdHlwZXMgb2bCoHJhdyBiaW9zaWduYWxzIChkYXRhc2V0IGVudHJpZXMpIGFuZCAzIGV4dHJhY3RlZCBmZWF0dXJlcy5UaGUgZXh0cmFjdGVkIGZlYXR1cmVzIGFuZCBhc3NvY2lhdGVkIHNjcmlwdCBmdW5jdGlvbnMgYXJlIGltcGxlbWVudGVkIGluIE1hdGxhYi7CoEVhY2ggcmVjb3JkIGlzIG1hZGUgdXAgb2YgLmg1IGZpbGU6IG5hbWVkIGFzIHRoZSBkYXRlIGluIHdoaWNoIGRhdGEgaGF2ZSBiZWVuIHJlY29yZGVkLsKgSXQgY29udGFpbnM6CgotIHRoZSBhY2NlbGVyb21ldGVyIGRhdGEgaW4gWCwgWSBhbmQgWiBkaXJlY3Rpb24uIFRoZSBzZW5zb3IgaXMgc2V0IHNvIHRoYXQgdGhlIHgtYXhpcyBjb3JyZXNwb25kcyB0byB0aGUgdHJhbnN2ZXJzZShob3Jpem9udGFsKSBwbGFuZSwgdGhlIHktYXhpcyB0byB0aGUgbG9uZ2l0dWRpbmFsICh2ZXJ0aWNhbCnCoHBsYW5lLCBhbmQgdGhlIHotYXhpcyB0byB0aGUgc2FnaXR0YWwgcGxhbmUuIEluIHRoaXMgY29uZmlndXJhdGlvbizCoHRoZSB5LWFjY2VsZXJhdGlvbiBzaWduYWwgKFkpIGluZGljYXRlcyB0aGUgZ3Jhdml0YXRpb25hbCBhY2NlbGVyYXRpb24gKDkuOCBtL3MyKSBhbG9uZyB3aXRoIGFueSBsZWFwcyBvciB1bmR1bGF0aW9ucyBmcm9twqB0aGUgZ3JvdW5kLiBUaGUgeC1hY2NlbGVyYXRpb24gKFgpIHJldmVhbGVkIGEgbWVhbiBlcXVhbCB0b8KgMCBtL3MyLCBpbmRpY2F0aW5nIG5vIG1vdGlvbiBpbiB0aGF0IGRpcmVjdGlvbiAoYXMgZXhwZWN0ZWQpLMKgd2hpbGUgdGhlIHotYWNjZWxlcmF0aW9uIChaKSBjb3JyZXNwb25kcyB0byB0aGUgZGlyZWN0aW9uIG9mwqBtb3Rpb24uIEZpbmFsbHksIHdlIGNhbiBpbmZlciB0aGUgc2Vuc29yIG9yaWVudGF0aW9uIGZyb23CoHRoZSBhY2NlbGVyYXRpb24gZGF0YS4gQXMgYW4gZXhhbXBsZSwgd2Ugb2JzZXJ2ZSBhIG5lZ2F0aXZlwqBjb250cmlidXRpb24gaW4gdGhlIHotYWNjZWxlcmF0aW9uIGR1ZSB0byB0aGUgYW5nbGUgY3JlYXRlZCBiecKgdGhlIGluY2xpbmVkIHNpdHRpbmcgcG9zaXRpb24gb2YgdGhlIGhhbmQgYmlrZS5UaGV5IGFyZSBleHByZXNzZWQgaW4gbS9zXjLCoGFuZCBzYW1wbGVkIGF0IDEwMEh6LgoKLSB0aGUgZWxlY3Ryb2NhcmRpb2dyYW0gc2lnbmFscyBvZiBsYSwgbGwsIHJhLiBTaW5jZSB0aGVzZSBzaWduYWxzIGhhdmUgYmVlbiByZWNvcmRlZCBmb3Igd2VsbC1iZWluZyBlc3RpbWF0aW9uIG9ubHksIHRoZXkgaGF2ZSBiZWVuIGFjcXVpcmVkIGF0IDEgSHouIFRoZXkgYXJlIGV4cHJlc3NlZCBpbiBtVi4KCi0gc3RvcmVzIGxlYWRzIGwxLCBsMiBhbmQgdjEgdG8gdjYuIFRoZXNlIHNpZ25hbHMgaGF2ZSBiZWVuIHJlY29yZGVkIGF0IDUwMCBIeiBvZiBzYW1wbGluZ8KgZnJlcXVlbmN5IHRvIHBlcmZvcm0gYSBtb3JlIHByZWNpc2UgZGlhZ25vc3RpYyBleGFtaW5hdGlvbsKgYW5kIGNsaW5pY2FsIG1vbml0b3JpbmcuIFRoZXkgYXJlIGV4cHJlc3NlZCBpbiBtVi4KCi1SZXNwaXJhdGlvbiBkYXRhOiBhYmRvbWluYWwsIHhpcGhvaWQgYW5kIHRob3JhY2ljIHJlY29yZHMuIFRoZXkgYXJlIGV4cHJlc3NlZCBpbiBtViBhbmQgc2FtcGxlZCBhdCA1MEh6LgoKLU8yIGRhdGE6IHRoZSBTcE8yLCB0aGUgcGVyZnVzaW9uLCB0aGUgcXVhbGl0ecKgb2YgYWNxdWlzaXRpb24gb2YgdGhlIHJlY29yZHMgYW5kIHRoZSBnZW5lcmFsIHN0YXR1cy4gVGhleSBoYXZlIGFkaW1lbnRpb25hbCBwaHlzaWNhbCB1bml0IGFuZCBhcmUgZXhwcmVzc2VkIGluIHBlcmNlbnRhZ2UuIFRoZXkgaGF2ZSBiZWVuIGFjcXVpcmVkIGF0IDAuNjdIei4KCi1UZW1wZXJhdHVyZTogdHdvIHRlbXBlcmF0dXJlIHNpZ25hbHMuwqBUaGUgdHdvIHJlY29yZGluZ3MgcmVmZXIgdG8gYSBkdWFsIHRlbXBlcmF0dXJlIHNlbnNvci4gT3JpZ2luYWxseSwgb25lIG1lYXN1cmVzIHRoZSBib2R5IHRlbXBlcmF0dXJlLCB3aGljaCBpcywgYWZmZWN0ZWQgYnkgdGhlIGFtYmllbnQgdGVtcGVyYXR1cmUgZHVlIHRvIHRoZSBzZW5zb3LigJlzIGRlc2lnbi5UaGVyZWZvcmUsIGFuIGFkZGl0aW9uYWwgc2Vuc29yIGhhcyBiZWVuIGFkZGVkIHRvIG1lYXN1cmXCoHRoZSBhbWJpZW50IHRlbXBlcmF0dXJlLCB3aGljaCBpbiB0dXJuIGlzIGFmZmVjdGVkIGJ5IHRoZWJvZHkgdGVtcGVyYXR1cmUuIEhvd2V2ZXIsIHQxIGRpZmZlcnMgZnJvbSB0MiBvZiBtYXhpbXVtwqAzLjQ2IOKXpkMuIEZvciB0aGUgZXZhbHVhdGlvbiBpbiB0aGlzIHdvcmsgd2UgdXNlZCB0aGUgdDFzaWduYWxzLlNvbWUgdGVtcGVyYXR1cmUgcmVjb3JkaW5ncyAoZnJvbSB0aGUgMTB0aCBvZiBTZXB0ZW1iZXLCoHRvIHRoZSAxc3Qgb2YgT2N0b2JlciBhbmQgZnJvbSA2dGggb2YgT2N0b2JlciB0byB0aGUgMTF0aG9mIERlY2VtYmVyKSBhcmUgYWZmZWN0ZWQgYnkgcG9vciBxdWFsaXR5IGFuZCBjb3JydXB0ZWTCoGFjcXVpc2l0aW9uLCBiZWNhdXNlIG9mIGFuIHVuZGV0ZWN0ZWQgZGV2aWNlIGRhbWFnZS7CoFRoZXkgaGF2ZSBiZWVuIHNhbXBsZWQgYXQgMUh6IGFuZCBleHByZXNzZWQgaW4gwrBDLgoKLVZhcmlhYmxlLm1hdDogY29udGFpbnMgZXh0cmEgZmVhdHVyZXMgZXZhbHVhdGVkIGZyb20gdGhlIEkgbGVhZHMsIGFzIEhSIGFuZCBSUiwgaGVhcnQgcmF0ZSBhbmQgcmVzcGlyYXRpb24gcmF0ZS4gSFIgYW5kIFJSIGFyZSBleHByZXNzZWQgaW4gYnBtCgotUFFSLm1hdDogY29ycmVzcG9uZCB0byBQdWxzZSBSZXNwaXJhdGlvbiBRdW90aWVudCwgKHJhdGlvIGJldHdlZW4gSFIgYW5kIFJSKSwgYXMgYW4gYWRpbWVudGlvbmFsIHF1YW50aXR5LlRoZXkgaGF2ZSBiZWVuIGV2YWx1YXRlZCBmb3IgZWFjaCBtaW51dGUgb2YgcmVjb3JkLsKgCgpJbiB0aGUgZnVuY3Rpb24gZm9sZGVyLCB0aGVyZSBhcmUgdGhlIGZvbGxvd2luZyBzY3JpcHRzOi0gdmlzdWFsaXplLm0gOiB0byBvcGVuIHRoZSByYXcgZGF0YSAuaDUgZmlsZSBhbmQgc2VlIGV2ZXJ5IHNpZ25hbHMuLSBQUVIubTogdG8gZXZhbHVhdGUgdGhlIFBRUiBmZWF0dXJlLi0gaHJ2Lm06IHRvIGNhbGN1bGF0ZSBjaGUgSFIgYW5kIGRlbm9pc2UgdGhlIEVDRyBzaWduYWxzLi0gZmF0aWd1ZS5tOiB0byBwZXJmb3JtIGEgZmF0aWd1ZSBhc3Nlc3NtZW50IGZyb20gaHJ2IHNwZWN0cnVtLjwvZGVzY3JpcHRpb24+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJPdGhlciI+UmVmZXJlbmNlcyB0byBhbnkgcHVibGlzaGVkIHdvcmtzIHRoYXQgZGVzY3JpYmUgb3LCoG1ha2UgdXNlIG9mIHRoZSBkYXRhYmFzZSwgaW4gdGhlIGZvcm0gaW4gd2hpY2ggdGhlc2V3b3JrcyBzaG91bGQgYmUgY2l0ZWQgaW4gYW55IGZ1dHVyZSBwdWJsaWNhdGlvbnMgbyBkYXRhc2V0IHVzYWdlOiBET0kgMTAuNTI4MS96ZW5vZG8uMTUzNjU1MTUuCgpDb250YWN0IGluZm9ybWF0aW9uOi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0oMSkgUGhEIHN0dWRlbnQgRWxpc2FiZXR0YSBTcGluYXp6b2xhwqAgwqAgRGVwYXJ0bWVudCBvZiBFbGVjdHJvbmljIGFuZCBUZWxlY29tbXVuaWNhdGlvbiwgUG9saXRlY25pY28gZGkgVG9yaW5vLCAxMDEyOSBUb3Jpbm8sIEl0YWx5wqAgwqAgZWxpc2FiZXR0YS5zcGluYXp6b2xhQHBvbGl0by5pdCgyKSBBc3Npc3RhbnQgUHJvZmVzc29yIEx1Y2lhbm8gUHJvbm/CoMKgIMKgIERlcGFydG1lbnQgb2YgRWxlY3Ryb25pYyBhbmQgVGVsZWNvbW11bmljYXRpb24sIFBvbGl0ZWNuaWNvIGRpIFRvcmlubywgMTAxMjkgVG9yaW5vLCBJdGFsecKgIMKgIGx1Y2lhbm8ucHJvbm9AcG9saXRvLml0LjwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CjwvcmVzb3VyY2U+Cg==",
+      "url": "https://zenodo.org/doi/10.5281/zenodo.15365515",
+      "contentUrl": null,
+      "metadataVersion": 3,
+      "schemaVersion": "http://datacite.org/schema/kernel-4",
+      "source": "api",
+      "isActive": true,
+      "state": "findable",
+      "reason": null,
+      "viewCount": 0,
+      "viewsOverTime": [],
+      "downloadCount": 0,
+      "downloadsOverTime": [],
+      "referenceCount": 0,
+      "citationCount": 0,
+      "citationsOverTime": [],
+      "partCount": 0,
+      "partOfCount": 0,
+      "versionCount": 0,
+      "versionOfCount": 1,
+      "created": "2025-05-08T14:29:32.000Z",
+      "registered": "2025-05-08T14:29:33.000Z",
+      "published": "2025",
+      "updated": "2026-05-04T08:29:10.000Z"
+    },
+    "relationships": {
+      "client": {
+        "data": {
+          "id": "cern.zenodo",
+          "type": "clients"
+        }
+      },
+      "provider": {
+        "data": {
+          "id": "cern",
+          "type": "providers"
+        }
+      },
+      "media": {
+        "data": {
+          "id": "10.5281/zenodo.15365515",
+          "type": "media"
+        }
+      },
+      "references": {
+        "data": []
+      },
+      "citations": {
+        "data": []
+      },
+      "parts": {
+        "data": []
+      },
+      "partOf": {
+        "data": []
+      },
+      "versions": {
+        "data": []
+      },
+      "versionOf": {
+        "data": [
+          {
+            "id": "10.5281/zenodo.15365514",
+            "type": "dois"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,539 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Dataset",
+  "@id": "https://doi.org/10.71782/DATA/SMGJHG",
+  "identifier": "https://doi.org/10.71782/DATA/SMGJHG",
+  "name": "Survey dataset regarding adults’ professional development and the transfer of its results into practice in Latvia",
+  "creator": [
+    {
+      "@type": "Person",
+      "givenName": "Svetlana",
+      "familyName": "Surikova",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "University of Latvia"
+      },
+      "sameAs": "https://orcid.org/0000-0002-3025-6344",
+      "@id": "https://orcid.org/0000-0002-3025-6344",
+      "identifier": "https://orcid.org/0000-0002-3025-6344",
+      "name": "Surikova, Svetlana"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Aleksandrs",
+      "familyName": "Koļesovs",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "University of Latvia"
+      },
+      "sameAs": "https://orcid.org/0000-0003-4470-2453",
+      "@id": "https://orcid.org/0000-0003-4470-2453",
+      "identifier": "https://orcid.org/0000-0003-4470-2453",
+      "name": "Koļesovs, Aleksandrs"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Gunta",
+      "familyName": "Siliņa-Jasjukeviča",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "University of Latvia"
+      },
+      "sameAs": "https://orcid.org/0000-0002-6493-5396",
+      "@id": "https://orcid.org/0000-0002-6493-5396",
+      "identifier": "https://orcid.org/0000-0002-6493-5396",
+      "name": "Siliņa-Jasjukeviča, Gunta"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Dita",
+      "familyName": "Nīmante",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "University of Latvia"
+      },
+      "sameAs": "https://orcid.org/0000-0003-2371-5335",
+      "@id": "https://orcid.org/0000-0003-2371-5335",
+      "identifier": "https://orcid.org/0000-0003-2371-5335",
+      "name": "Nīmante, Dita"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Sanita",
+      "familyName": "Baranova",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "University of Latvia"
+      },
+      "sameAs": "https://orcid.org/0000-0003-1454-5880",
+      "@id": "https://orcid.org/0000-0003-1454-5880",
+      "identifier": "https://orcid.org/0000-0003-1454-5880",
+      "name": "Baranova, Sanita"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Inese",
+      "familyName": "Lūsēna-Ezera",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Riga Technical University Liepaja Academy"
+      },
+      "sameAs": "https://orcid.org/0000-0002-0943-7431",
+      "@id": "https://orcid.org/0000-0002-0943-7431",
+      "identifier": "https://orcid.org/0000-0002-0943-7431",
+      "name": "Lūsēna-Ezera, Inese"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Signe",
+      "familyName": "Kaņējeva",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Kaņējeva, Signe"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Santa",
+      "familyName": "Lazdiņa",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Lazdiņa, Santa"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Marta Elīna",
+      "familyName": "Grīnberga",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar), no longer works at Kantar"
+      },
+      "name": "Grīnberga, Marta Elīna"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Jānis",
+      "familyName": "Reinsons",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Reinsons, Jānis"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Ilze",
+      "familyName": "Liepiņa",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Liepiņa, Ilze"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Marina",
+      "familyName": "Valeniece",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Valeniece, Marina"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Jūlija",
+      "familyName": "Cvetkova",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Cvetkova, Jūlija"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Linda",
+      "familyName": "Vaserberga",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Vaserberga, Linda"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Olga",
+      "familyName": "Gutoviča",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Gutoviča, Olga"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Evija",
+      "familyName": "Zača",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar), no longer works at Kantar"
+      },
+      "name": "Zača, Evija"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Juris",
+      "familyName": "Dambītis",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Dambītis, Juris"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Jeļena",
+      "familyName": "Eņikova",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Eņikova, Jeļena"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Elīna",
+      "familyName": "Mūrniece",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Mūrniece, Elīna"
+    }
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Svetlana",
+      "familyName": "Surikova",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "University of Latvia"
+      },
+      "sameAs": "https://orcid.org/0000-0002-3025-6344",
+      "@id": "https://orcid.org/0000-0002-3025-6344",
+      "identifier": "https://orcid.org/0000-0002-3025-6344",
+      "name": "Surikova, Svetlana"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Aleksandrs",
+      "familyName": "Koļesovs",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "University of Latvia"
+      },
+      "sameAs": "https://orcid.org/0000-0003-4470-2453",
+      "@id": "https://orcid.org/0000-0003-4470-2453",
+      "identifier": "https://orcid.org/0000-0003-4470-2453",
+      "name": "Koļesovs, Aleksandrs"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Gunta",
+      "familyName": "Siliņa-Jasjukeviča",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "University of Latvia"
+      },
+      "sameAs": "https://orcid.org/0000-0002-6493-5396",
+      "@id": "https://orcid.org/0000-0002-6493-5396",
+      "identifier": "https://orcid.org/0000-0002-6493-5396",
+      "name": "Siliņa-Jasjukeviča, Gunta"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Dita",
+      "familyName": "Nīmante",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "University of Latvia"
+      },
+      "sameAs": "https://orcid.org/0000-0003-2371-5335",
+      "@id": "https://orcid.org/0000-0003-2371-5335",
+      "identifier": "https://orcid.org/0000-0003-2371-5335",
+      "name": "Nīmante, Dita"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Sanita",
+      "familyName": "Baranova",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "University of Latvia"
+      },
+      "sameAs": "https://orcid.org/0000-0003-1454-5880",
+      "@id": "https://orcid.org/0000-0003-1454-5880",
+      "identifier": "https://orcid.org/0000-0003-1454-5880",
+      "name": "Baranova, Sanita"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Inese",
+      "familyName": "Lūsēna-Ezera",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Riga Technical University Liepaja Academy"
+      },
+      "sameAs": "https://orcid.org/0000-0002-0943-7431",
+      "@id": "https://orcid.org/0000-0002-0943-7431",
+      "identifier": "https://orcid.org/0000-0002-0943-7431",
+      "name": "Lūsēna-Ezera, Inese"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Signe",
+      "familyName": "Kaņējeva",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Kaņējeva, Signe"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Santa",
+      "familyName": "Lazdiņa",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Lazdiņa, Santa"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Marta Elīna",
+      "familyName": "Grīnberga",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar), no longer works at Kantar"
+      },
+      "name": "Grīnberga, Marta Elīna"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Jānis",
+      "familyName": "Reinsons",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Reinsons, Jānis"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Ilze",
+      "familyName": "Liepiņa",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Liepiņa, Ilze"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Marina",
+      "familyName": "Valeniece",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Valeniece, Marina"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Jūlija",
+      "familyName": "Cvetkova",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Cvetkova, Jūlija"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Linda",
+      "familyName": "Vaserberga",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Vaserberga, Linda"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Olga",
+      "familyName": "Gutoviča",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Gutoviča, Olga"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Evija",
+      "familyName": "Zača",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar), no longer works at Kantar"
+      },
+      "name": "Zača, Evija"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Juris",
+      "familyName": "Dambītis",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Dambītis, Juris"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Jeļena",
+      "familyName": "Eņikova",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Eņikova, Jeļena"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Elīna",
+      "familyName": "Mūrniece",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "TNS Latvia (Kantar)"
+      },
+      "name": "Mūrniece, Elīna"
+    }
+  ],
+  "datePublished": "2025-12-08",
+  "dateModified": "2025-12-08",
+  "version": "1",
+  "description": "The dataset contains information obtained in a study on adults’ professional development and the transfer of its results into practice in Latvia. It includes a description of the research methodology (the survey questionnaire with a codebook, sampling procedure description, weighting procedure description, and fieldwork description) and respondents’ answers reflecting adults’ motivation, behavioural patterns, habits, and opportunities in choosing professional competence development and applying it in practice, as well as factors hindering participation in professional development activities. The survey was conducted by TNS Latvia (Kantar) Ltd. on behalf of the University of Latvia within the State Research Programme “Education” project “Elaboration of evidence-based solutions for effective professional competence development of adults and assessment of the transfer of its results into practice in Latvia” (No. VPP-IZM-Izglītība-2023/4-0001). The aim of the research was to investigate adults’ motivation, behaviour, habits, and opportunities in selecting and transferring professional competence development into practice in order to assess the current situation in the field of adults’ professional development in Latvia. The survey involved employed and self-employed residents of Latvia aged 16 to 65. To ensure the representativeness of the data by age, gender, ethnicity, region, level of education, and economic sector, online survey (CAWI) and telephone interview (CATI) methods were used. In total, data from 1,000 respondents were collected, representing the adult labour force of Latvia. Fieldwork was conducted from 11 March to 14 April 2025, and the dataset is prepared for deposition in a repository for further scientific analysis and use in policy planning, research, and the improvement of education quality.",
+  "keywords": [
+    "Social Sciences",
+    "adult education",
+    "professional competence",
+    "professional development",
+    "transfer into practice",
+    "enabling factors",
+    "hindering factors",
+    "learning motivation",
+    "learning habits",
+    "learning experience"
+  ],
+  "license": "http://creativecommons.org/licenses/by/4.0",
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "name": "DataverseLV",
+    "url": "https://dv.dataverse.lv"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "DataverseLV"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "DataverseLV"
+  },
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "Codebook_LV.pdf",
+      "encodingFormat": "application/pdf",
+      "contentSize": 623801,
+      "description": "Codebook in Latvian",
+      "contentUrl": "https://dv.dataverse.lv/api/access/datafile/2976"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Dataset_CSV-1.tab",
+      "encodingFormat": "text/tab-separated-values",
+      "contentSize": 306857,
+      "description": "Raw data in csv format",
+      "contentUrl": "https://dv.dataverse.lv/api/access/datafile/2985"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Dataset_Excel.tab",
+      "encodingFormat": "text/tab-separated-values",
+      "contentSize": 262066,
+      "description": "Raw data in xlsx format",
+      "contentUrl": "https://dv.dataverse.lv/api/access/datafile/2981"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Dataset_SPSS.tab",
+      "encodingFormat": "text/tab-separated-values",
+      "contentSize": 175517,
+      "description": "Raw data in sav format",
+      "contentUrl": "https://dv.dataverse.lv/api/access/datafile/2978"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Data_collection_procedure_LV.pdf",
+      "encodingFormat": "application/pdf",
+      "contentSize": 157616,
+      "description": "Description of the data collection procedure in Latvian",
+      "contentUrl": "https://dv.dataverse.lv/api/access/datafile/2979"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Questionnaire_LV.pdf",
+      "encodingFormat": "application/pdf",
+      "contentSize": 645585,
+      "description": "A questionnaire in Latvian",
+      "contentUrl": "https://dv.dataverse.lv/api/access/datafile/2984"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "ReadMe_EN_full.txt",
+      "encodingFormat": "text/plain",
+      "contentSize": 6384,
+      "description": "General information in English",
+      "contentUrl": "https://dv.dataverse.lv/api/access/datafile/2983"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "ReadMe_LV_full.txt",
+      "encodingFormat": "text/plain",
+      "contentSize": 6668,
+      "description": "General information in Latvian",
+      "contentUrl": "https://dv.dataverse.lv/api/access/datafile/2977"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Sampling_LV.pdf",
+      "encodingFormat": "application/pdf",
+      "contentSize": 293823,
+      "description": "Description of the sampling procedure",
+      "contentUrl": "https://dv.dataverse.lv/api/access/datafile/2975"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Weighting_LV.pdf",
+      "encodingFormat": "application/pdf",
+      "contentSize": 139722,
+      "description": "Description of the weighting procedure",
+      "contentUrl": "https://dv.dataverse.lv/api/access/datafile/2982"
+    }
+  ]
+}

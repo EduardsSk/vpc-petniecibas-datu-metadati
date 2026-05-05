@@ -1,0 +1,226 @@
+{
+  "@context": "http://schema.org",
+  "@id": "https://doi.org/10.5281/zenodo.15365515",
+  "@type": "https://schema.org/Dataset",
+  "identifier": "https://doi.org/10.5281/zenodo.15365515",
+  "name": "Athar: Biosignals Dataset from a Para-Handcycling ride across Saudi Arabia",
+  "creator": [
+    {
+      "name": "Spinazzola, Elisabetta",
+      "givenName": "Elisabetta",
+      "familyName": "Spinazzola",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "Polytechnic University of Turin",
+          "@id": "https://ror.org/00bgk9508"
+        }
+      ],
+      "@id": "https://orcid.org/0009-0007-5966-7976",
+      "@type": "Person"
+    },
+    {
+      "name": "Prono, Luciano",
+      "givenName": "Luciano",
+      "familyName": "Prono",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "Polytechnic University of Turin",
+          "@id": "https://ror.org/00bgk9508"
+        }
+      ],
+      "@id": "https://orcid.org/0000-0003-1507-9092",
+      "@type": "Person"
+    },
+    {
+      "name": "Guanziroli, Eleonora",
+      "givenName": "Eleonora",
+      "familyName": "Guanziroli",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "Villa Beretta"
+        }
+      ],
+      "@id": "https://orcid.org/0000-0002-7512-5372",
+      "@type": "Person"
+    },
+    {
+      "name": "Molteni, Franco",
+      "givenName": "Franco",
+      "familyName": "Molteni",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "Villa Beretta"
+        }
+      ],
+      "@type": "Person"
+    },
+    {
+      "name": "Pareschi, Fabio",
+      "givenName": "Fabio",
+      "familyName": "Pareschi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "Polytechnic University of Turin",
+          "@id": "https://ror.org/00bgk9508"
+        }
+      ],
+      "@id": "https://orcid.org/0000-0001-8777-7135",
+      "@type": "Person"
+    },
+    {
+      "name": "Rovatti, Riccardo",
+      "givenName": "Riccardo",
+      "familyName": "Rovatti",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "University of Bologna"
+        }
+      ],
+      "@id": "https://orcid.org/0000-0002-4731-7860",
+      "@type": "Person"
+    },
+    {
+      "name": "Setti, Gianluca",
+      "givenName": "Gianluca",
+      "familyName": "Setti",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "King Abdullah University of Science and Technology",
+          "@id": "https://ror.org/01q3tbs38"
+        }
+      ],
+      "@id": "https://orcid.org/0000-0002-2496-1856",
+      "@type": "Person"
+    }
+  ],
+  "author": [
+    {
+      "name": "Spinazzola, Elisabetta",
+      "givenName": "Elisabetta",
+      "familyName": "Spinazzola",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "Polytechnic University of Turin",
+          "@id": "https://ror.org/00bgk9508"
+        }
+      ],
+      "@id": "https://orcid.org/0009-0007-5966-7976",
+      "@type": "Person"
+    },
+    {
+      "name": "Prono, Luciano",
+      "givenName": "Luciano",
+      "familyName": "Prono",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "Polytechnic University of Turin",
+          "@id": "https://ror.org/00bgk9508"
+        }
+      ],
+      "@id": "https://orcid.org/0000-0003-1507-9092",
+      "@type": "Person"
+    },
+    {
+      "name": "Guanziroli, Eleonora",
+      "givenName": "Eleonora",
+      "familyName": "Guanziroli",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "Villa Beretta"
+        }
+      ],
+      "@id": "https://orcid.org/0000-0002-7512-5372",
+      "@type": "Person"
+    },
+    {
+      "name": "Molteni, Franco",
+      "givenName": "Franco",
+      "familyName": "Molteni",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "Villa Beretta"
+        }
+      ],
+      "@type": "Person"
+    },
+    {
+      "name": "Pareschi, Fabio",
+      "givenName": "Fabio",
+      "familyName": "Pareschi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "Polytechnic University of Turin",
+          "@id": "https://ror.org/00bgk9508"
+        }
+      ],
+      "@id": "https://orcid.org/0000-0001-8777-7135",
+      "@type": "Person"
+    },
+    {
+      "name": "Rovatti, Riccardo",
+      "givenName": "Riccardo",
+      "familyName": "Rovatti",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "University of Bologna"
+        }
+      ],
+      "@id": "https://orcid.org/0000-0002-4731-7860",
+      "@type": "Person"
+    },
+    {
+      "name": "Setti, Gianluca",
+      "givenName": "Gianluca",
+      "familyName": "Setti",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "King Abdullah University of Science and Technology",
+          "@id": "https://ror.org/01q3tbs38"
+        }
+      ],
+      "@id": "https://orcid.org/0000-0002-2496-1856",
+      "@type": "Person"
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zenodo"
+  },
+  "keywords": "Spinal Cord Injuries, Datasets as Topic/statistics & numerical data, Neurological Rehabilitation/statistics & numerical data, Fatigue/physiopathology, Heart Rate Determination, Body Temperature Changes, Paraplegia",
+  "dateCreated": "2025-05-08T14:29:31.560392+00:00",
+  "dateModified": "2026-05-04T08:29:09.509008+00:00",
+  "datePublished": "2025-05-08",
+  "inLanguage": {
+    "alternateName": "eng",
+    "@type": "Language",
+    "name": "English"
+  },
+  "contentSize": "14.36 GB",
+  "size": "14.36 GB",
+  "version": "v1.0",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+  "description": "<p>This work follows a five-month training period culminating in the first hand-bike ride across Saudi Arabia ever. The subject undertook a 30-day journey from east to west, cycling over 3000 km between December 10, 2023, and January 17, 2024. He began in Dammam and concluded at the KAUST campus, passing through major cities and regions including Riyadh, Buraydah (Qassim), Hail, AlUla, Red Sea Global, Al-Madinah, Makkah, Jeddah, and finally KAUST, as<br>documented by the Athar web-site. For the study, the participant employed the CrossWind XE&nbsp;handbike by Maddiline Cycle Snc 3 and the HP Scorpion FS 26<br>Enduro trike 4. More specifically, this is a tadpole trike, which&nbsp;is part of a much larger class of human-powered vehicles&nbsp;called recumbents.<br>Furthermore, the individual employs functional electrical&nbsp;stimulation (FES). FES reproduces the physiological movements of the muscle groups involved, enabling limb movement&nbsp;even with reduced or absent neural connectivity. Specifically, he used the portable VIK8 solution with the Adaptive Functional Electrical Stimulation Kinesitherapy technology (AFESK), developed by VIKTOR S.r.l., an innovative&nbsp;MedTech SME that develops devices and methods with applications in neurorehabilitation and sports training. VIK8&nbsp;can reproduce, support, and maximize every complex cyclical&nbsp;movement, such as cycling with a bicycle, hand bike, or trike.<br>Finally, data was sent daily to the Villa Beretta Rehabilitation Research Innovation Institute (VBRRII), in order to&nbsp;monitor in real time the patient&rsquo;s state.</p>\n<h1>&nbsp;</h1>",
+  "url": "https://zenodo.org/records/15365515",
+  "measurementTechnique": "<p><strong>Device:</strong><br>----------------------------------------------------<br>We employed the Healer wearable device to collect the&nbsp;training and journey biomedical data. Healer is a wearable<br>embedded device made of synthetic, elastic and breathable&nbsp;technical fabric that integrates a series of sensors for detecting&nbsp;physiological parameters and signals. Healer is a Medical&nbsp;Device (MDD Class IIa) developed by L.I.F.E. Italia S.r.l. 5,&nbsp;intended for multiparametric monitoring applications and diagnostic exams. The device includes a data logger and cloud&nbsp;platform (Healer Cloud) for data storage and elaboration. In&nbsp;our experiment, the subject used both the Healer R2 and R3&nbsp;models. The sensor-equipped garment records a set of different&nbsp;physiological signals:.<br>&bull; The ECG signals.&nbsp;<br>&bull; The respiratory signals.&nbsp;<br>&bull; Temperature.<br>&bull; The SpO2.&nbsp;<br>&bull; The mechanical acceleration. It is measured by means&nbsp;of a 9-channels Inertial Measurement Unit sensor (IMU)<br>placed on the subject&rsquo;s back.<br>All the sensors are controlled by dedicated electronics,&nbsp;which are enclosed within a plastic shell -&mdash; the wearable<br>device connector -&mdash; located in the rear of the Healer device.&nbsp;You can find more information at: https://x10x.com/</p>\n<p><strong>Partecipant:</strong><br>----------------------------------------------------</p>\n<p>1 subject. He is a 42 years old male subject of 79 kg and 1.75 meters tall,&nbsp;with lumbosacral partial stable SCI damage. The participant&nbsp;was not active athlete before his spinal cord injury occurred.<br>Instead, after the rehabilitation, he started performing outdoor&nbsp;race, improving is sport endurance. The investigation was&nbsp;approved by the KAUST University. All training sessions were&nbsp;planned and supervised by the clinical team, which followed&nbsp;his rehabilitation program.</p>\n<p>&nbsp;</p>",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "contentUrl": "https://zenodo.org/api/records/15365515/files/database.zip/content",
+      "encodingFormat": "application/zip"
+    }
+  ]
+}

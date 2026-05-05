@@ -1,0 +1,231 @@
+{
+  "data": {
+    "id": "10.71782/data/6kfiiy",
+    "type": "dois",
+    "attributes": {
+      "doi": "10.71782/data/6kfiiy",
+      "prefix": "10.71782",
+      "suffix": "data/6kfiiy",
+      "identifiers": [],
+      "alternateIdentifiers": [],
+      "creators": [
+        {
+          "name": "Latvijas Kultūras akadēmija",
+          "nameType": "Personal",
+          "affiliation": [],
+          "nameIdentifiers": []
+        }
+      ],
+      "titles": [
+        {
+          "title": "Kvalitatīvo datu kopa: intervijas un fokusgrupu diskusijas par pieredzi muzeju līdzdalības aktivitātēs"
+        }
+      ],
+      "publisher": "DataverseLV",
+      "container": {},
+      "publicationYear": 2026,
+      "subjects": [
+        {
+          "subject": "Arts and Humanities"
+        },
+        {
+          "subject": "Intervijas, fokusgrupas, jaunieši, eksperti, muzeja vadība"
+        }
+      ],
+      "contributors": [
+        {
+          "name": "Tjarve, Baiba",
+          "nameType": "Personal",
+          "givenName": "Baiba",
+          "familyName": "Tjarve",
+          "affiliation": [
+            "Latvijas Kultūras akadēmija"
+          ],
+          "contributorType": "ContactPerson",
+          "nameIdentifiers": []
+        }
+      ],
+      "dates": [
+        {
+          "date": "2025-12-15",
+          "dateType": "Submitted"
+        },
+        {
+          "date": "2026-01-12",
+          "dateType": "Available"
+        },
+        {
+          "date": "2023-01-01/2025-12-31",
+          "dateType": "Collected"
+        },
+        {
+          "date": "2026",
+          "dateType": "Issued"
+        }
+      ],
+      "language": null,
+      "types": {
+        "ris": "DATA",
+        "bibtex": "misc",
+        "citeproc": "dataset",
+        "schemaOrg": "Dataset",
+        "resourceTypeGeneral": "Dataset"
+      },
+      "relatedIdentifiers": [
+        {
+          "schemeUri": "https://icofom.mini.icom.museum",
+          "relationType": "IsSupplementTo",
+          "relatedIdentifier": "/wp-content/uploads/sites/18/2025/10/2025-ICOFOM-Materials-for-Discussion_Final_3.pdf?fbclid=IwVERFWANXx71leHRuA2FlbQIxMQABHng5sCIWBtUwLWon9iy2tFPhJgfQGkgHrSG-HVuUeEOq7q",
+          "relatedIdentifierType": "URL"
+        },
+        {
+          "relationType": "IsSupplementTo",
+          "relatedIdentifier": "10.1080/13500775.2025.2540200",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsSupplementTo",
+          "relatedIdentifier": "10.55877/cc.vol26.496",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "schemeUri": "https://www.europeansociology.org",
+          "relationType": "IsSupplementTo",
+          "relatedIdentifier": "/european-sociologist/issue/51/doing-sociology/9e672917-615f-4ad7-9671-d05036106c13?fbclid=IwZXh0bgNhZW0CMTEAAR1BOYCXgJmUsP_S19iFR0bbJlDVZcUXuH5bWZnTHmMSds-4FlyrrUpcAI4_aem_U9XICEFlwaAZs5RFVzlKPg",
+          "relatedIdentifierType": "URL"
+        },
+        {
+          "relationType": "IsSupplementTo",
+          "relatedIdentifier": "10.4000/iss.5189",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsSupplementTo",
+          "relatedIdentifier": "10.55877/cc.vol25.503",
+          "relatedIdentifierType": "DOI"
+        }
+      ],
+      "relatedItems": [],
+      "sizes": [
+        "4599"
+      ],
+      "formats": [
+        "text/plain"
+      ],
+      "version": "1.0",
+      "rightsList": [
+        {
+          "rightsUri": "info:eu-repo/semantics/openAccess"
+        },
+        {
+          "lang": "en",
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ],
+      "descriptions": [
+        {
+          "description": "FLPP \"Ceļā uz līdzdalīgu iesaisti muzejos: Latvijas muzejpedagoģijas prakses izpēte (MEET)” (Nr. lzp-2022/1-0379) tika veiktas 58 intervijas ar pētījumu projekta piecu gadījumu dalībniekiem (Raiņa un Aspazijas vasarnīcas projekta \"Sajūtu ceļojums\", Eduarda Veidenbauma muzeja \"Kalāči\", Olaines Vēstures un mākslas muzeja, Latvijas Nacionālais mākslas muzeja, Rotko muzeja - muzeju pārstāvjiem, līdzdalības projektos iesaistītajiem jauniešiem, ekspertiem) un 3 fokusgrupu diskusijas (Raiņa un Aspazijas vasarnīcas gadījums: fokusgrupa (apvērstā prāta vētra). Kopīga saruna, apvērstā prāta vētra, ar jauniešiem un skolotāju, atbildot uz jautājumiem par muzeju pieredzi kopumā, idejām, kādam nav un ir jābūt muzejam. Fokusgrupa ar Olaines Vēstures un mākslas muzeja darbībā iesaistītajiem jauniešiem par motivāciju piedalīties arheoloģiskajos izrakumos.). Personu datu aizsardzības nolūkos, dati atrodās slēgtā piekļuvē.",
+          "descriptionType": "Abstract"
+        },
+        {
+          "description": "Personas datu aizsardzības nolūkos dati nav publiski pieejami. Repozitorijā ir pieejama datu aprakstošā informācija (metadati).",
+          "descriptionType": "Methods"
+        }
+      ],
+      "geoLocations": [],
+      "fundingReferences": [
+        {
+          "funderName": "Latvijas Zinātnes padome"
+        }
+      ],
+      "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjUvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC43MTc4Mi9EQVRBLzZLRklJWTwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+TGF0dmlqYXMgS3VsdMWrcmFzIGFrYWTEk21pamE8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5LdmFsaXRhdMSrdm8gZGF0dSBrb3BhOiBpbnRlcnZpamFzIHVuIGZva3VzZ3J1cHUgZGlza3VzaWphcyBwYXIgcGllcmVkemkgbXV6ZWp1IGzEq2R6ZGFsxKtiYXMgYWt0aXZpdMSBdMSTczwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5EYXRhdmVyc2VMVjwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAyNjwvcHVibGljYXRpb25ZZWFyPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0PkFydHMgYW5kIEh1bWFuaXRpZXM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5JbnRlcnZpamFzLCBmb2t1c2dydXBhcywgamF1bmllxaFpLCBla3NwZXJ0aSwgbXV6ZWphIHZhZMSrYmE8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8Y29udHJpYnV0b3JzPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iQ29udGFjdFBlcnNvbiI+CiAgICAgIDxjb250cmlidXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5UamFydmUsIEJhaWJhPC9jb250cmlidXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+QmFpYmE8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+VGphcnZlPC9mYW1pbHlOYW1lPgogICAgICA8YWZmaWxpYXRpb24+TGF0dmlqYXMgS3VsdMWrcmFzIGFrYWTEk21pamE8L2FmZmlsaWF0aW9uPgogICAgPC9jb250cmlidXRvcj4KICA8L2NvbnRyaWJ1dG9ycz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iU3VibWl0dGVkIj4yMDI1LTEyLTE1PC9kYXRlPgogICAgPGRhdGUgZGF0ZVR5cGU9IkF2YWlsYWJsZSI+MjAyNi0wMS0xMjwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJDb2xsZWN0ZWQiPjIwMjMtMDEtMDEvMjAyNS0xMi0zMTwvZGF0ZT4KICA8L2RhdGVzPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iRGF0YXNldCIvPgogIDxyZWxhdGVkSWRlbnRpZmllcnM+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRpb25UeXBlPSJJc1N1cHBsZW1lbnRUbyIgc2NoZW1lVVJJPSJodHRwczovL2ljb2ZvbS5taW5pLmljb20ubXVzZXVtIiByZWxhdGVkSWRlbnRpZmllclR5cGU9IlVSTCI+L3dwLWNvbnRlbnQvdXBsb2Fkcy9zaXRlcy8xOC8yMDI1LzEwLzIwMjUtSUNPRk9NLU1hdGVyaWFscy1mb3ItRGlzY3Vzc2lvbl9GaW5hbF8zLnBkZj9mYmNsaWQ9SXdWRVJGV0FOWHg3MWxlSFJ1QTJGbGJRSXhNUUFCSG5nNXNDSVdCdFV3TFdvbjlpeTJ0RlBoSmdmUUdrZ0hyU0ctSFZ1VWVFT3E3cTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRpb25UeXBlPSJJc1N1cHBsZW1lbnRUbyIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiPjEwLjEwODAvMTM1MDA3NzUuMjAyNS4yNTQwMjAwPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGlvblR5cGU9IklzU3VwcGxlbWVudFRvIiByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTU4NzcvQ0MuVk9MMjYuNDk2PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGlvblR5cGU9IklzU3VwcGxlbWVudFRvIiBzY2hlbWVVUkk9Imh0dHBzOi8vd3d3LmV1cm9wZWFuc29jaW9sb2d5Lm9yZyIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJVUkwiPi9ldXJvcGVhbi1zb2Npb2xvZ2lzdC9pc3N1ZS81MS9kb2luZy1zb2Npb2xvZ3kvOWU2NzI5MTctNjE1Zi00YWQ3LTk2NzEtZDA1MDM2MTA2YzEzP2ZiY2xpZD1Jd1pYaDBiZ05oWlcwQ01URUFBUjFCT1lDWGdKbVVzUF9TMTlpRlIwYmJKbERWWmNVWHVINWJXWm5USG1NU2RzLTRGbHlyclVwY0FJNF9hZW1fVTlYSUNFRmx3YUFaczVSRlZ6bEtQZzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRpb25UeXBlPSJJc1N1cHBsZW1lbnRUbyIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiPjEwLjQwMDAvSVNTLjUxODk8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0aW9uVHlwZT0iSXNTdXBwbGVtZW50VG8iIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIj4xMC41NTg3Ny9DQy5WT0wyNS41MDM8L3JlbGF0ZWRJZGVudGlmaWVyPgogIDwvcmVsYXRlZElkZW50aWZpZXJzPgogIDxzaXplcz4KICAgIDxzaXplPjQ1OTk8L3NpemU+CiAgPC9zaXplcz4KICA8Zm9ybWF0cz4KICAgIDxmb3JtYXQ+dGV4dC9wbGFpbjwvZm9ybWF0PgogIDwvZm9ybWF0cz4KICA8dmVyc2lvbj4xLjA8L3ZlcnNpb24+CiAgPHJpZ2h0c0xpc3Q+CiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaW5mbzpldS1yZXBvL3NlbWFudGljcy9vcGVuQWNjZXNzIi8+CiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvNC4wIiB4bWw6bGFuZz0iZW4iPkNyZWF0aXZlIENvbW1vbnMgQXR0cmlidXRpb24gNC4wIEludGVybmF0aW9uYWwgTGljZW5zZS48L3JpZ2h0cz4KICA8L3JpZ2h0c0xpc3Q+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij5GTFBQICZhbXA7cXVvdDtDZcS8xIEgdXogbMSrZHpkYWzEq2d1IGllc2Fpc3RpIG11emVqb3M6IExhdHZpamFzIG11emVqcGVkYWdvxKNpamFzIHByYWtzZXMgaXpwxJN0ZSAoTUVFVCnigJ0gKE5yLiBsenAtMjAyMi8xLTAzNzkpICB0aWthIHZlaWt0YXMgNTggaW50ZXJ2aWphcyBhciBwxJN0xKtqdW11IHByb2pla3RhIHBpZWN1IGdhZMSranVtdSBkYWzEq2JuaWVraWVtIChSYWnFhmEgdW4gQXNwYXppamFzIHZhc2FybsSrY2FzIHByb2pla3RhICZhbXA7cXVvdDtTYWrFq3R1IGNlxLxvanVtcyZhbXA7cXVvdDssIEVkdWFyZGEgVmVpZGVuYmF1bWEgbXV6ZWphICZhbXA7cXVvdDtLYWzEgcSNaSZhbXA7cXVvdDssIE9sYWluZXMgVsSTc3R1cmVzIHVuIG3EgWtzbGFzIG11emVqYSwgTGF0dmlqYXMgTmFjaW9uxIFsYWlzIG3EgWtzbGFzIG11emVqYSwgUm90a28gbXV6ZWphIC0gbXV6ZWp1IHDEgXJzdMSBdmppZW0sIGzEq2R6ZGFsxKtiYXMgcHJvamVrdG9zIGllc2Fpc3TEq3RhamllbSBqYXVuaWXFoWllbSwgZWtzcGVydGllbSkgdW4gMyBmb2t1c2dydXB1IGRpc2t1c2lqYXMgKFJhacWGYSB1biBBc3BhemlqYXMgdmFzYXJuxKtjYXMgZ2FkxKtqdW1zOiBmb2t1c2dydXBhIChhcHbEk3JzdMSBIHByxIF0YSB2xJN0cmEpLiBLb3DEq2dhIHNhcnVuYSwgYXB2xJNyc3TEgSBwcsSBdGEgdsSTdHJhLCBhciBqYXVuaWXFoWllbSB1biBza29sb3TEgWp1LCBhdGJpbGRvdCB1eiBqYXV0xIFqdW1pZW0gcGFyIG11emVqdSBwaWVyZWR6aSBrb3B1bcSBLCBpZGVqxIFtLCBrxIFkYW0gbmF2IHVuIGlyIGrEgWLFq3QgbXV6ZWphbS4gRm9rdXNncnVwYSBhciBPbGFpbmVzIFbEk3N0dXJlcyB1biBtxIFrc2xhcyBtdXplamEgIGRhcmLEq2LEgSBpZXNhaXN0xKt0YWppZW0gamF1bmllxaFpZW0gcGFyIG1vdGl2xIFjaWp1IHBpZWRhbMSrdGllcyBhcmhlb2xvxKNpc2tham9zIGl6cmFrdW1vcy4pLiBQZXJzb251IGRhdHUgYWl6c2FyZHrEq2JhcyBub2zFq2tvcywgZGF0aSBhdHJvZMSBcyBzbMSTZ3TEgSBwaWVrxLx1dsSTLjwvZGVzY3JpcHRpb24+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJNZXRob2RzIj5QZXJzb25hcyBkYXR1IGFpenNhcmR6xKtiYXMgbm9sxatrb3MgZGF0aSBuYXYgcHVibGlza2kgcGllZWphbWkuIFJlcG96aXRvcmlqxIEgaXIgcGllZWphbWEgZGF0dSBhcHJha3N0b8WhxIEgaW5mb3JtxIFjaWphIChtZXRhZGF0aSkuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KICA8ZnVuZGluZ1JlZmVyZW5jZXM+CiAgICA8ZnVuZGluZ1JlZmVyZW5jZT4KICAgICAgPGZ1bmRlck5hbWU+TGF0dmlqYXMgWmluxIF0bmVzIHBhZG9tZTwvZnVuZGVyTmFtZT4KICAgIDwvZnVuZGluZ1JlZmVyZW5jZT4KICA8L2Z1bmRpbmdSZWZlcmVuY2VzPgo8L3Jlc291cmNlPg==",
+      "url": "https://dv.dataverse.lv/citation?persistentId=doi:10.71782/DATA/6KFIIY",
+      "contentUrl": null,
+      "metadataVersion": 1,
+      "schemaVersion": "http://datacite.org/schema/kernel-4",
+      "source": "mds",
+      "isActive": true,
+      "state": "findable",
+      "reason": null,
+      "viewCount": 0,
+      "viewsOverTime": [],
+      "downloadCount": 0,
+      "downloadsOverTime": [],
+      "referenceCount": 0,
+      "citationCount": 4,
+      "citationsOverTime": [
+        {
+          "year": "2026",
+          "total": 4
+        }
+      ],
+      "partCount": 0,
+      "partOfCount": 0,
+      "versionCount": 0,
+      "versionOfCount": 0,
+      "created": "2025-12-15T11:29:25.000Z",
+      "registered": "2026-01-12T10:17:36.000Z",
+      "published": "2026",
+      "updated": "2026-01-12T10:17:36.000Z"
+    },
+    "relationships": {
+      "client": {
+        "data": {
+          "id": "etoe.bzcums",
+          "type": "clients"
+        }
+      },
+      "provider": {
+        "data": {
+          "id": "etoe",
+          "type": "providers"
+        }
+      },
+      "media": {
+        "data": {
+          "id": "10.71782/data/6kfiiy",
+          "type": "media"
+        }
+      },
+      "references": {
+        "data": []
+      },
+      "citations": {
+        "data": [
+          {
+            "id": "10.55877/cc.vol25.503",
+            "type": "dois"
+          },
+          {
+            "id": "10.4000/iss.5189",
+            "type": "dois"
+          },
+          {
+            "id": "10.1080/13500775.2025.2540200",
+            "type": "dois"
+          },
+          {
+            "id": "10.55877/cc.vol26.496",
+            "type": "dois"
+          }
+        ]
+      },
+      "parts": {
+        "data": []
+      },
+      "partOf": {
+        "data": []
+      },
+      "versions": {
+        "data": []
+      },
+      "versionOf": {
+        "data": []
+      }
+    }
+  }
+}

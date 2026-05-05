@@ -1,0 +1,214 @@
+{
+    "id": 4471,
+    "identifier": "data/QVUERT",
+    "persistentUrl": "https://doi.org/10.71782/DATA/QVUERT",
+    "protocol": "doi",
+    "authority": "10.71782",
+    "separator": "/",
+    "publisher": "DataverseLV",
+    "publicationDate": "2026-04-27",
+    "storageIdentifier": "file://10.71782/data/QVUERT",
+    "datasetType": "dataset",
+    "datasetVersion": {
+        "id": 696,
+        "datasetId": 4471,
+        "datasetPersistentId": "doi:10.71782/DATA/QVUERT",
+        "datasetType": "dataset",
+        "storageIdentifier": "file://10.71782/data/QVUERT",
+        "versionNumber": 1,
+        "internalVersionNumber": 29,
+        "versionMinorNumber": 0,
+        "versionState": "RELEASED",
+        "latestVersionPublishingState": "RELEASED",
+        "lastUpdateTime": "2026-04-27T07:40:11Z",
+        "releaseTime": "2026-04-27T07:40:11Z",
+        "createTime": "2026-02-26T08:38:45Z",
+        "publicationDate": "2026-04-27",
+        "citationDate": "2026-04-27",
+        "termsOfUse": "Datu kopa pieejama daļēji slēgtā piekļuvē - pēc pamatota pieprasījuma, pieeju piešķir vadošais pētnieks Andrejs Balodis.",
+        "termsOfAccess": "Datu kopa pieejama daļēji slēgtā piekļuvē - pēc pamatota pieprasījuma, pieeju piešķir vadošais pētnieks Andrejs Balodis.",
+        "fileAccessRequest": true,
+        "metadataBlocks": {
+            "citation": {
+                "displayName": "Citation Metadata",
+                "name": "citation",
+                "fields": [
+                    {
+                        "typeName": "title",
+                        "multiple": false,
+                        "typeClass": "primitive",
+                        "value": "Biogrāfisko interviju transkripcijas projektā \"Konversijas un parāvumi: latviešu filozofijas epistēmiskās stratēģijas padomju periodā (1944-1991)\""
+                    },
+                    {
+                        "typeName": "author",
+                        "multiple": true,
+                        "typeClass": "compound",
+                        "value": [
+                            {
+                                "authorName": {
+                                    "typeName": "authorName",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "Balodis, Andrejs"
+                                },
+                                "authorAffiliation": {
+                                    "typeName": "authorAffiliation",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "Latvijas Kultūras akadēmija"
+                                },
+                                "authorIdentifierScheme": {
+                                    "typeName": "authorIdentifierScheme",
+                                    "multiple": false,
+                                    "typeClass": "controlledVocabulary",
+                                    "value": "ORCID"
+                                },
+                                "authorIdentifier": {
+                                    "typeName": "authorIdentifier",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "0000-0002-0688-9213"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "typeName": "datasetContact",
+                        "multiple": true,
+                        "typeClass": "compound",
+                        "value": [
+                            {
+                                "datasetContactName": {
+                                    "typeName": "datasetContactName",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "Balodis, Andrejs"
+                                },
+                                "datasetContactAffiliation": {
+                                    "typeName": "datasetContactAffiliation",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "Latvijas Kultūras akadēmija"
+                                },
+                                "datasetContactEmail": {
+                                    "typeName": "datasetContactEmail",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "andrejs.balodis@lka.edu.lv"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "typeName": "dsDescription",
+                        "multiple": true,
+                        "typeClass": "compound",
+                        "value": [
+                            {
+                                "dsDescriptionValue": {
+                                    "typeName": "dsDescriptionValue",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "Pētījumā izmantota jauktu metožu pieeja, kas apvieno ideju, ideoloģiju un sociāli kultūras konteksta historiogrāfiskus pētījumus ar kvalitatīvu empīrisko izpēti. Pieeja ietver (a) vēsturisko avotu izpēti par periodiem (1944–1953 un 1981–1990) un (b) kvalitatīvu empīrisko izpēti, konkrētāk biogrāfiskās izpētes metodes, lai atklātu pārrāvumus Padomju Latvijas filozofijā no pirmās personas skatpunkta. Biogrāfiskās izpētes metožu izmantošana sniedz perspektīvu, kas ļauj pilnvērtīgāk izprast pārrāvuma procesus Latvijas intelektuālajā vēsturē Padomju periodā.\nDatu kopa ietver 6 biogrāfisko interviju transkripcijas ar respondentiem, kuri profesionāli nodarbojušies ar filozofiju Latvijas PSR, par viņu pieredzi un lietotajām stratēģijām, pielāgojoties padomju režīma ideoloģiskajiem apstākļiem.\n\nThe study employs a mixed-methods approach that combines historiographical analysis of ideas, ideologies, and socio-cultural contexts with qualitative empirical research. The approach includes (a) an examination of historical sources from the periods 1944–1953 and 1981–1990, and (b) qualitative empirical inquiry, specifically the use of biographical research methods, to uncover ruptures in Soviet Latvian philosophy from a first-person perspective. The use of biographical methods provides a perspective that enables a more comprehensive understanding of processes of rupture in Latvia’s intellectual history during the Soviet period.\nThe dataset consists of six biographical interview transcripts with respondents who were professionally engaged in philosophy in the Latvian SSR, focusing on their experiences and the strategies they employed to adapt to the ideological conditions of the Soviet regime."
+                                },
+                                "dsDescriptionDate": {
+                                    "typeName": "dsDescriptionDate",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "2026-02-26"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "typeName": "subject",
+                        "multiple": true,
+                        "typeClass": "controlledVocabulary",
+                        "value": [
+                            "Arts and Humanities"
+                        ]
+                    },
+                    {
+                        "typeName": "keyword",
+                        "multiple": true,
+                        "typeClass": "compound",
+                        "value": [
+                            {
+                                "keywordValue": {
+                                    "typeName": "keywordValue",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "filozofija Latvijā, padomju filozofija, konversijas, pārrāvumi, epistēmiskās stratēģijas"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "typeName": "notesText",
+                        "multiple": false,
+                        "typeClass": "primitive",
+                        "value": "Dati satur sensitīvu informāciju. Interviju dalībnieki transkripcijās ir pseidonimizēti, taču biogrāfisko interviju specifikas dēļ iespējama netieša identificēšana, tādēļ dati ir ar ierobežotu pieejamību un glabājas atbildīgajā institūcijā. Informācija par citām personām ir anonimizēta. Datu kopa pieejama daļēji slēgtā piekļuvē - pēc pamatota pieprasījuma, sazinoties ar pētnieku Andreju Balodi.\n\nThe data contain sensitive information. Interview participants have been pseudonymized in the transcripts; however, due to the nature of biographical interviews, indirect identification remains possible, and therefore the data are subject to restricted access. Information about other individuals mentioned in the transcripts has been anonymized. The dataset is available upon request, contacting researcher Andrejs Balodis."
+                    },
+                    {
+                        "typeName": "language",
+                        "multiple": true,
+                        "typeClass": "controlledVocabulary",
+                        "value": [
+                            "Latvian"
+                        ]
+                    },
+                    {
+                        "typeName": "depositor",
+                        "multiple": false,
+                        "typeClass": "primitive",
+                        "value": "Balodis, Andrejs"
+                    },
+                    {
+                        "typeName": "dateOfDeposit",
+                        "multiple": false,
+                        "typeClass": "primitive",
+                        "value": "2026-02-26"
+                    }
+                ]
+            },
+            "geospatial": {
+                "displayName": "Geospatial Metadata",
+                "name": "geospatial",
+                "fields": []
+            },
+            "journal": {
+                "displayName": "Journal Metadata",
+                "name": "journal",
+                "fields": []
+            }
+        },
+        "files": [
+            {
+                "label": "ReadMe.txt",
+                "restricted": false,
+                "version": 1,
+                "datasetVersionId": 696,
+                "dataFile": {
+                    "id": 5005,
+                    "persistentId": "",
+                    "filename": "ReadMe.txt",
+                    "contentType": "text/plain",
+                    "friendlyType": "Plain Text",
+                    "filesize": 2318,
+                    "storageIdentifier": "file://19dba396af7-a31afb6b7ae9",
+                    "rootDataFileId": -1,
+                    "md5": "a0c97845ce5feaa906c5e19ff5931fdd",
+                    "checksum": {
+                        "type": "MD5",
+                        "value": "a0c97845ce5feaa906c5e19ff5931fdd"
+                    },
+                    "tabularData": false,
+                    "creationDate": "2026-04-23",
+                    "publicationDate": "2026-04-27",
+                    "fileAccessRequest": true
+                }
+            }
+        ],
+        "citation": "Balodis, Andrejs, 2026, \"Biogrāfisko interviju transkripcijas projektā \"Konversijas un parāvumi: latviešu filozofijas epistēmiskās stratēģijas padomju periodā (1944-1991)\"\", https://doi.org/10.71782/DATA/QVUERT, DataverseLV, V1"
+    }
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.5/metadata.xsd">
+  <identifier identifierType="DOI">10.71782/DATA/QVUERT</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Balodis, Andrejs</creatorName>
+      <givenName>Andrejs</givenName>
+      <familyName>Balodis</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org">https://orcid.org/0000-0002-0688-9213</nameIdentifier>
+      <affiliation>Latvijas Kultūras akadēmija</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title>Biogrāfisko interviju transkripcijas projektā "Konversijas un parāvumi: latviešu filozofijas epistēmiskās stratēģijas padomju periodā (1944-1991)"</title>
+  </titles>
+  <publisher>DataverseLV</publisher>
+  <publicationYear>2026</publicationYear>
+  <subjects>
+    <subject>Arts and Humanities</subject>
+    <subject>filozofija Latvijā, padomju filozofija, konversijas, pārrāvumi, epistēmiskās stratēģijas</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="ContactPerson">
+      <contributorName nameType="Personal">Balodis, Andrejs</contributorName>
+      <givenName>Andrejs</givenName>
+      <familyName>Balodis</familyName>
+      <affiliation>Latvijas Kultūras akadēmija</affiliation>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Submitted">2026-02-26</date>
+    <date dateType="Available">2026-04-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset"/>
+  <sizes>
+    <size>2318</size>
+  </sizes>
+  <formats>
+    <format>text/plain</format>
+  </formats>
+  <version>1.0</version>
+  <rightsList>
+    <rights rightsURI="info:eu-repo/semantics/openAccess"/>
+    <rights rightsURI="https://dv.dataverse.lv/api/datasets/:persistentId/versions/1.0/customlicense?persistentId=doi:10.71782/DATA/QVUERT">Custom terms specific to this dataset</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">Pētījumā izmantota jauktu metožu pieeja, kas apvieno ideju, ideoloģiju un sociāli kultūras konteksta historiogrāfiskus pētījumus ar kvalitatīvu empīrisko izpēti. Pieeja ietver (a) vēsturisko avotu izpēti par periodiem (1944–1953 un 1981–1990) un (b) kvalitatīvu empīrisko izpēti, konkrētāk biogrāfiskās izpētes metodes, lai atklātu pārrāvumus Padomju Latvijas filozofijā no pirmās personas skatpunkta. Biogrāfiskās izpētes metožu izmantošana sniedz perspektīvu, kas ļauj pilnvērtīgāk izprast pārrāvuma procesus Latvijas intelektuālajā vēsturē Padomju periodā.
+Datu kopa ietver 6 biogrāfisko interviju transkripcijas ar respondentiem, kuri profesionāli nodarbojušies ar filozofiju Latvijas PSR, par viņu pieredzi un lietotajām stratēģijām, pielāgojoties padomju režīma ideoloģiskajiem apstākļiem.
+
+The study employs a mixed-methods approach that combines historiographical analysis of ideas, ideologies, and socio-cultural contexts with qualitative empirical research. The approach includes (a) an examination of historical sources from the periods 1944–1953 and 1981–1990, and (b) qualitative empirical inquiry, specifically the use of biographical research methods, to uncover ruptures in Soviet Latvian philosophy from a first-person perspective. The use of biographical methods provides a perspective that enables a more comprehensive understanding of processes of rupture in Latvia’s intellectual history during the Soviet period.
+The dataset consists of six biographical interview transcripts with respondents who were professionally engaged in philosophy in the Latvian SSR, focusing on their experiences and the strategies they employed to adapt to the ideological conditions of the Soviet regime.</description>
+    <description descriptionType="Other">Dati satur sensitīvu informāciju. Interviju dalībnieki transkripcijās ir pseidonimizēti, taču biogrāfisko interviju specifikas dēļ iespējama netieša identificēšana, tādēļ dati ir ar ierobežotu pieejamību un glabājas atbildīgajā institūcijā. Informācija par citām personām ir anonimizēta. Datu kopa pieejama daļēji slēgtā piekļuvē - pēc pamatota pieprasījuma, sazinoties ar pētnieku Andreju Balodi.
+
+The data contain sensitive information. Interview participants have been pseudonymized in the transcripts; however, due to the nature of biographical interviews, indirect identification remains possible, and therefore the data are subject to restricted access. Information about other individuals mentioned in the transcripts has been anonymized. The dataset is available upon request, contacting researcher Andrejs Balodis.</description>
+  </descriptions>
+  <geoLocations>
+    <geoLocation/>
+  </geoLocations>
+</resource>

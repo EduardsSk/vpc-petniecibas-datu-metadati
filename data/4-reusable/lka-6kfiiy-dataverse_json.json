@@ -1,0 +1,346 @@
+{
+  "id": 3015,
+  "identifier": "data/6KFIIY",
+  "persistentUrl": "https://doi.org/10.71782/DATA/6KFIIY",
+  "protocol": "doi",
+  "authority": "10.71782",
+  "separator": "/",
+  "publisher": "DataverseLV",
+  "publicationDate": "2026-01-12",
+  "storageIdentifier": "file://10.71782/data/6KFIIY",
+  "datasetType": "dataset",
+  "datasetVersion": {
+    "id": 648,
+    "datasetId": 3015,
+    "datasetPersistentId": "doi:10.71782/DATA/6KFIIY",
+    "datasetType": "dataset",
+    "storageIdentifier": "file://10.71782/data/6KFIIY",
+    "versionNumber": 1,
+    "internalVersionNumber": 19,
+    "versionMinorNumber": 0,
+    "versionState": "RELEASED",
+    "latestVersionPublishingState": "RELEASED",
+    "lastUpdateTime": "2026-01-12T10:17:35Z",
+    "releaseTime": "2026-01-12T10:17:35Z",
+    "createTime": "2025-12-15T11:29:25Z",
+    "publicationDate": "2026-01-12",
+    "citationDate": "2026-01-12",
+    "license": {
+      "name": "CC BY 4.0",
+      "uri": "http://creativecommons.org/licenses/by/4.0",
+      "iconUri": "https://licensebuttons.net/l/by/4.0/88x31.png"
+    },
+    "fileAccessRequest": true,
+    "metadataBlocks": {
+      "citation": {
+        "displayName": "Citation Metadata",
+        "name": "citation",
+        "fields": [
+          {
+            "typeName": "title",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "Kvalitatīvo datu kopa: intervijas un fokusgrupu diskusijas par pieredzi muzeju līdzdalības aktivitātēs"
+          },
+          {
+            "typeName": "author",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Latvijas Kultūras akadēmija"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "datasetContact",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "datasetContactName": {
+                  "typeName": "datasetContactName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Tjarve, Baiba"
+                },
+                "datasetContactAffiliation": {
+                  "typeName": "datasetContactAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Latvijas Kultūras akadēmija"
+                },
+                "datasetContactEmail": {
+                  "typeName": "datasetContactEmail",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "baiba.tjarve@lka.edu.lv"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "dsDescription",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "dsDescriptionValue": {
+                  "typeName": "dsDescriptionValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "FLPP \"Ceļā uz līdzdalīgu iesaisti muzejos: Latvijas muzejpedagoģijas prakses izpēte (MEET)” (Nr. lzp-2022/1-0379)  tika veiktas 58 intervijas ar pētījumu projekta piecu gadījumu dalībniekiem (Raiņa un Aspazijas vasarnīcas projekta \"Sajūtu ceļojums\", Eduarda Veidenbauma muzeja \"Kalāči\", Olaines Vēstures un mākslas muzeja, Latvijas Nacionālais mākslas muzeja, Rotko muzeja - muzeju pārstāvjiem, līdzdalības projektos iesaistītajiem jauniešiem, ekspertiem) un 3 fokusgrupu diskusijas (Raiņa un Aspazijas vasarnīcas gadījums: fokusgrupa (apvērstā prāta vētra). Kopīga saruna, apvērstā prāta vētra, ar jauniešiem un skolotāju, atbildot uz jautājumiem par muzeju pieredzi kopumā, idejām, kādam nav un ir jābūt muzejam. Fokusgrupa ar Olaines Vēstures un mākslas muzeja  darbībā iesaistītajiem jauniešiem par motivāciju piedalīties arheoloģiskajos izrakumos.). Personu datu aizsardzības nolūkos, dati atrodās slēgtā piekļuvē."
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "subject",
+            "multiple": true,
+            "typeClass": "controlledVocabulary",
+            "value": [
+              "Arts and Humanities"
+            ]
+          },
+          {
+            "typeName": "keyword",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "keywordValue": {
+                  "typeName": "keywordValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Intervijas, fokusgrupas, jaunieši, eksperti, muzeja vadība"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "publication",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "publicationCitation": {
+                  "typeName": "publicationCitation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Vikmane, Elīna, Klāsons, Gints, Tjarve, Baiba, 2025. \"Rethinking professionalism in museum education: Findings from Latvia’s first national survey.\" Imagining the Next Generation of Museum Professionals: Bridging Gaps, Breaking Barriers. International Committee for Museology of the International Council of Museums (ICOFOM/ICOM) (115-119)"
+                },
+                "publicationIDType": {
+                  "typeName": "publicationIDType",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "url"
+                },
+                "publicationURL": {
+                  "typeName": "publicationURL",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://icofom.mini.icom.museum/wp-content/uploads/sites/18/2025/10/2025-ICOFOM-Materials-for-Discussion_Final_3.pdf?fbclid=IwVERFWANXx71leHRuA2FlbQIxMQABHng5sCIWBtUwLWon9iy2tFPhJgfQGkgHrSG-HVuUeEOq7q"
+                }
+              },
+              {
+                "publicationCitation": {
+                  "typeName": "publicationCitation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Vikmane, Elīna, Tjarve, Baiba, Cērpa, Lote Katrīna, 2025. “The Participatory Engagement of Generation Z in Museums: A Case Study From Latvia.” Museum International, 77 (14-27)"
+                },
+                "publicationIDType": {
+                  "typeName": "publicationIDType",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "doi"
+                },
+                "publicationURL": {
+                  "typeName": "publicationURL",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://doi.org/10.1080/13500775.2025.2540200"
+                }
+              },
+              {
+                "publicationCitation": {
+                  "typeName": "publicationCitation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Cērpa, Lore Katrīna, Brutāne, Laura, 2024. \"Cultural Participation and Youth Wellbeing: An Example of the Memorial Museum of Eduards Veidenbaums 'Kalāči.\"Culture Crossroads, 26."
+                },
+                "publicationIDType": {
+                  "typeName": "publicationIDType",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "doi"
+                },
+                "publicationURL": {
+                  "typeName": "publicationURL",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://doi.org/10.55877/cc.vol26.496"
+                }
+              },
+              {
+                "publicationCitation": {
+                  "typeName": "publicationCitation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Vikmane, Elīna, 2024. “Advancing cybermuseology: Digital innovation diffusion in Latvia’s museum sector”. The European Sociologist, 51."
+                },
+                "publicationIDType": {
+                  "typeName": "publicationIDType",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "url"
+                },
+                "publicationURL": {
+                  "typeName": "publicationURL",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://www.europeansociology.org/european-sociologist/issue/51/doing-sociology/9e672917-615f-4ad7-9671-d05036106c13?fbclid=IwZXh0bgNhZW0CMTEAAR1BOYCXgJmUsP_S19iFR0bbJlDVZcUXuH5bWZnTHmMSds-4FlyrrUpcAI4_aem_U9XICEFlwaAZs5RFVzlKPg"
+                }
+              },
+              {
+                "publicationCitation": {
+                  "typeName": "publicationCitation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Vikmane, Elīna, 2023. “From self-exploration to self-exploitation in digitally innovative museums\". ICOFOM Study Series, 51 (1-2)"
+                },
+                "publicationIDType": {
+                  "typeName": "publicationIDType",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "doi"
+                },
+                "publicationURL": {
+                  "typeName": "publicationURL",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://doi.org/10.4000/iss.5189"
+                }
+              },
+              {
+                "publicationCitation": {
+                  "typeName": "publicationCitation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Vikmane, Elīna, Ņikitina, Maija, Brutāne, Laura, Cērpa, Lote Katrīna, 2024. “Multisensory Approach to Museum Accessibility and Experience Enhancement”. Culture Crossroads, 25."
+                },
+                "publicationIDType": {
+                  "typeName": "publicationIDType",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "doi"
+                },
+                "publicationURL": {
+                  "typeName": "publicationURL",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://doi.org/10.55877/cc.vol25.503"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "language",
+            "multiple": true,
+            "typeClass": "controlledVocabulary",
+            "value": [
+              "Latvian"
+            ]
+          },
+          {
+            "typeName": "grantNumber",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "grantNumberAgency": {
+                  "typeName": "grantNumberAgency",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Latvijas Zinātnes padome"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "depositor",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "Brutāne, Laura"
+          },
+          {
+            "typeName": "dateOfDeposit",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "2025-12-15"
+          },
+          {
+            "typeName": "dateOfCollection",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "dateOfCollectionStart": {
+                  "typeName": "dateOfCollectionStart",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "2023-01-01"
+                },
+                "dateOfCollectionEnd": {
+                  "typeName": "dateOfCollectionEnd",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "2025-12-31"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "accessToSources",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "Personas datu aizsardzības nolūkos dati nav publiski pieejami. Repozitorijā ir pieejama datu aprakstošā informācija (metadati)."
+          }
+        ]
+      }
+    },
+    "files": [
+      {
+        "label": "ReadMe.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 648,
+        "dataFile": {
+          "id": 3135,
+          "persistentId": "",
+          "filename": "ReadMe.txt",
+          "contentType": "text/plain",
+          "friendlyType": "Plain Text",
+          "filesize": 4599,
+          "storageIdentifier": "file://19bb1b585ef-3b1e531720e6",
+          "rootDataFileId": -1,
+          "md5": "e75dbfa716211d7e69d260a3df716901",
+          "checksum": {
+            "type": "MD5",
+            "value": "e75dbfa716211d7e69d260a3df716901"
+          },
+          "tabularData": false,
+          "creationDate": "2026-01-12",
+          "publicationDate": "2026-01-12",
+          "fileAccessRequest": true
+        }
+      }
+    ],
+    "citation": "Latvijas Kultūras akadēmija, 2026, \"Kvalitatīvo datu kopa: intervijas un fokusgrupu diskusijas par pieredzi muzeju līdzdalības aktivitātēs\", https://doi.org/10.71782/DATA/6KFIIY, DataverseLV, V1"
+  }
+}

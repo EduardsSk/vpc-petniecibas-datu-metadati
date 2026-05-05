@@ -1,0 +1,25 @@
+# 5-line Turtle example for Block 3.2 (Phase 1 §2.3)
+# This is a pedagogical illustration — dv.dataverse.lv does NOT natively export Turtle.
+# The same QVUERT facts shown in Topic 2 as schema.org JSON-LD are here in Turtle form.
+# Source facts verified live 2026-05-04 (see slides/data/qvuert-schema-org.json + ROR/ORCID API).
+
+@prefix schema: <http://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix lka: <https://ror.org/03f18y477> .
+
+<https://doi.org/10.71782/DATA/QVUERT> a schema:Dataset ;
+    schema:creator [ a schema:Person ;
+                     schema:sameAs <https://orcid.org/0000-0002-0688-9213> ;
+                     schema:affiliation lka: ] ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> .
+
+# Reading beats (lecturer narration in Block 3.2):
+# 1. @prefix lines = namespace shortcuts (same idea as XML xmlns: and JSON-LD @context)
+# 2. <URL> form = full IRI (URI that allows non-ASCII per RFC 3987)
+# 3. Semicolon = "another predicate of the same subject" — subject <https://doi.org/...> carries
+# 4. Bracket [ ... ] = blank node — unnamed thing with its own properties
+# 5. Three statements about QVUERT: it is a Dataset; its creator is a Person with ORCID
+#    + LKA affiliation; its license is CC BY 4.0
+#
+# Note: the actual QVUERT custom license is researcher-defined (not CC BY 4.0).
+# This pedagogical Turtle uses CC BY 4.0 as a familiar example.

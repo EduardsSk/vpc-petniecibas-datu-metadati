@@ -1,0 +1,861 @@
+{
+  "id": 2974,
+  "identifier": "data/SMGJHG",
+  "persistentUrl": "https://doi.org/10.71782/DATA/SMGJHG",
+  "protocol": "doi",
+  "authority": "10.71782",
+  "separator": "/",
+  "publisher": "DataverseLV",
+  "publicationDate": "2025-12-08",
+  "storageIdentifier": "file://10.71782/data/SMGJHG",
+  "datasetType": "dataset",
+  "datasetVersion": {
+    "id": 637,
+    "datasetId": 2974,
+    "datasetPersistentId": "doi:10.71782/DATA/SMGJHG",
+    "datasetType": "dataset",
+    "storageIdentifier": "file://10.71782/data/SMGJHG",
+    "versionNumber": 1,
+    "internalVersionNumber": 18,
+    "versionMinorNumber": 0,
+    "versionState": "RELEASED",
+    "latestVersionPublishingState": "RELEASED",
+    "UNF": "UNF:6:OwR3pWOLaxEb2E16BliBYg==",
+    "lastUpdateTime": "2025-12-08T12:35:31Z",
+    "releaseTime": "2025-12-08T12:35:31Z",
+    "createTime": "2025-12-04T09:56:20Z",
+    "publicationDate": "2025-12-08",
+    "citationDate": "2027-07-01",
+    "license": {
+      "name": "CC BY 4.0",
+      "uri": "http://creativecommons.org/licenses/by/4.0",
+      "iconUri": "https://licensebuttons.net/l/by/4.0/88x31.png"
+    },
+    "fileAccessRequest": true,
+    "metadataBlocks": {
+      "citation": {
+        "displayName": "Citation Metadata",
+        "name": "citation",
+        "fields": [
+          {
+            "typeName": "title",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "Survey dataset regarding adults’ professional development and the transfer of its results into practice in Latvia"
+          },
+          {
+            "typeName": "author",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Surikova, Svetlana"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "University of Latvia"
+                },
+                "authorIdentifierScheme": {
+                  "typeName": "authorIdentifierScheme",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "ORCID"
+                },
+                "authorIdentifier": {
+                  "typeName": "authorIdentifier",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://orcid.org/0000-0002-3025-6344"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Koļesovs, Aleksandrs"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "University of Latvia"
+                },
+                "authorIdentifierScheme": {
+                  "typeName": "authorIdentifierScheme",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "ORCID"
+                },
+                "authorIdentifier": {
+                  "typeName": "authorIdentifier",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://orcid.org/0000-0003-4470-2453"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Siliņa-Jasjukeviča, Gunta"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "University of Latvia"
+                },
+                "authorIdentifierScheme": {
+                  "typeName": "authorIdentifierScheme",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "ORCID"
+                },
+                "authorIdentifier": {
+                  "typeName": "authorIdentifier",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://orcid.org/0000-0002-6493-5396"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Nīmante, Dita"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "University of Latvia"
+                },
+                "authorIdentifierScheme": {
+                  "typeName": "authorIdentifierScheme",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "ORCID"
+                },
+                "authorIdentifier": {
+                  "typeName": "authorIdentifier",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://orcid.org/0000-0003-2371-5335"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Baranova, Sanita"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "University of Latvia"
+                },
+                "authorIdentifierScheme": {
+                  "typeName": "authorIdentifierScheme",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "ORCID"
+                },
+                "authorIdentifier": {
+                  "typeName": "authorIdentifier",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://orcid.org/0000-0003-1454-5880"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Lūsēna-Ezera, Inese"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Riga Technical University Liepaja Academy"
+                },
+                "authorIdentifierScheme": {
+                  "typeName": "authorIdentifierScheme",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "ORCID"
+                },
+                "authorIdentifier": {
+                  "typeName": "authorIdentifier",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://orcid.org/0000-0002-0943-7431"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Kaņējeva, Signe"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "TNS Latvia (Kantar)"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Lazdiņa, Santa"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "TNS Latvia (Kantar)"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Grīnberga, Marta Elīna"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "TNS Latvia (Kantar), no longer works at Kantar"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Reinsons, Jānis"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "TNS Latvia (Kantar)"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Liepiņa, Ilze"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "TNS Latvia (Kantar)"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Valeniece, Marina"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "TNS Latvia (Kantar)"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Cvetkova, Jūlija"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "TNS Latvia (Kantar)"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Vaserberga, Linda"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "TNS Latvia (Kantar)"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Gutoviča, Olga"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "TNS Latvia (Kantar)"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Zača, Evija"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "TNS Latvia (Kantar), no longer works at Kantar"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Dambītis, Juris"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "TNS Latvia (Kantar)"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Eņikova, Jeļena"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "TNS Latvia (Kantar)"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Mūrniece, Elīna"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "TNS Latvia (Kantar)"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "datasetContact",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "datasetContactName": {
+                  "typeName": "datasetContactName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Surikova, Svetlana"
+                },
+                "datasetContactAffiliation": {
+                  "typeName": "datasetContactAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "University of Latvia"
+                },
+                "datasetContactEmail": {
+                  "typeName": "datasetContactEmail",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "svetlana.surikova@lu.lv"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "dsDescription",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "dsDescriptionValue": {
+                  "typeName": "dsDescriptionValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "The dataset contains information obtained in a study on adults’ professional development and the transfer of its results into practice in Latvia. It includes a description of the research methodology (the survey questionnaire with a codebook, sampling procedure description, weighting procedure description, and fieldwork description) and respondents’ answers reflecting adults’ motivation, behavioural patterns, habits, and opportunities in choosing professional competence development and applying it in practice, as well as factors hindering participation in professional development activities. The survey was conducted by TNS Latvia (Kantar) Ltd. on behalf of the University of Latvia within the State Research Programme “Education” project “Elaboration of evidence-based solutions for effective professional competence development of adults and assessment of the transfer of its results into practice in Latvia” (No. VPP-IZM-Izglītība-2023/4-0001). The aim of the research was to investigate adults’ motivation, behaviour, habits, and opportunities in selecting and transferring professional competence development into practice in order to assess the current situation in the field of adults’ professional development in Latvia. The survey involved employed and self-employed residents of Latvia aged 16 to 65. To ensure the representativeness of the data by age, gender, ethnicity, region, level of education, and economic sector, online survey (CAWI) and telephone interview (CATI) methods were used. In total, data from 1,000 respondents were collected, representing the adult labour force of Latvia. Fieldwork was conducted from 11 March to 14 April 2025, and the dataset is prepared for deposition in a repository for further scientific analysis and use in policy planning, research, and the improvement of education quality."
+                },
+                "dsDescriptionDate": {
+                  "typeName": "dsDescriptionDate",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "2025-12-04"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "subject",
+            "multiple": true,
+            "typeClass": "controlledVocabulary",
+            "value": [
+              "Social Sciences"
+            ]
+          },
+          {
+            "typeName": "keyword",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "keywordValue": {
+                  "typeName": "keywordValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "adult education"
+                }
+              },
+              {
+                "keywordValue": {
+                  "typeName": "keywordValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "professional competence"
+                }
+              },
+              {
+                "keywordValue": {
+                  "typeName": "keywordValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "professional development"
+                }
+              },
+              {
+                "keywordValue": {
+                  "typeName": "keywordValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "transfer into practice"
+                }
+              },
+              {
+                "keywordValue": {
+                  "typeName": "keywordValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "enabling factors"
+                }
+              },
+              {
+                "keywordValue": {
+                  "typeName": "keywordValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "hindering factors"
+                }
+              },
+              {
+                "keywordValue": {
+                  "typeName": "keywordValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "learning motivation"
+                }
+              },
+              {
+                "keywordValue": {
+                  "typeName": "keywordValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "learning habits"
+                }
+              },
+              {
+                "keywordValue": {
+                  "typeName": "keywordValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "learning experience"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "language",
+            "multiple": true,
+            "typeClass": "controlledVocabulary",
+            "value": [
+              "Latvian",
+              "Russian"
+            ]
+          },
+          {
+            "typeName": "depositor",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "Surikova, Svetlana"
+          },
+          {
+            "typeName": "dateOfDeposit",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "2025-12-04"
+          }
+        ]
+      },
+      "geospatial": {
+        "displayName": "Geospatial Metadata",
+        "name": "geospatial",
+        "fields": []
+      },
+      "journal": {
+        "displayName": "Journal Metadata",
+        "name": "journal",
+        "fields": []
+      }
+    },
+    "files": [
+      {
+        "description": "Codebook in Latvian",
+        "label": "Codebook_LV.pdf",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 637,
+        "dataFile": {
+          "id": 2976,
+          "persistentId": "",
+          "filename": "Codebook_LV.pdf",
+          "contentType": "application/pdf",
+          "friendlyType": "Adobe PDF",
+          "filesize": 623801,
+          "description": "Codebook in Latvian",
+          "storageIdentifier": "file://19ae8c292b6-9fab92563d96",
+          "rootDataFileId": -1,
+          "md5": "521b4e388dbc6bbb66f51b53f5ca729e",
+          "checksum": {
+            "type": "MD5",
+            "value": "521b4e388dbc6bbb66f51b53f5ca729e"
+          },
+          "tabularData": false,
+          "creationDate": "2025-12-04",
+          "publicationDate": "2025-12-08",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "Description of the data collection procedure in Latvian",
+        "label": "Data_collection_procedure_LV.pdf",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 637,
+        "dataFile": {
+          "id": 2979,
+          "persistentId": "",
+          "filename": "Data_collection_procedure_LV.pdf",
+          "contentType": "application/pdf",
+          "friendlyType": "Adobe PDF",
+          "filesize": 157616,
+          "description": "Description of the data collection procedure in Latvian",
+          "storageIdentifier": "file://19ae8c2998f-9b751dd9cb69",
+          "rootDataFileId": -1,
+          "md5": "f275db27191eb7079e7a4fbe41825dd4",
+          "checksum": {
+            "type": "MD5",
+            "value": "f275db27191eb7079e7a4fbe41825dd4"
+          },
+          "tabularData": false,
+          "creationDate": "2025-12-04",
+          "publicationDate": "2025-12-08",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "Raw data in csv format",
+        "label": "Dataset_CSV-1.tab",
+        "restricted": false,
+        "version": 3,
+        "datasetVersionId": 637,
+        "dataFile": {
+          "id": 2985,
+          "persistentId": "",
+          "filename": "Dataset_CSV-1.tab",
+          "contentType": "text/tab-separated-values",
+          "friendlyType": "Tab-Delimited",
+          "filesize": 306857,
+          "description": "Raw data in csv format",
+          "embargo": {
+            "dateAvailable": "2027-07-01",
+            "reason": "Embargo period will be applied until the scientific articles are submitted for publication and published as well as the final project assessment is finalised."
+          },
+          "storageIdentifier": "file://19aee31f4b1-227952369637",
+          "originalFileFormat": "text/csv",
+          "originalFormatLabel": "Comma Separated Values",
+          "originalFileSize": 196424,
+          "originalFileName": "Dataset_CSV-1.csv",
+          "UNF": "UNF:6:6N8VH9oRqh1+bl73fsLGpg==",
+          "rootDataFileId": -1,
+          "md5": "fc9d3d7cee686da0acf3cfd4fc3e6b26",
+          "checksum": {
+            "type": "MD5",
+            "value": "fc9d3d7cee686da0acf3cfd4fc3e6b26"
+          },
+          "tabularData": true,
+          "creationDate": "2025-12-05",
+          "publicationDate": "2025-12-08",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "Raw data in xlsx format",
+        "label": "Dataset_Excel.tab",
+        "restricted": false,
+        "version": 3,
+        "datasetVersionId": 637,
+        "dataFile": {
+          "id": 2981,
+          "persistentId": "",
+          "filename": "Dataset_Excel.tab",
+          "contentType": "text/tab-separated-values",
+          "friendlyType": "Tab-Delimited",
+          "filesize": 262066,
+          "description": "Raw data in xlsx format",
+          "embargo": {
+            "dateAvailable": "2027-07-01",
+            "reason": "Embargo period will be applied until the scientific articles are submitted for publication and published as well as the final project assessment is finalised."
+          },
+          "storageIdentifier": "file://19ae8c1b470-5c6e05a76deb",
+          "originalFileFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "originalFormatLabel": "MS Excel Spreadsheet",
+          "originalFileSize": 335206,
+          "originalFileName": "Dataset_Excel.xlsx",
+          "UNF": "UNF:6:LhskrinjTywjVkpWgdXO7g==",
+          "rootDataFileId": -1,
+          "md5": "d375aa392c13d4429ccf70bd1e54b6b5",
+          "checksum": {
+            "type": "MD5",
+            "value": "d375aa392c13d4429ccf70bd1e54b6b5"
+          },
+          "tabularData": true,
+          "creationDate": "2025-12-04",
+          "publicationDate": "2025-12-08",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "Raw data in sav format",
+        "label": "Dataset_SPSS.tab",
+        "restricted": false,
+        "version": 3,
+        "datasetVersionId": 637,
+        "dataFile": {
+          "id": 2978,
+          "persistentId": "",
+          "filename": "Dataset_SPSS.tab",
+          "contentType": "text/tab-separated-values",
+          "friendlyType": "Tab-Delimited",
+          "filesize": 175517,
+          "description": "Raw data in sav format",
+          "embargo": {
+            "dateAvailable": "2027-07-01",
+            "reason": "Embargo period will be applied until the scientific articles are submitted for publication and published as well as the final project assessment is finalised."
+          },
+          "storageIdentifier": "file://19ae8c1ba8e-774302e461a7",
+          "originalFileFormat": "application/x-spss-sav",
+          "originalFormatLabel": "SPSS Binary",
+          "originalFileSize": 291301,
+          "originalFileName": "Dataset_SPSS.SAV",
+          "UNF": "UNF:6:qfHVJdgtrmss0nzB4Drw+g==",
+          "rootDataFileId": -1,
+          "md5": "3696c1770c13fb4c74a0b4c3c31355bf",
+          "checksum": {
+            "type": "MD5",
+            "value": "3696c1770c13fb4c74a0b4c3c31355bf"
+          },
+          "tabularData": true,
+          "creationDate": "2025-12-04",
+          "publicationDate": "2025-12-08",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "A questionnaire in Latvian",
+        "label": "Questionnaire_LV.pdf",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 637,
+        "dataFile": {
+          "id": 2984,
+          "persistentId": "",
+          "filename": "Questionnaire_LV.pdf",
+          "contentType": "application/pdf",
+          "friendlyType": "Adobe PDF",
+          "filesize": 645585,
+          "description": "A questionnaire in Latvian",
+          "storageIdentifier": "file://19ae8c2a73e-920a4cf7fdd8",
+          "rootDataFileId": -1,
+          "md5": "c39bdc24ad5f7d61d240274358540871",
+          "checksum": {
+            "type": "MD5",
+            "value": "c39bdc24ad5f7d61d240274358540871"
+          },
+          "tabularData": false,
+          "creationDate": "2025-12-04",
+          "publicationDate": "2025-12-08",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "General information in English",
+        "label": "ReadMe_EN_full.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 637,
+        "dataFile": {
+          "id": 2983,
+          "persistentId": "",
+          "filename": "ReadMe_EN_full.txt",
+          "contentType": "text/plain",
+          "friendlyType": "Plain Text",
+          "filesize": 6384,
+          "description": "General information in English",
+          "storageIdentifier": "file://19ae8c233ed-b66af31054b3",
+          "rootDataFileId": -1,
+          "md5": "cbf81ff7d152e03e92f7c6d392693c4c",
+          "checksum": {
+            "type": "MD5",
+            "value": "cbf81ff7d152e03e92f7c6d392693c4c"
+          },
+          "tabularData": false,
+          "creationDate": "2025-12-04",
+          "publicationDate": "2025-12-08",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "General information in Latvian",
+        "label": "ReadMe_LV_full.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 637,
+        "dataFile": {
+          "id": 2977,
+          "persistentId": "",
+          "filename": "ReadMe_LV_full.txt",
+          "contentType": "text/plain",
+          "friendlyType": "Plain Text",
+          "filesize": 6668,
+          "description": "General information in Latvian",
+          "storageIdentifier": "file://19ae8c235b0-5e014e1a11e6",
+          "rootDataFileId": -1,
+          "md5": "c27c46ae5a8bbef0cd2b806fb26662b3",
+          "checksum": {
+            "type": "MD5",
+            "value": "c27c46ae5a8bbef0cd2b806fb26662b3"
+          },
+          "tabularData": false,
+          "creationDate": "2025-12-04",
+          "publicationDate": "2025-12-08",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "Description of the sampling procedure",
+        "label": "Sampling_LV.pdf",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 637,
+        "dataFile": {
+          "id": 2975,
+          "persistentId": "",
+          "filename": "Sampling_LV.pdf",
+          "contentType": "application/pdf",
+          "friendlyType": "Adobe PDF",
+          "filesize": 293823,
+          "description": "Description of the sampling procedure",
+          "storageIdentifier": "file://19ae8c2b01d-f2980bf9f324",
+          "rootDataFileId": -1,
+          "md5": "e57e949c018451ea2ff03939252da2f9",
+          "checksum": {
+            "type": "MD5",
+            "value": "e57e949c018451ea2ff03939252da2f9"
+          },
+          "tabularData": false,
+          "creationDate": "2025-12-04",
+          "publicationDate": "2025-12-08",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "Description of the weighting procedure",
+        "label": "Weighting_LV.pdf",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 637,
+        "dataFile": {
+          "id": 2982,
+          "persistentId": "",
+          "filename": "Weighting_LV.pdf",
+          "contentType": "application/pdf",
+          "friendlyType": "Adobe PDF",
+          "filesize": 139722,
+          "description": "Description of the weighting procedure",
+          "storageIdentifier": "file://19ae8c2b5ee-8ddcaf9bb819",
+          "rootDataFileId": -1,
+          "md5": "59c5a4b8939b7c919218da0f4e4e8058",
+          "checksum": {
+            "type": "MD5",
+            "value": "59c5a4b8939b7c919218da0f4e4e8058"
+          },
+          "tabularData": false,
+          "creationDate": "2025-12-04",
+          "publicationDate": "2025-12-08",
+          "fileAccessRequest": true
+        }
+      }
+    ],
+    "citation": "Surikova, Svetlana; Koļesovs, Aleksandrs; Siliņa-Jasjukeviča, Gunta; Nīmante, Dita; Baranova, Sanita; Lūsēna-Ezera, Inese; Kaņējeva, Signe; Lazdiņa, Santa; Grīnberga, Marta Elīna; Reinsons, Jānis; Liepiņa, Ilze; Valeniece, Marina; Cvetkova, Jūlija; Vaserberga, Linda; Gutoviča, Olga; Zača, Evija; Dambītis, Juris; Eņikova, Jeļena; Mūrniece, Elīna, 2027, \"Survey dataset regarding adults’ professional development and the transfer of its results into practice in Latvia\", https://doi.org/10.71782/DATA/SMGJHG, DataverseLV, V1, UNF:6:OwR3pWOLaxEb2E16BliBYg== [fileUNF]"
+  }
+}

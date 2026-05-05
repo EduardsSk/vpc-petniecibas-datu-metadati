@@ -1,0 +1,88 @@
+{
+    "linkset": [
+        {
+            "anchor": "https://dv.dataverse.lv/dataset.xhtml?persistentId=doi:10.71782/DATA/QVUERT",
+            "cite-as": [
+                {
+                    "href": "https://doi.org/10.71782/DATA/QVUERT"
+                }
+            ],
+            "type": [
+                {
+                    "href": "https://schema.org/AboutPage"
+                },
+                {
+                    "href": "https://schema.org/Dataset"
+                }
+            ],
+            "author": [
+                {
+                    "href": "https://orcid.org/0000-0002-0688-9213"
+                }
+            ],
+            "license": {
+                "href": "https://dv.dataverse.lv/api/datasets/:persistentId/versions/1.0/customlicense?persistentId=doi:10.71782/DATA/QVUERT"
+            },
+            "describedby": [
+                {
+                    "href": "https://doi.org/10.71782/DATA/QVUERT",
+                    "type": "application/vnd.citationstyles.csl+json"
+                },
+                {
+                    "href": "https://dv.dataverse.lv/api/datasets/export?exporter=OAI_ORE&persistentId=doi:10.71782/DATA/QVUERT",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://dv.dataverse.lv/api/datasets/export?exporter=Datacite&persistentId=doi:10.71782/DATA/QVUERT",
+                    "type": "application/xml"
+                },
+                {
+                    "href": "https://dv.dataverse.lv/api/datasets/export?exporter=oai_dc&persistentId=doi:10.71782/DATA/QVUERT",
+                    "type": "application/xml"
+                },
+                {
+                    "href": "https://dv.dataverse.lv/api/datasets/export?exporter=oai_datacite&persistentId=doi:10.71782/DATA/QVUERT",
+                    "type": "application/xml"
+                },
+                {
+                    "href": "https://dv.dataverse.lv/api/datasets/export?exporter=schema.org&persistentId=doi:10.71782/DATA/QVUERT",
+                    "type": "application/ld+json"
+                },
+                {
+                    "href": "https://dv.dataverse.lv/api/datasets/export?exporter=ddi&persistentId=doi:10.71782/DATA/QVUERT",
+                    "type": "application/xml"
+                },
+                {
+                    "href": "https://dv.dataverse.lv/api/datasets/export?exporter=dcterms&persistentId=doi:10.71782/DATA/QVUERT",
+                    "type": "application/xml"
+                },
+                {
+                    "href": "https://dv.dataverse.lv/api/datasets/export?exporter=html&persistentId=doi:10.71782/DATA/QVUERT",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://dv.dataverse.lv/api/datasets/export?exporter=dataverse_json&persistentId=doi:10.71782/DATA/QVUERT",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://dv.dataverse.lv/api/datasets/export?exporter=oai_ddi&persistentId=doi:10.71782/DATA/QVUERT",
+                    "type": "application/xml"
+                }
+            ],
+            "item": [
+                {
+                    "href": "https://dv.dataverse.lv/api/access/datafile/5005",
+                    "type": "text/plain"
+                }
+            ]
+        },
+        {
+            "anchor": "https://dv.dataverse.lv/api/access/datafile/5005",
+            "collection": [
+                {
+                    "href": "https://dv.dataverse.lv/dataset.xhtml?persistentId=doi:10.71782/DATA/QVUERT"
+                }
+            ]
+        }
+    ]
+}

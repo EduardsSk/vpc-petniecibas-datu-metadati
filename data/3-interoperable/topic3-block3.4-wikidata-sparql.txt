@@ -1,0 +1,33 @@
+# Wikidata SPARQL query for Block 3.4 trailing-minute demo (Phase 1 §9 #4 + Phase 2 §7.7)
+# Live verified 2026-05-04 against https://query.wikidata.org/sparql
+# Hard time-box: 60 sek total (paste + run + narrate); if Wikidata response >10 sek,
+# lecturer pivots to slides/data/topic3-block3.4-wikidata-sparql-result.png
+
+# What this query does:
+# Asks Wikidata: "show me all entities that have both a ROR ID (P6782)
+# AND are located in Latvia (P17 = Q211)" — i.e., Latvian research institutions
+# registered in ROR.
+#
+# Pedagogical use: demonstrates SPARQL as the reuse-of-others'-linked-data mechanism;
+# bridges to Topic 4 SPARQL hands-on (locked decision #3).
+
+SELECT ?inst ?instLabel ?ror WHERE {
+  ?inst wdt:P6782 ?ror .
+  ?inst wdt:P17 wd:Q211 .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "lv,en" }
+} LIMIT 10
+
+# To run:
+# 1. Open https://query.wikidata.org/
+# 2. Paste this query (or load via URL: https://w.wiki/<short-link> if pre-shortened)
+# 3. Click the play button (▶) — results return in 1-3 sek typically
+# 4. Result table at 2026-05-04 Phase 0 re-verification shows 10 LV institutions
+#    (LIMIT cap reached): LU, RTU, Rīgas Juridiskā augstskola, Banku augstskola,
+#    Latvijas Banka, ministries, research centres. Wikidata data has grown —
+#    Phase 1 capture had only 5 minor institutions; this updated set is
+#    pedagogically stronger.
+#
+# Lecturer narration verbatim (Phase 2 §7.7):
+# "Tas ir SPARQL — vaicājuma valoda RDF datiem. Te mēs lūdzām Wikidata:
+# 'parādi visas Latvijas iestādes, kurām ir ROR identifikators.'
+# Tas ir reuse-of-others'-linked-data mehānisms. Topic 4 attīsta šo praktiski."

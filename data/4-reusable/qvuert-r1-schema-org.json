@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Dataset",
+  "@id": "https://doi.org/10.71782/DATA/QVUERT",
+  "identifier": "https://doi.org/10.71782/DATA/QVUERT",
+  "name": "Biogrāfisko interviju transkripcijas projektā \"Konversijas un parāvumi: latviešu filozofijas epistēmiskās stratēģijas padomju periodā (1944-1991)\"",
+  "creator": [
+    {
+      "@type": "Person",
+      "givenName": "Andrejs",
+      "familyName": "Balodis",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Latvijas Kultūras akadēmija"
+      },
+      "sameAs": "https://orcid.org/0000-0002-0688-9213",
+      "@id": "https://orcid.org/0000-0002-0688-9213",
+      "identifier": "https://orcid.org/0000-0002-0688-9213",
+      "name": "Balodis, Andrejs"
+    }
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Andrejs",
+      "familyName": "Balodis",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Latvijas Kultūras akadēmija"
+      },
+      "sameAs": "https://orcid.org/0000-0002-0688-9213",
+      "@id": "https://orcid.org/0000-0002-0688-9213",
+      "identifier": "https://orcid.org/0000-0002-0688-9213",
+      "name": "Balodis, Andrejs"
+    }
+  ],
+  "datePublished": "2026-04-27",
+  "dateModified": "2026-04-27",
+  "version": "1",
+  "description": "Pētījumā izmantota jauktu metožu pieeja, kas apvieno ideju, ideoloģiju un sociāli kultūras konteksta historiogrāfiskus pētījumus ar kvalitatīvu empīrisko izpēti. Pieeja ietver (a) vēsturisko avotu izpēti par periodiem (1944–1953 un 1981–1990) un (b) kvalitatīvu empīrisko izpēti, konkrētāk biogrāfiskās izpētes metodes, lai atklātu pārrāvumus Padomju Latvijas filozofijā no pirmās personas skatpunkta. Biogrāfiskās izpētes metožu izmantošana sniedz perspektīvu, kas ļauj pilnvērtīgāk izprast pārrāvuma procesus Latvijas intelektuālajā vēsturē Padomju periodā. Datu kopa ietver 6 biogrāfisko interviju transkripcijas ar respondentiem, kuri profesionāli nodarbojušies ar filozofiju Latvijas PSR, par viņu pieredzi un lietotajām stratēģijām, pielāgojoties padomju režīma ideoloģiskajiem apstākļiem. The study employs a mixed-methods approach that combines historiographical analysis of ideas, ideologies, and socio-cultural contexts with qualitative empirical research. The approach includes (a) an examination of historical sources from the periods 1944–1953 and 1981–1990, and (b) qualitative empirical inquiry, specifically the use of biographical research methods, to uncover ruptures in Soviet Latvian philosophy from a first-person perspective. The use of biographical methods provides a perspective that enables a more comprehensive understanding of processes of rupture in Latvia’s intellectual history during the Soviet period. The dataset consists of six biographical interview transcripts with respondents who were professionally engaged in philosophy in the Latvian SSR, focusing on their experiences and the strategies they employed to adapt to the ideological conditions of the Soviet regime.",
+  "keywords": [
+    "Arts and Humanities",
+    "filozofija Latvijā, padomju filozofija, konversijas, pārrāvumi, epistēmiskās stratēģijas"
+  ],
+  "license": "https://dv.dataverse.lv/api/datasets/:persistentId/versions/1.0/customlicense?persistentId=doi:10.71782/DATA/QVUERT",
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "name": "DataverseLV",
+    "url": "https://dv.dataverse.lv"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "DataverseLV"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "DataverseLV"
+  },
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "ReadMe.txt",
+      "encodingFormat": "text/plain",
+      "contentSize": 2318,
+      "contentUrl": "https://dv.dataverse.lv/api/access/datafile/5005"
+    }
+  ]
+}

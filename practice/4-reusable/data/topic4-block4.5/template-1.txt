@@ -1,0 +1,12 @@
+# T1 — Latvijas iestādes ar ROR ID (verbatim no Topic 3 Bloka 3.4)
+# Atveriet: https://query.wikidata.org/
+# Ielīmējiet šo vaicājumu redaktorā un spiediet ▶ Run
+# Sagaidāms: 12 rindas (~0,2 sek); LU, RTU, LKA, Latvijas Banka u.c.
+
+SELECT ?inst ?instLabel ?ror
+WHERE {
+  ?inst wdt:P6782 ?ror .
+  ?inst wdt:P17 wd:Q211 .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "lv,en" }
+}
+LIMIT 12

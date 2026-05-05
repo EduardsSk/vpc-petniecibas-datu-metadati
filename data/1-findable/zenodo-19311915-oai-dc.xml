@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Ikstens, Jānis</dc:creator>
+  <dc:date>2026-03-29</dc:date>
+  <dc:description>&amp;lt;p&amp;gt;Data from annual financial declarations submitted to the supervising authority by Latvian political parties, 2002-2024.&amp;lt;/p&amp;gt;</dc:description>
+  <dc:identifier>https://doi.org/10.5281/zenodo.19311915</dc:identifier>
+  <dc:identifier>oai:zenodo.org:19311915</dc:identifier>
+  <dc:publisher>Zenodo</dc:publisher>
+  <dc:relation>https://doi.org/10.5281/zenodo.19311914</dc:relation>
+  <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+  <dc:rights>Creative Commons Attribution 4.0 International</dc:rights>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/legalcode</dc:rights>
+  <dc:title>Party financial declarations, Latvia, 2002-2024</dc:title>
+  <dc:type>info:eu-repo/semantics/other</dc:type>
+</oai_dc:dc>

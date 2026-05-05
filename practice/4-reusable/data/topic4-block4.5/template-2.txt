@@ -1,0 +1,15 @@
+# T2 — Latvijas universitātes (viena modifikācija no T1)
+# Vienīgā maiņa salīdzinājumā ar T1: pievienota rinda
+#   ?inst wdt:P31 wd:Q3918 .
+# Tas filtrē rezultātus, lai paliek tikai tās iestādes, kas Wikidata
+# ir klasificētas kā "universitāte" (Q3918).
+# Sagaidāms: 10 rindas (~0,3 sek); LU, RTU, RSU, DU, LiepU, JVMA, LKA u.c.
+
+SELECT ?inst ?instLabel ?ror
+WHERE {
+  ?inst wdt:P6782 ?ror .
+  ?inst wdt:P17 wd:Q211 .
+  ?inst wdt:P31 wd:Q3918 .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "lv,en" }
+}
+LIMIT 10
