@@ -1,4 +1,4 @@
-# Praktiskais uzdevums 1 — Bagātā vs minimālā eksportu salīdzinājums
+# Praktiskais uzdevums 1 —  eksportu salīdzinājums
 
 **Laiks:** ~15 min individuāli
 **Mērķis:** redzēt, kā vienai datu kopai pastāv vairāki paralēli metadatu eksporti dažādos standartos, un kā lauku aizpildīšanas kvalitāte (ne platforma) ietekmē atrodamību.
@@ -13,13 +13,13 @@ Salīdzināsit **divas reālas datu kopas no diviem FAIR repozitorijiem** — vi
 - **DataCite XML** — tas, ko redz DOI reģistrs un akadēmiskās citēšanas sistēmas.
 - **Dublin Core (oai_dc) XML** — tas, ko redz bibliotēku katalogi un OpenAIRE.
 
-Atveriet failus pa pāriem (bagātais ↔ minimālais), salīdziniet, kuri lauki ir aizpildīti, kuri trūkst, un atzīmējiet to kontrolsarakstā 4. sadaļā.
+Atveriet failus pa pāriem (pilnīgais ↔ minimālais), salīdziniet, kuri lauki ir aizpildīti, kuri trūkst, un atzīmējiet to kontrolsarakstā 4. sadaļā.
 
 ---
 
 ## 2. Datu kopas
 
-### 2.1 Bagātā datu kopa
+### 2.1 Pilnīgā datu kopa
 
 **Nosaukums:** _Biogrāfisko interviju transkripcijas projektā "Konversijas un parāvumi: latviešu filozofijas epistēmiskās stratēģijas padomju periodā (1944-1991)"_
 **Autors:** Andrejs Balodis (Latvijas Kultūras akadēmija)
@@ -61,39 +61,39 @@ Atzīmējiet, ko atrodat katrā eksportā. Fokuss: **kuri lauki vispār ir aizpi
 
 ### 4.1 Aprakstošie metadati (F2)
 
-| Lauks                      | Bagātā | Minimālā | Piezīmes |
-|----------------------------|:------:|:--------:|----------|
-| Nosaukums (`name`/`title`) | ☐      | ☐        | Vai ir bilingvāls? |
-| Apraksts (`description`)   | ☐      | ☐        | Cik garš? Vai bilingvāls? |
-| Apraksta tips (DataCite)   | ☐      | ☐        | Vienkāršs Abstract vai vairāki tipi? |
-| Atslēgvārdi (`keywords`)   | ☐      | ☐        | Cik daudz? Cik kvalitatīvi? |
-| Tēmas joma (`subject`)     | ☐      | ☐        | Cik plaša/precīza? |
+| Lauks                      | Pilnīgā | Minimālā | Piezīmes                             |
+| -------------------------- | :-----: | :------: | ------------------------------------ |
+| Nosaukums (`name`/`title`) |    ☐    |    ☐     | Vai ir bilingvāls?                   |
+| Apraksts (`description`)   |    ☐    |    ☐     | Cik garš? Vai bilingvāls?            |
+| Apraksta tips (DataCite)   |    ☐    |    ☐     | Vienkāršs Abstract vai vairāki tipi? |
+| Atslēgvārdi (`keywords`)   |    ☐    |    ☐     | Cik daudz? Cik kvalitatīvi?          |
+| Tēmas joma (`subject`)     |    ☐    |    ☐     | Cik plaša/precīza?                   |
 
 ### 4.2 Aģentu identifikatori (F2 — otrais slānis)
 
-| Lauks                  | Bagātā | Minimālā | Piezīmes |
-|------------------------|:------:|:--------:|----------|
-| Autors ar ORCID        | ☐      | ☐        | Visi autori? Daži? Neviens? |
-| Autora piederība       | ☐      | ☐        | Tikai teksts vai ar ROR? |
-| Kontaktpersona         | ☐      | ☐        | Skaidri norādīta? |
+| Lauks            | Pilnīgā | Minimālā | Piezīmes                    |
+| ---------------- | :-----: | :------: | --------------------------- |
+| Autors ar ORCID  |    ☐    |    ☐     | Visi autori? Daži? Neviens? |
+| Autora piederība |    ☐    |    ☐     | Tikai teksts vai ar ROR?    |
+| Kontaktpersona   |    ☐    |    ☐     | Skaidri norādīta?           |
 
 ### 4.3 Atklājamības lauki (F4 — ietekmē Google Dataset Search redzamību)
 
-| Lauks                | Bagātā | Minimālā | Piezīmes |
-|----------------------|:------:|:--------:|----------|
-| `spatialCoverage`    | ☐      | ☐        | Ģeogrāfija |
-| `temporalCoverage`   | ☐      | ☐        | Laika diapazons |
-| `funder`             | ☐      | ☐        | Finansējuma avots |
-| `variableMeasured`   | ☐      | ☐        | Mērītie mainīgie |
-| `version`            | ☐      | ☐        | Versija |
+| Lauks              | Pilnīgā | Minimālā | Piezīmes          |
+| ------------------ | :-----: | :------: | ----------------- |
+| `spatialCoverage`  |    ☐    |    ☐     | Ģeogrāfija        |
+| `temporalCoverage` |    ☐    |    ☐     | Laika diapazons   |
+| `funder`           |    ☐    |    ☐     | Finansējuma avots |
+| `variableMeasured` |    ☐    |    ☐     | Mērītie mainīgie  |
+| `version`          |    ☐    |    ☐     | Versija           |
 
 ### 4.4 Atkārtotas izmantošanas lauki (R1.1, R1.2 — sīkāk skatīsim 4. sesijā)
 
-| Lauks                | Bagātā | Minimālā | Piezīmes |
-|----------------------|:------:|:--------:|----------|
-| `license`            | ☐      | ☐        | URL formātā? |
-| Piekļuves režīms     | ☐      | ☐        | Atvērts / ierobežots |
-| Provenance / metode  | ☐      | ☐        | Ietverta `description`? |
+| Lauks               | Pilnīgā | Minimālā | Piezīmes                |
+| ------------------- | :-----: | :------: | ----------------------- |
+| `license`           |    ☐    |    ☐     | URL formātā?            |
+| Piekļuves režīms    |    ☐    |    ☐     | Atvērts / ierobežots    |
+| Provenance / metode |    ☐    |    ☐     | Ietverta `description`? |
 
 ---
 
