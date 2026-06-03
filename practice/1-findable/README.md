@@ -1,4 +1,4 @@
-# Praktiskais uzdevums 1 —  eksportu salīdzinājums
+# Praktiskais uzdevums 1 — eksportu salīdzinājums
 
 **Laiks:** ~15 min individuāli
 **Mērķis:** redzēt, kā vienai datu kopai pastāv vairāki paralēli metadatu eksporti dažādos standartos, un kā lauku aizpildīšanas kvalitāte (ne platforma) ietekmē atrodamību.

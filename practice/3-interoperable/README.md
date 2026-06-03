@@ -25,9 +25,9 @@ Strādāsim ar **četrām opcijām** — trīs verificētas reālas datu kopas (
 
 Jūs **klusumā** strādājat ar izvēlēto datu kopu ~20 minūtes — atveriet lapu, atrodiet atslēgvārdu lauku, atrodiet disciplīnai atbilstošas kontrolētas vārdnīcas un meklējiet **konkrētus jēdzienus (URI)**, kas pārklātu jūsu atslēgvārdus. Tad **Aptauja 4** fiksē jūsu vārdnīcu izvēli; tad pasniedzējs demonstrē Baloža (QVUERT) paraugu kā strādājošu piemēru (~10 min) — pārējiem trim ir paralēli raksti, ko var pārlasīt §7.
 
-> **Kāpēc brīva izvēle, ne uzvārda dalījums?** _(Vēsturiska piezīme: Phase 4b draftā bija A–G / H–N / O–Ž slodzes-dalījuma mehānisms; tas atcelts pēc 2026-05-05 atskata — visiem dalībniekiem sava disciplīna ir tuvāka nekā piespiedu cita-disciplīnas paraugs, un sava datu kopa ir vēl tuvāka.)_ Brīva izvēle ļauj jums strādāt ar to, kas jūsu darbam ir vistuvāk; pēc-aptaujas Baloža walkthrough rāda, kā tas pats process izskatās uz konkrēta humanitāra paraugā.
+> **Kāpēc brīva izvēle, ne uzvārda dalījums?** _(Vēsturiska piezīme: Phase 4b draftā bija A–G / H–N / O–Ž slodzes-dalījuma mehānisms; tas atcelts pēc 2026-05-05 atskata — visiem dalībniekiem sava disciplīna ir tuvāka nekā piespiedu cita-disciplīnas paraugs, un sava datu kopa ir vēl tuvāka.)_ Brīva izvēle ļauj jums strādāt ar to, kas jūsu darbam ir vistuvāk; pēc-aptaujas Baloža walkthrough rāda, kā tas pats process izskatās uz konkrēta humanitāra parauga.
 
-> **Kāpēc Baloža (QVUERT) paraugs apkopojumā, ne visi trīs?** QVUERT ir kursa caurviju paraugs (1. un 2. sesijā jau analizēts) — vienots empīriskais kontekss ļauj 10 minūtēs parādīt **konkrētus jēdzienu URI** terminu līmenī, ne tikai augstā līmeņa salīdzinājumu. SMGJHG un Athar paralēlie raksti dokumentēti §7 šajā README pēc-sesijas pārlasīšanai.
+> **Kāpēc Baloža (QVUERT) paraugs apkopojumā, ne visi trīs?** QVUERT ir kursa caurviju paraugs (1. un 2. sesijā jau analizēts) — vienots empīriskais konteksts ļauj 10 minūtēs parādīt **konkrētus jēdzienu URI** terminu līmenī, ne tikai augstā līmeņa salīdzinājumu. SMGJHG un Athar paralēlie raksti dokumentēti §7 šajā README pēc-sesijas pārlasīšanai.
 
 ---
 
@@ -136,7 +136,7 @@ https://zenodo.org/records/{RECORD_ID}/export/{FORMAT}
 
 Kur `{FORMAT}` ir viens no: `json-ld` (schema.org), `datacite-xml`, `dublincore`, `bibtex`, `cff`, `csl`.
 
-### 5.3 Tieši ko vērts pasvarīgi pirms-deponēšanas pārbaudē
+### 5.3 Ko īpaši vērts pārbaudīt pirms deponēšanas
 
 | Eksports | Ko tas rāda | Kad lieto |
 |----------|--------------|-----------|
@@ -147,7 +147,7 @@ Kur `{FORMAT}` ir viens no: `json-ld` (schema.org), `datacite-xml`, `dublincore`
 
 ---
 
-## 6. Aptauja 4 — vārdnīcu izvēla (multi-select)
+## 6. Aptauja 4 — vārdnīcu izvēle (multi-select)
 
 **Aptauja 4 (Bloks 3.6, klusuma darba beigās, ~24:00 minūte):**
 
@@ -181,16 +181,17 @@ F-UJI 2026-04-27 ziņojums šai datu kopai: **`FsF-I2-01M` fail (0/2)** — tie�
 | Termins                  | Vārdnīca       | Kandidāta jēdziens                                         |
 | ------------------------ | -------------- | ---------------------------------------------------------- |
 | filozofija Latvijā       | **Wikidata**   | `wd:Q5891` _philosophy_ + `wd:Q211` _Latvia_ kā vieta      |
-| padomju filozofija       | **LCSH**       | _Philosophy, Russian — Soviet period_ <!-- VERIFY: id.loc.gov authority heading exact form --> |
+| padomju filozofija       | **LCSH**       | _Philosophy, Marxist--Soviet Union_ (sh2010106129) |
 | epistēmiskās stratēģijas | **Wikidata**   | `wd:Q9471` _epistemology_ _(plašāks; precīza jēdziena nav)_ |
-| konversijas _(filozof.)_ | **brīvs teksts** ar atrunu | konteksta-specifiska nozīme — `wd:Q193292` ir reliģiska konversija, **ne** šī |
+| konversijas _(filozof.)_ | **brīvs teksts** ar atrunu | konteksta-specifiska nozīme — `wd:Q814997` ir reliģiska konversija, **ne** šī |
 | pārrāvumi _(rupture)_    | **brīvs teksts** | nav viennozīmīga URI — Foucault-tradīcijas jēdziens      |
 | _Arts and Humanities_    | **DataCite Subject** | augstā līmeņa klasifikators — jau ir laukā           |
 
 > **Realitāte:** vārdnīcas pārklāj ~3 no 5 terminiem ar URI; pārējie paliek brīvā tekstā ar disciplīnas-specifisku nozīmi. _Tas ir pareizi_ — vārdnīcas nav universāls aizvietotājs, bet stiprā URI piesaiste tām, kas ir.
 
-<!-- VERIFY (pirms sesijas): pārbaudīt Q-IDs (Q5891, Q211, Q9471, Q193292) wikidata.org un LCSH formu id.loc.gov;
-     ja kāds atšķiras, koriģēt tabulu šajā README un atbilstošajā slaidā. -->
+<!-- Verificēts 2026-06-03: Q5891 (philosophy), Q211 (Latvia), Q9471 (epistemology) apstiprināti wikidata.org;
+     Q193292 bija kļūda (Heian period) → labots uz Q814997 (religious conversion);
+     LCSH "Philosophy, Russian — Soviet period" neeksistē → labots uz "Philosophy, Marxist--Soviet Union" (id.loc.gov sh2010106129). -->
 
 ### 7.2 SMGJHG sociālo zinātņu — paralēls I2 trūkums (pēc-sesijas pārlasīšana)
 
@@ -200,7 +201,7 @@ Vārdnīcu kandidāti šim paraugam: **EuroVoc** (adult-education ir ES politika
 
 ### 7.3 Athar dzīvības zinātņu — platformas-CVOC trūkums (pēc-sesijas pārlasīšana)
 
-Athar atslēgvārdu lauks satur **septiņus MeSH terminus** — `Spinal Cord Injuries`, `Datasets as Topic`, `Neurological Rehabilitation`, `Fatigue/physiopathology`, `Heart Rate Determination`, `Body Temperature Changes`, `Paraplegia`. **`subjectScheme: MeSH` ir deklarēts katrai sējai, bet `valueUri: null` katrai sējai.** Depozitors izvēlējās MeSH terminus, bet Zenodo deponēšanas forma neielādēja URI saites.
+Athar atslēgvārdu lauks satur **septiņus MeSH terminus** — `Spinal Cord Injuries`, `Datasets as Topic`, `Neurological Rehabilitation`, `Fatigue/physiopathology`, `Heart Rate Determination`, `Body Temperature Changes`, `Paraplegia`. **`subjectScheme: MeSH` ir deklarēts katram terminam, bet `valueUri: null` katram terminam.** Depozitors izvēlējās MeSH terminus, bet Zenodo deponēšanas forma neielādēja URI saites.
 
 MeSH terminam _Spinal Cord Injuries_ pastāv URI: `https://id.nlm.nih.gov/mesh/D013119`. Bet Zenodo eksportos šī URI nav. Tas ir _tieši tas mehānisms_, ko Bloka 3.5 atrunā nosaucām — **CVOC** (Controlled Vocabulary plug-in; Dataverse-iekšējais kontrolēto vārdnīcu integrēšanas mehānisms). Ja Zenodo būtu CVOC iespējots MeSH bibliotēkai, šie 7 termini parādītos kā URI saites.
 
@@ -208,7 +209,7 @@ MeSH terminam _Spinal Cord Injuries_ pastāv URI: `https://id.nlm.nih.gov/mesh/D
 
 | Slānis | Kas to risina | Kad jūs to varat darīt |
 |--------|---------------|--------------------------|
-| **Depozitora izvēla** (QVUERT, SMGJHG raksts) | Jūs paši, kā depozitori | Rītdien — izvēlieties vārdnīcu savai disciplīnai pirms publicēšanas |
+| **Depozitora izvēle** (QVUERT, SMGJHG raksts) | Jūs paši, kā depozitori | Rītdien — izvēlieties vārdnīcu savai disciplīnai pirms publicēšanas |
 | **Repozitorija binding (CVOC)** (Athar raksts) | Repozitorija administrators | Runājiet ar VPC datu kuratoriem par CVOC iespējošanu dv.dataverse.lv |
 
 Pirmo slāni jūs risināt depozitēšanas formā — izvēlieties terminus no MeSH/GEMET/EuroVoc/AGROVOC/Wikidata/LCSH vietā brīva teksta. Otro slāni risina repozitorija konfigurācija — CVOC iestatījums, kas savieno depozitēšanas formas atslēgvārdu lauku ar konkrētu vārdnīcu un automātiski binds URI.
@@ -228,11 +229,11 @@ Pirmo slāni jūs risināt depozitēšanas formā — izvēlieties terminus no M
 | Disciplīnas klasifikātors | "Arts and Humanities" | "Social Sciences" | (nav atsevišķa Subject lauka Zenodo) | ☐ |
 | Keyword ierakstu skaits (lauku līmenī) | 1 (5 termini komatu-virknē) | 9 (katrs savā laukā) | 7 (katrs savā subject ierakstā) | ☐ |
 | Konceptuālais terminu skaits | 6 (1 klasifikators + 5 LV koncepti) | 10 (1 klasifikators + 9 termini) | 7 MeSH termini | ☐ |
-| Strukturāla atdalīšana starp terminiem? | NĒ — papildu depozitora-izvēla nepilnība | JĀ | JĀ | ☐ |
-| `subjectScheme` deklarēts? | NĒ | NĒ | JĀ (`MeSH` katrai sējai) | ☐ |
-| `valueUri` aizpildīts? | NĒ (lauks nav) | NĒ (lauks nav) | NĒ (`null` visām 7 sējām) | ☐ |
+| Strukturāla atdalīšana starp terminiem? | NĒ — papildu depozitora izvēles nepilnība | JĀ | JĀ | ☐ |
+| `subjectScheme` deklarēts? | NĒ | NĒ | JĀ (`MeSH` katram terminam) | ☐ |
+| `valueUri` aizpildīts? | NĒ (lauks nav) | NĒ (lauks nav) | NĒ (`null` visiem 7 terminiem) | ☐ |
 | Vārdnīcu URI atslēgvārdos | 0 | 0 | 0 | ☐ |
-| I2 trūkuma slānis | depozitora izvēla (divkāršs: vārdnīca + struktūra) | depozitora izvēla | platformas CVOC binding | ☐ |
+| I2 trūkuma slānis | depozitora izvēle (divkāršs: vārdnīca + struktūra) | depozitora izvēle | platformas CVOC binding | ☐ |
 
 ### 8.2 Saistītie FAIR aspekti
 
@@ -241,7 +242,7 @@ Pirmo slāni jūs risināt depozitēšanas formā — izvēlieties terminus no M
 | **I1** (formālā valoda) | Visi trīs paraugi izpilda — schema.org JSON-LD un DataCite XML eksporti darbojas |
 | **I2** (FAIR vārdnīcas) | Visi trīs paraugi **neizpilda** — atslēgvārdu laukā nav vārdnīcu URI (vai depozitora izvēlas slānī, vai platformas CVOC slānī) |
 | **I3** (kvalificētas saites) | Daļēji izpildīts — autoru ORCID saites ir `creator.sameAs` formātā visās trīs datu kopās |
-| **R1.3** (kopienas standarti — pielietoti puspakāpiens) | Bloka 3.6 vingrinājums _ir_ R1.3 mikro-līmenī — atslēgvārdu vārdnīcas izvēla ir disciplīnas kopienas standarta izvēla. Pilns R1.3 izvērsums — 4. sesijā (DDI, EML, Croissant, MIxS) |
+| **R1.3** (kopienas standarti — pielietoti puspakāpienā) | Bloka 3.6 vingrinājums _ir_ R1.3 mikro-līmenī — atslēgvārdu vārdnīcas izvēle ir disciplīnas kopienas standarta izvēle. Pilns R1.3 izvērsums — 4. sesijā (DDI, EML, Croissant, MIxS) |
 
 ---
 
@@ -250,7 +251,7 @@ Pirmo slāni jūs risināt depozitēšanas formā — izvēlieties terminus no M
 Trīs soļi, ko varat veikt savai publicētai (vai plānotai) datu kopai:
 
 1. **Atveriet savas datu kopas eksportu.** dv.dataverse.lv: `https://dv.dataverse.lv/api/datasets/export?exporter=Datacite&persistentId=doi:{JŪSU DOI}`. Zenodo: `https://zenodo.org/records/{ID}/export/datacite-xml`.
-2. **Pārbaudiet `<subjects>` (DataCite) vai `keywords` (schema.org JSON-LD) lauku.** Vai ir `subjectScheme` atribūts? Ja nav — jūs esat depozitora-izvēla I2 trūkuma slānī. Ja ir, bet `valueUri` ir tukšs — jūs esat platformas-CVOC trūkuma slānī.
+2. **Pārbaudiet `<subjects>` (DataCite) vai `keywords` (schema.org JSON-LD) lauku.** Vai ir `subjectScheme` atribūts? Ja nav — jūs esat depozitora izvēles I2 trūkuma slānī. Ja ir, bet `valueUri` ir tukšs — jūs esat platformas-CVOC trūkuma slānī.
 3. **Padomājiet — kura disciplīnas vārdnīca derētu jūsu atslēgvārdiem?**
    - Medicīna / dzīvības zinātnes → MeSH (`https://meshb.nlm.nih.gov/`)
    - Vide / ekoloģija / Zemes zinātnes → GEMET (`https://www.eionet.europa.eu/gemet/lv/`) — latviešu valodā pieejams
@@ -301,7 +302,7 @@ Ja vēlaties pieprasīt, lai dv.dataverse.lv iespējo CVOC konkrētai vārdnīca
 
 Pēc sesijas, lūdzu, atstājiet īsu atgriezenisko saiti ar:
 
-- Kura no četrām aptaujām (Aptauja 1 RDF pieredze, Aptauja 2 vārdnīcu termini, Aptauja 3 disciplīna, Aptauja 4 vārdnīcu izvēla) jums šķita visnoderīgākā?
+- Kura no četrām aptaujām (Aptauja 1 RDF pieredze, Aptauja 2 vārdnīcu termini, Aptauja 3 disciplīna, Aptauja 4 vārdnīcu izvēle) jums šķita visnoderīgākā?
 - Kuru no četrām opcijām ((a) QVUERT, (b) SMGJHG, (c) Athar, (d) sava datu kopa) izvēlējāties? Kurš variants vai pasniedzēja Baloža walkthrough deva visskaidrāko priekšstatu par I2 mehānismu?
 - Vai 20 minūšu klusuma darbs bija pietiekams, par maz vai par daudz?
 - Vai jums ir konkrēta vārdnīca, par kuru vēlaties uzzināt vairāk pēc kursa? (Norādiet sajūsmīgi — VPC datu kuratori var palīdzēt sasaistīties ar disciplīnas kopienu.)

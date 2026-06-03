@@ -20,7 +20,7 @@ Organizē Augstākās izglītības un zinātnes IT koplietošanas pakalpojumu ce
 | 1 | Findable — atrodami metadati | [PDF](slides/1-findable.pdf) | [Eksportu salīdzinājums](practice/1-findable/) |
 | 2 | Accessible & Interoperable — pieejami un sadarbspējīgi | [PDF](slides/2-accessible-interoperable.pdf) | [F-UJI novērtējums](practice/2-accessible-interoperable/) |
 | 3 | Interoperable — vārdnīcas un saistītie dati | [PDF](slides/3-interoperable.pdf) | [Vārdnīcu ieteikums](practice/3-interoperable/) |
-| 4 | Reusable — atkalizmantojamība | [PDF](slides/4-reusable.pdf) | [SPARQL praktiskais](practice/4-reusable/) |
+| 4 | Reusable — atkārtota izmantojamība | [PDF](slides/4-reusable.pdf) | [SPARQL praktiskais](practice/4-reusable/) |
 
 ## Licence
 
