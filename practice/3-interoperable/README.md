@@ -261,7 +261,7 @@ Trīs soļi, ko varat veikt savai publicētai (vai plānotai) datu kopai:
    - Vispārējās tēmas / cilvēki / vietas → Wikidata (`https://www.wikidata.org/`)
    - Pētnieki → ORCID (`https://orcid.org/`)
    - Iestādes → ROR (`https://ror.org/`)
-4. **Ja jūs nezināt, kura vārdnīca derētu** — runājiet ar VPC datu kuratoriem (`vpc@vpc.gov.lv`) vai jautājiet pa pārtraukumu pasniedzējam.
+4. **Ja jūs nezināt, kura vārdnīca derētu** — runājiet ar VPC datu kuratoriem (`datukuratori@vpc.lv`) vai jautājiet pa pārtraukumu pasniedzējam.
 
 Ja vēlaties pieprasīt, lai dv.dataverse.lv iespējo CVOC konkrētai vārdnīcai (jūsu disciplīnai) — runājiet ar VPC datu kuratoriem; konfigurācija ir 30-minūšu darbs administrātora pusē.
 

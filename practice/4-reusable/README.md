@@ -177,7 +177,7 @@ Trīs soļi, ko varat veikt savai praksei:
 2. **Mainiet T2** — `wd:Q3918` (university) → `wd:Q31855` (research institute). Cik LV pētniecības institūtu pastāv ROR savienojumā?
 3. **Mainiet T3** — pievienojiet `OPTIONAL { ?inst wdt:P856 ?website }` — official website. Cik no 8 vecākajām LV iestādēm ir oficiāla mājaslapa Wikidata ierakstā?
 
-Ja jūsu darbs prasa konkrētu SPARQL prasmi (pētniecības datu atrašana caur ROR identifikatoriem; jūsu disciplīnas datu kopu apkopošana DataCite Commons + Wikidata krustojumā) — runājiet ar VPC datu kuratoriem (`vpc@vpc.gov.lv`) vai sazinieties ar pasniedzēju (`eduards.skvireckis@lnb.lv`).
+Ja jūsu darbs prasa konkrētu SPARQL prasmi (pētniecības datu atrašana caur ROR identifikatoriem; jūsu disciplīnas datu kopu apkopošana DataCite Commons + Wikidata krustojumā) — runājiet ar VPC datu kuratoriem (`datukuratori@vpc.lv`) vai sazinieties ar pasniedzēju (`eduards.skvireckis@lnb.lv`).
 
 ---
 
