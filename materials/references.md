@@ -4,7 +4,7 @@
 
 URL pārbaudīti 2026-06-03. Standartu versijas atbilst kursa norises laikam (2026. gada maijs).
 
-## 1. FAIR principi
+## 1. FAIR principi - test
 
 - Wilkinson, M. D. u.c. (2016). _The FAIR Guiding Principles for scientific data management and stewardship_. Scientific Data 3:160018. <https://doi.org/10.1038/sdata.2016.18> (atvērta piekļuve: <https://pmc.ncbi.nlm.nih.gov/articles/PMC4792175/>) — kanoniskais FAIR raksts; Box 2 definē visus 15 apakšprincipus (F1–F4, A1–A2, I1–I3, R1.1–R1.3).
 - Mons, B. u.c. (2017). _Cloudy, increasingly FAIR_. Information Services and Use 37(1). <https://doi.org/10.3233/ISU-170824> — avots tēzei, ka FAIR principi nav tas pats, kas atvērti dati.
